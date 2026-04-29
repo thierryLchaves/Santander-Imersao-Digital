@@ -63,8 +63,8 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
 - [ ]  <b> [Semana - 01](Analise_de_dados_e_IA_Nivelamento/Semana_01/)  </b>
     - [ ]  <b> [Excel: Domine o Editor de Planilhas](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel/Domine_o_editor_de_planilhas.md/)  </b>
         - <b> Conceitos </b>
-            - [ ] Apresentação
-            - [ ] Conhecendo o trabalho
+            - [X] Apresentação
+            - [X] Conhecendo o trabalho
             - [ ] Conhecendo o `Excel`
             - [ ] Inserindo linhas na planilha
             - [ ] Organizando dados na planilha
