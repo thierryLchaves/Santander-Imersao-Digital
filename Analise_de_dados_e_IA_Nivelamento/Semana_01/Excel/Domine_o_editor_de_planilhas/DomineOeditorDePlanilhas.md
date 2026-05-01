@@ -1,5 +1,18 @@
 # Domine o editor de planilhas 
 
+## Sumário: Domine o editor de planilhas
+
+* [1. Introdução](#1-introdução)
+    * [1.1 Para quem se destina o curso](#11-para-quem-se-destina-o-curso)
+* [2. Conhecendo o trabalho](#2-conhecendo-o-trabalho)
+* [3. Conhecendo o Excel](#3-conhecendo-o-excel)
+* [4. Inserindo linhas na planilha](#4-inserindo-linhas-na-planilha)
+* [5. Organizando dados na planilha](#5-organizando-dados-na-planilha)
+* [6. Edição e formato](#6-edição-e-formato)
+* [7. Faça como eu fiz: digitando dados no Excel](#7-faça-como-eu-fiz-digitando-dados-no-excel)
+* [8. Para saber mais: principais atalhos do Excel](#8-para-saber-mais-principais-atalhos-do-excel)
+* [9. O que aprendemos?](#9-o-que-aprendemos)
+
 ## 1.  Introdução 
 
 ### 1.1 Para quem se destina o curso 
