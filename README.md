@@ -90,6 +90,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
         ```Markdown
             _Itálico_
             __Negrito__
+            <u>Sublinhado</u>
         ```
         - Para delimitações ou tópicos utilizaremos `---` , ao ser realizado o processo de limite ou demarcação de páginas, conforme demonstrado abaixo:
         
@@ -151,13 +152,13 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] Atividades
 
         - <b> Formatação passo a passo </b>
-            - [ ] Preparando o ambiente: *planilha Meteora Ecommerce*
-            - [ ] Formatar como tabela
-            - [ ] Convertendo dados em tabela
-            - [ ] Aplicando formatos
-            - [ ] Inserindo dados em uma planilha formatada
-            - [ ] Faça como fiz: *Formatar como Moeda*
-            - [ ] O que aprendemos ?
+            - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
+            - [X] Formatar como tabela
+            - [X] Convertendo dados em tabela
+            - [X] Aplicando formatos
+            - [X] Inserindo dados em uma planilha formatada
+            - [X] Faça como fiz: *Formatar como Moeda*
+            - [X] O que aprendemos ?
 
         - <b> Fórmulas e funções </b>
             - [ ] Preparando o ambiente: *planilha Meteora Ecommerce*
