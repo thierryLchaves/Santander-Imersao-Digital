@@ -20,7 +20,7 @@ Nele serão arquivados materiais em __`Markdown`__ para notações das aulas, ca
 
 ### 1 Sobre a estrutura 
 ---
-Conforme a estrutura do curso se da em trilhas e módulos, será adotado a seguinte formatação, as serão criadas __8 pastas__ referentes as semanas, cada um conterá outras pastas com a tecnologia, abordada no curso, esses _`Sub Diretórios`_ , seguirão o padrão `Snake_Case`, porém o nome dos arquivos serão em `CamelCase` com a referência da pasta o a aula em questão.   
+Conforme a estrutura do curso se da em trilhas e módulos, será adotado a seguinte formatação, as serão criadas __8 pastas__ referentes as semanas, cada um conterá outras pastas com a tecnologia abordada no curso de forma macro, esses _`Sub Diretórios`_ conterão outras pastas referente as aulas do dia em questão, ambos  _`Sub Diretórios`_ seguirão o padrão `Snake_Case`, porém o nome dos arquivos serão em `CamelCase` com a referência da pasta o a aula em questão.   
 - ### 1.1. Das pastas
     As pastas do curso terão um diretório base nomeado com base na trilha a ser estuada, já o seus *sub-diretórios*, irão se referir as semanas do conteúdo disponibilizado para estudo, 
     e os cursos do diretório terão um outro diretório com o nome ou resumo do curso realizado.
@@ -131,7 +131,8 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             ```
         - Observações
             Essas deverão ser precedidas de `>`, para melhor organização e destaque em página
-
+        - Tipos de arquivo 
+            Será adotado durante as anotações, o modelo de __Inline code__, o que pode ser utilizado nesse repositório tanto para marcar que aquilo se trata de um tipo de arquivo ou linguagem de programação, quanto para demonstrar linhas de código simples ou comandos em uma determinada linguagem, simplificando a utilização do triplo __```__ e nome da linguagem.
 
 ### 2. Lista de conclusão de aulas
 > A medida que forem entendio as trilhas será realizado a criação dos checkbox para conclusão, bem como a adição de sumário.
@@ -140,14 +141,14 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
         - <b> Conceitos </b>
             - [X] Apresentação
             - [X] Conhecendo o trabalho
-            - [ ] Conhecendo o `Excel`
-            - [ ] Inserindo linhas na planilha
-            - [ ] Organizando dados na planilha
-            - [ ] Edição e Formato
-            - [ ] Faça como fiz: *Digitando dados no `Excel`*
-            - [ ] Para saber mais: *Principais atalhos no `Excel`*
-            - [ ] O que aprendemos ? 
-            - [ ] Atividades
+            - [X] Conhecendo o `Excel`
+            - [X] Inserindo linhas na planilha
+            - [X] Organizando dados na planilha
+            - [X] Edição e Formato
+            - [X] Faça como fiz: *Digitando dados no `Excel`*
+            - [X] Para saber mais: *Principais atalhos no `Excel`*
+            - [X] O que aprendemos ? 
+            - [X] Atividades
 
         - <b> Formatação passo a passo </b>
             - [ ] Preparando o ambiente: *planilha Meteora Ecommerce*
