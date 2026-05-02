@@ -135,6 +135,20 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
         - Tipos de arquivo 
             Será adotado durante as anotações, o modelo de __Inline code__, o que pode ser utilizado nesse repositório tanto para marcar que aquilo se trata de um tipo de arquivo ou linguagem de programação, quanto para demonstrar linhas de código simples ou comandos em uma determinada linguagem, simplificando a utilização do triplo __```__ e nome da linguagem.
 
+    #### 1.2.3 Ancora de referência
+    Quando for necessário realizar um ancoragem de resultados, seja para melhor legibilidade de resultados, ou para referências de conteúdos de lista será utilizado o código de links abaixo
+    ```html
+        <details id="ref01">
+            <summary>Clique aqui para expandir (ou acesse via link)</summary>
+                <p>Conteúdo que será revelado automaticamente!</p>
+        </details>
+    ```
+    Esse modelo ira realizar o processo de `collapse`, do conteúdo, o que deverá ser utilizado nos cenários de por exemplo glossário, quando for necessário a referência sobre algum termo de não conhecimento prévio, ou quando for necessário detalhamento oculto sobre algum conteúdo. o código deverá ficar abaixo do texto que contém o termo, e esse não seguirá a premissa de `Inline Code` pois nesses casos adicionaremos informações sobre aquele termo o código em questão, para realizar tal referência utilizaremos o código abaixo:  
+    ```Markdown
+    <a href="#ref01">Ir para o ref01 e expandir</a>
+    ```
+    
+
 ### 2. Lista de conclusão de aulas
 > A medida que forem entendio as trilhas será realizado a criação dos checkbox para conclusão, bem como a adição de sumário.
 - [ ]  <b> [Semana - 01](Analise_de_dados_e_IA_Nivelamento/Semana_01/)  </b>
@@ -161,10 +175,10 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] O que aprendemos ?
 
         - <b> Fórmulas e funções </b>
-            - [ ] Preparando o ambiente: *planilha Meteora Ecommerce*
-            - [ ] Aplicando cálculos
-            - [ ] Calculando o total de vendas
-            - [ ] Tipos de referências 
+            - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
+            - [X] Aplicando cálculos
+            - [X] Calculando o total de vendas
+            - [X] Tipos de referências 
             - [ ] Calculando o valor do desconto
             - [ ] Faça como fiz: *Linha de totais*
             - [ ] Desafio: *Valor do desconto*

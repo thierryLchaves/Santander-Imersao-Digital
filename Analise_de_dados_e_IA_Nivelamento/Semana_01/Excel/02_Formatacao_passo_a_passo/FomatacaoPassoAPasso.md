@@ -2,8 +2,18 @@
 
 
 ## Sumário
+* [1. Preparando o ambiente](#1-preparando-o-ambiente)
+* [2. Formatar como tabela](#2-formatar-como-tabela)
+* [3. Convertendo dados em tabela](#3-convertendo-dados-em-tabela)
+* [4. Aplicando Formatos](#4-aplicando-formatos)
+* [5. Inserindo dados em uma planilha formatada](#5-inserindo-dados-em-uma-planilha-formatada)
+* [6. Faça como eu fiz: Formatar como Moeda](#6-faça-como-eu-fiz-formatar-como-moeda)
+* [7. O que aprendemos](#7-o-que-aprendemos)
 
-## 1. Formatar como tabela
+## 1. Preparando o ambiente
+Para acompanhar o curso com o máximo de aproveitamento, você pode fazer o download da [planilha](src/Meteora%20Ecommerce%20-%20FINAL%20AULA%201.xlsx) que estamos trabalhando para a Loja Meteora
+
+## 2. Formatar como tabela
 O documento a ser trabalhado está disponível [aqui](src/Meteora%20Ecommerce%20-%20FINAL%20AULA%201.xlsx), nesse documento será trabalhado o processo de formatação da planilha, tal documento está sem formatação previa ou demais funcionalidades, e foi baixado através do link da aula, porém para darmos continuidade ao processo, iremos realizar as formatações necessárias, tais como inserção de linha superior antes dos rótulos do arquivo em sí conforme exemplo abaixo:  
 <table style="text-align: center; width: 100%;"> 
 <tr>
@@ -36,7 +46,7 @@ Um dos motivos do marcador de titulo e cabeçalhos, para a tabela, se da ao fato
 </tr>
 </table>
 
-## 2. Convertendo dados em tabela
+## 3. Convertendo dados em tabela
 
 <table style="text-align: center; width: 100%;"> 
 <tr>
@@ -46,7 +56,7 @@ Um dos motivos do marcador de titulo e cabeçalhos, para a tabela, se da ao fato
 </tr>
 </table>
 
-## 3. Aplicando Formatos
+## 4. Aplicando Formatos
 Já que realizamos a duplicação da planilha dentro da nossa pasta de trabalho, iremos agora realizar a formatação da planilha de forma não tabular, ou seja iremos formatar a outra planilha sem aplicação de formatação como tabela, para tal processo utilizaremos, formatações de preenchimento de fundo de célula, formatação de alinhamento, tamanho de fonte e etc...  
 Um ponto que vale ser ressaltado, e que habitualmente é confundidos as bordas da células, como bordas reais, porém na verdade o nome técnico da linhas divisoras apresentadas pelo Excel são linhas de grades, tais linhas podem ser desabilitadas através da guia de menu __Exibir__ desabilitando a flag de linhas de grade, conforme exemplo:  
 
@@ -72,7 +82,7 @@ Outra formatação possível, refere-se a formatação de números, as opções 
 > __DICA:__ É possível realizar a seleção de um intervalo de células de maneira mais rápida e prática, onde ao selecionarmos uma célula em questão e seguramos as teclas de 
 > `CTRL + >SHIFT + ⬇️` (ou para direção desejada), o Excel, irá selecionar o intervalo na direção que você selecionou até o final de onde tenha valor
 
-## 4. Inserindo dados em uma planilha formatada
+## 5. Inserindo dados em uma planilha formatada
 Ao longo dessa aula, estamos trabalhando com dois tipos de formatação ou __(duas planilhas)__, diferentes, uma com formato de tabela, e outra sem o formato de tabela, a primeira ser abordada nesse módulo será a __sem__, para a adição de informações sem o formato de tabela e importante salientar que o que irá definir a formatação nos campos adjacentes as informações prévias da planilha será a seleção do intervalo de valores, ou seja caso estivéssemos realizando a inserção de valores, nas linha 24 da planilha, essas não seriam aplicadas formatações, visto que a seleção realizada anteriormente foi de `A3:D23`, assim como formatações na coluna  `E` também não serão afetadas primariamente. Porém caso realizarmos qualquer edição em uma planilha __com__ formatação de tabela, ao realizarmos por exemplo a adição de uma informação em uma coluna adjacente no intervalo da tabela tal formatação também será aplicada para as demais colunas de forma automática, porém é valido ressaltar que:
 > Todas as alterações que dizem respeito ao formato da tabela serão replicados de forma automática, porém o mesmo não se aplica por exemplo as informações ali contidas, conforme
 > demonstra imagem abaixo:  
@@ -105,7 +115,7 @@ Em casos de inserção de valores dentro da tabela, onde por exemplo o texto cop
 </tr>
 </table>
 
-## 5. Faça como eu fiz: Formatar como Moeda
+## 6. Faça como eu fiz: Formatar como Moeda
 É hora de ação! Vamos treinar o que foi visto na aula para formatar os valores da coluna “Preço Unitário” com o formato de Moeda. E então, vamos colocar a mão na massa?!
 
 - Passo 1: Selecione a coluna que contém as informações de Preço Unitário.
@@ -126,7 +136,7 @@ Em casos de inserção de valores dentro da tabela, onde por exemplo o texto cop
 
 Pronto, os valores da coluna Preço Unitário foram formatados como moeda!
 
-## 6. O que aprendemos
+## 7. O que aprendemos
 <table style="text-align: center; width: 100%;"> 
 <tr>
     <td style="text-align: left;">
