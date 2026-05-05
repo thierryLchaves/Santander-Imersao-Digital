@@ -118,10 +118,10 @@ Pronto, o erro #REF! foi corrigido e o valor do desconto ajustado corretamente!
 
 ## 7. O que aprendemos ?
 Nessa aula, você aprendeu a:
-Utilizar os recursos do comando Imprimir;
-Modificar a orientação do papel ao imprimir;
-Delimitar para que a impressão ocorra em uma página;
-Resolver erros como o erro #REF! no Excel.
+- Utilizar os recursos do comando Imprimir;
+- Modificar a orientação do papel ao imprimir;
+- Delimitar para que a impressão ocorra em uma página;
+- Resolver erros como o erro #REF! no Excel.
 
 <table align="center" style="border-collapse: collapse; margin-left: auto; margin-right: auto;"> 
   <caption><b>Skills do projeto</b></caption>

@@ -20,12 +20,17 @@
 # nome = input("Diga seu nome:")
 # idade = input("Diga sua idade")
 # print(f"Olá {nome}! Você tem {idade} anos !")
-a = int(input("Diga um número: "))
-b = int(input("Diga outro número: "))
-# Operadores Artiméticos +,-,*,/,**
-print(f"A operacação {a} + {b} resulta em {a+b}")
+# a = int(input("Diga um número: "))
+# b = int(input("Diga outro número: "))
+# # Operadores Artiméticos +,-,*,/,**
+# print(f"A operacação {a} + {b} resulta em {a+b}")
 # print(f"A operacação {a}+{b} resulta em {a+b}")
 # print(f"A operacação {a}-{b} resulta em {a-b}")
 # print(f"A operacação {a}*{b} resulta em {a*b}")
 # print(f"A operacação {a}/{b} resulta em {a/b}")
 # print(f"A operacação {a}**{b} resulta em {a**b}")
+
+a = [1, 2, 3]
+b = a
+a = a + [4]
+print(a)
