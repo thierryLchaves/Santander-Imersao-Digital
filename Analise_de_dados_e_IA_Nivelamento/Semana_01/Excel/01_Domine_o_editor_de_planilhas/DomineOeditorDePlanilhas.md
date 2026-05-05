@@ -1,7 +1,6 @@
 # Domine o editor de planilhas 
 
-## Sumário: Domine o editor de planilhas
-
+## Sumário:
 * [1. Introdução](#1-introdução)
     * [1.1 Para quem se destina o curso](#11-para-quem-se-destina-o-curso)
 * [2. Conhecendo o trabalho](#2-conhecendo-o-trabalho)

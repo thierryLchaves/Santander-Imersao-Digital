@@ -179,27 +179,28 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] Aplicando cálculos
             - [X] Calculando o total de vendas
             - [X] Tipos de referências 
-            - [ ] Calculando o valor do desconto
-            - [ ] Faça como fiz: *Linha de totais*
-            - [ ] Desafio: *Valor do desconto*
-            - [ ] O que aprendemos ?
+            - [X] Calculando o valor do desconto
+            - [X] Faça como fiz: *Linha de totais*
+            - [X] Desafio: *Valor do desconto*
+            - [X] O que aprendemos ?
 
-        - <b> Estruturando os dados</b>
-            - [ ] Preparando o ambiente: *planilha Meteora Ecommerce*
-            - [ ] Resolvendo o primeiro desafio
-            - [ ] Estruturando a planilha
-            - [ ] Copiar o estilo ed formatação
-            - [ ] Imprimindo a planilha
-            - [ ] Faça como fiz: *Ajustando o valor de desconto*
-            - [ ] O que aprendemos ?
+        - <b> Estruturando os dados </b>
+            - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
+            - [X] Resolvendo o primeiro desafio
+            - [X] Estruturando a planilha
+            - [X] Copiar o estilo de formatação
+            - [X] Imprimindo a planilha
+            - [x] Faça como fiz: *Ajustando o valor de desconto*
+            - [X] O que aprendemos ?
 
         - <b> Tornando os dados mais visuais </b>
-            - [ ] Preparando o ambiente: *planilha Meteora Ecommerce*
-            - [ ] Criando gráficos
-            - [ ] Ajustando o Design de gráfico
-            - [ ] Adicionar elemento no gráfico
-            - [ ] Faça como fiz: *Alterar o tipo de gráfico*
-            - [ ] O que aprendemos ? 
+            - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
+            - [X] Criando gráficos
+            - [x] Ajustando o Design de gráfico
+            - [X] Adicionar elemento no gráfico
+            - [X] Formatando o gráfico
+            - [X] Faça como fiz: *Alterar o tipo de gráfico*
+            - [X] O que aprendemos ? 
 
         - <b> Compartilhando dados na nuvem </b>
             - [ ] Preparando o ambiente: *planilha Meteora Ecommerce*
