@@ -203,10 +203,10 @@ __Etapas para o desafio:__
 ## 8. O que aprendemos ?
 
 Nessa aula, você aprendeu a:
-Identificar quais são as referências no Excel;
-Utilizar funções como Soma() e Média() para realizar cálculos no Excel;
-Calcular o valor de desconto utilizando a multiplicação no Excel;
-Produzir cálculos de porcentagem no Excel.
+- Identificar quais são as referências no Excel;
+- Utilizar funções como Soma() e Média() para realizar cálculos no Excel;
+- Calcular o valor de desconto utilizando a multiplicação no Excel;
+- Produzir cálculos de porcentagem no Excel.
 
 ---
 <table align="center" style="border-collapse: collapse; margin-left: auto; margin-right: auto;"> 

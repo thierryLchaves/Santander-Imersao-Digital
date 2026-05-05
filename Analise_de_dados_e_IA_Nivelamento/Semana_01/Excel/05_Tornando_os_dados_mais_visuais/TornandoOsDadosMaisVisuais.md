@@ -8,6 +8,7 @@
 * [5. Formatando o gráfico](#5-formatando-o-gráfico)
 * [6. Faça como fiz: Alterar o tipo de gráfico](#6-faça-como-fiz-alterar-o-tipo-de-gráfico)
 * [7. O que aprendemos ?](#7-o-que-aprendemos)
+
 ## 1. Preparando o ambiente: *planilha Meteora Ecommerce*
 Para acompanhar o curso com o máximo de aproveitamento, você pode fazer o download da [planilha](src/Meteora%20Ecommerce%20-%20FINAL%20AULA%204.xlsx) que estamos trabalhando para a Loja Meteora
 
@@ -116,9 +117,9 @@ Pronto, seu gráfico está alterado!
 ## 7. O que aprendemos ? 
 
 Nessa aula, você aprendeu a:
-Utilizar o recurso de gráfico do Excel;
-Produzir gráficos no Excel;
-Elaborar diferentes tipos de formatações no gráfico.
+- Utilizar o recurso de gráfico do Excel;
+- Produzir gráficos no Excel;
+- Elaborar diferentes tipos de formatações no gráfico.
 ---
 <table align="center" style="border-collapse: collapse; margin-left: auto; margin-right: auto;"> 
   <caption><b>Skills do projeto</b></caption>

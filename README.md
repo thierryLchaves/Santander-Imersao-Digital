@@ -152,7 +152,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
 ### 2. Lista de conclusão de aulas
 > A medida que forem entendio as trilhas será realizado a criação dos checkbox para conclusão, bem como a adição de sumário.
 - [ ]  <b> [Semana - 01](Analise_de_dados_e_IA_Nivelamento/Semana_01/)  </b>
-    - [ ]  <b> [Excel: Domine o Editor de Planilhas](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel/Domine_o_editor_de_planilhas.md/)  </b>
+    - [X]  <b> [Excel: Domine o Editor de Planilhas](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel/Domine_o_editor_de_planilhas.md/)  </b>
         - <b> Conceitos </b>
             - [X] Apresentação
             - [X] Conhecendo o trabalho
@@ -203,15 +203,15 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] O que aprendemos ? 
 
         - <b> Compartilhando dados na nuvem </b>
-            - [ ] Preparando o ambiente: *planilha Meteora Ecommerce*
-            - [ ] Compartilhar e Colaborar
-            - [ ] Compartilhar o arquivo na nuvem
-            - [ ] Faça como fiz: *Salvando a planilha na nuvem*
-            - [ ] Explicando o desafio
-            - [ ] Desafio: *Calcular o desconto para caa produto*
-            - [ ] Projeto final o curso
-            - [ ] O que aprendemos ?
-            - [ ] Conclusão
+            - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
+            - [X] Compartilhar e Colaborar
+            - [X] Compartilhar o arquivo na nuvem
+            - [X] Faça como fiz: *Salvando a planilha na nuvem*
+            - [X] Explicando o desafio
+            - [X] Desafio: *Calcular o desconto para caa produto*
+            - [X] Projeto final o curso
+            - [X] O que aprendemos ?
+            - [X] Conclusão
 
     - [ ]  <b> [IA: Explorando o potencial da inteligência Artificial Generativa](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA/Explorando_o_potencial_da_inteligencia_artificial_generativa.md)  </b>
         - <b> Conceitos </b>
