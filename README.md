@@ -153,7 +153,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
 > A medida que forem entendio as trilhas será realizado a criação dos checkbox para conclusão, bem como a adição de sumário.
 - [ ]  <b> [Semana - 01](Analise_de_dados_e_IA_Nivelamento/Semana_01/)  </b>
     - [X]  <b> [Excel: Domine o Editor de Planilhas](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel/Domine_o_editor_de_planilhas.md/)  </b>
-        - <b> Conceitos </b>
+        - [X] <b> Conceitos </b>
             - [X] Apresentação
             - [X] Conhecendo o trabalho
             - [X] Conhecendo o `Excel`
@@ -165,7 +165,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] O que aprendemos ? 
             - [X] Atividades
 
-        - <b> Formatação passo a passo </b>
+        - [X] <b> Formatação passo a passo </b>
             - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
             - [X] Formatar como tabela
             - [X] Convertendo dados em tabela
@@ -174,7 +174,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] Faça como fiz: *Formatar como Moeda*
             - [X] O que aprendemos ?
 
-        - <b> Fórmulas e funções </b>
+        - [X] <b> Fórmulas e funções </b>
             - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
             - [X] Aplicando cálculos
             - [X] Calculando o total de vendas
@@ -184,7 +184,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] Desafio: *Valor do desconto*
             - [X] O que aprendemos ?
 
-        - <b> Estruturando os dados </b>
+        - [X] <b> Estruturando os dados </b>
             - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
             - [X] Resolvendo o primeiro desafio
             - [X] Estruturando a planilha
@@ -193,7 +193,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [x] Faça como fiz: *Ajustando o valor de desconto*
             - [X] O que aprendemos ?
 
-        - <b> Tornando os dados mais visuais </b>
+        - [X] <b> Tornando os dados mais visuais </b>
             - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
             - [X] Criando gráficos
             - [x] Ajustando o Design de gráfico
@@ -202,7 +202,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] Faça como fiz: *Alterar o tipo de gráfico*
             - [X] O que aprendemos ? 
 
-        - <b> Compartilhando dados na nuvem </b>
+        - [X] <b> Compartilhando dados na nuvem </b>
             - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
             - [X] Compartilhar e Colaborar
             - [X] Compartilhar o arquivo na nuvem
@@ -214,39 +214,60 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] Conclusão
 
     - [ ]  <b> [IA: Explorando o potencial da inteligência Artificial Generativa](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA/Explorando_o_potencial_da_inteligencia_artificial_generativa.md)  </b>
-        - <b> Conceitos </b>
+        - [ ] <b> IAs De Texto </b>
             - [ ] Apresentação
             - [ ] Usando o ChatGPT
             - [ ] Descobrindo o Google Gemini
-            - [ ] Lidando com Textos
+            - [ ] Lidando com textos
             - [ ] Aprimorando o contexto
-            - [ ] Mão na massa: *Criando conteúdo para um blog de alimentação saudável*
+            - [ ] Mão na massa: Criando conteúdo para um blog de alimentação saudável
             - [ ] Para saber mais
-            - [ ] O que aprendemos ? 
-            - [ ] Atividades
+            - [ ] O que aprendemos?
 
-        - <b> Modelos de linguagem </b>
-            - [ ] O que é e como funciona um modelo de linguagem ?
-            - [ ] Princípios de Engenharia de prompt
-            - [ ] Análises de prompts no ChatGpt
-            - [ ] Mão na massa: *Criando um post para seu trabalho*
+        - [ ] <b> Modelos de linguagem </b>
+            - [ ] O que é e como funciona um modelo de linguagem
+            - [ ] Princípios da Engenharia de Prompt
+            - [ ] Análise de Prompts no ChatGPT
+            - [ ] Mão na massa: criando um post para seu trabalho
             - [ ] Para saber mais
-            - [ ] O que aprendemos ?
-
-        - <b> IAs para análises </b>
+            - [ ] O que aprendemos?          
+        - [ ] <b> IAs para análises </b>
             - [ ] Análise de documentos
             - [ ] Análise de imagens e vídeos
-            - [ ] Pra saber mais: *Sobre Tokens*
+            - [ ] Para saber mais: Sobre Tokens
             - [ ] Análise de áudios
             - [ ] Trabalhando com dados
-            - [ ] Mão na massa: *Analisando planilha e gerando gráficos*
-            - [ ] Para saber mais: *Mais ferramentas*
-            - [ ] O que aprendemos ?
-
-        - <b> Geradores de imagens </b>
-            - [ ] Bing Imagens e DALL-E
+            - [ ] Mão na massa: analisando planilha e gerando gráficos
+            - [ ] Para saber mais: Mais ferramentas
+            - [ ] O que aprendemos?
+        - [ ] <b> Geradores de imagens </b>
+            - [ ] Bing Images e DALL-E
             - [ ] Midjourney
             - [ ] Prompts para imagens
-            - [ ] Mão na massa: *Completando post com imagens*
-            - [ ] O que aprendemos ?
+            - [ ] Mão na massa: completando post com imagens
+            - [ ] Para saber mais: Outras ferramentas
+            - [ ] O que aprendemos?
             - [ ] Conclusão
+
+---
+<table align="center" style="border-collapse: collapse; margin-left: auto; margin-right: auto;"> 
+  <caption><b>Skills do projeto</b></caption>
+  <tr>
+    <td style="padding: 5px;">
+      <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    </td>
+    <td style="padding: 5px;">
+      <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+    </td>
+    <td style="padding: 5px;">
+      <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+__Titulo:__ Readme
+__Autor:__ Thierry Lucas Chaves  
+__Data de Criação:__ 23-04-2026  
+__Data de Modificação:__ 05-05-2026  
+__Versão:__ "1.1"
