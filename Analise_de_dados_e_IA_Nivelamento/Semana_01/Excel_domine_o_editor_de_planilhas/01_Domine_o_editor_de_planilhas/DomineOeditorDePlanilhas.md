@@ -57,7 +57,7 @@ A versão a ser utilizada para demonstração dos comandos e da planilha em ques
 Um conceito importante a se trabalhar com Excel, e que quando estamos criando um novo arquivo do tipo (`XLS`, ou `XLSL`), quando estamos nos referindo a uma pasta de trabalho, este se refere a um conjunto de planilhas do Excel, a intercessão das linhas e colunas no Excel, formam uma __célula__ o intuito dessa divisão nesses arquivos é que seja possível utilizar as informações de forma isolada.   
 Outro ponto é que dado á essa característica de o Excel, classifica ou demonstra suas informações como as colunas com letras _A,B,C_, e suas linhas em algarismos _1,2,3_, o que possibilita a referência de uma informação por essa combinação, isso fica claro quando por exemplo realizamos a seleção de uma célula com o mouse ou através da navegação em teclado o Excel informa no canto superior esquerdo do arquivo qual é a célula selecionada. 
 
-<table style="text-align: center; width: 100%;"> 
+<table style="text-align: center; width: 50%;"> 
 <tr>
     <td style="text-align: left;">
     <img src="imgs/Exemplo_selecao_celula.png" alt="Exemplo de seleção de célula" width="45%"/>
@@ -78,7 +78,7 @@ e com o mouse direito escolher a opção de inserir.
 <table style="text-align: center; width: 100%;"> 
 <tr>
     <td style="text-align: left;">
-    <img src="imgs/Prova_Questões/Aula_01_Inserindo_Informacoes.png" alt="Questão de Fixação" width="45%"/>
+    <img src="imgs/Prova_Questoes/Aula_01_Inserindo_Informacoes.png" alt="Questão de Fixação" width="45%"/>
     </td>
 </tr>
 </table>
