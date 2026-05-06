@@ -151,9 +151,10 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
 
 ### 2. Lista de conclusão de aulas
 > A medida que forem entendio as trilhas será realizado a criação dos checkbox para conclusão, bem como a adição de sumário.
+
 - [ ]  <b> [Semana - 01](Analise_de_dados_e_IA_Nivelamento/Semana_01/)  </b>
-    - [X]  <b> [Excel: Domine o Editor de Planilhas](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel/Domine_o_editor_de_planilhas.md/)  </b>
-        - [X] <b> Conceitos </b>
+    - [X] <b> [Excel: Domine o Editor de Planilhas](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/)</b>
+        - [X] <b> [Conceitos do Excel](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/01_Domine_o_editor_de_planilhas/DomineOeditorDePlanilhas.md) </b>
             - [X] Apresentação
             - [X] Conhecendo o trabalho
             - [X] Conhecendo o `Excel`
@@ -165,7 +166,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] O que aprendemos ? 
             - [X] Atividades
 
-        - [X] <b> Formatação passo a passo </b>
+        - [X] <b> [Formatação passo a passo](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/02_Formatacao_passo_a_passo/FomatacaoPassoAPasso.md) </b>
             - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
             - [X] Formatar como tabela
             - [X] Convertendo dados em tabela
@@ -174,7 +175,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] Faça como fiz: *Formatar como Moeda*
             - [X] O que aprendemos ?
 
-        - [X] <b> Fórmulas e funções </b>
+        - [X] <b> [Fórmulas e funções](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/03_Formulas_e_Funcoes/FormulasEFuncoes.md) </b>
             - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
             - [X] Aplicando cálculos
             - [X] Calculando o total de vendas
@@ -184,7 +185,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] Desafio: *Valor do desconto*
             - [X] O que aprendemos ?
 
-        - [X] <b> Estruturando os dados </b>
+        - [X] <b> [Estruturando os dados](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/04_Estruturando_os%20_dados/EstruturandoOsDados.MD) </b>
             - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
             - [X] Resolvendo o primeiro desafio
             - [X] Estruturando a planilha
@@ -193,7 +194,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [x] Faça como fiz: *Ajustando o valor de desconto*
             - [X] O que aprendemos ?
 
-        - [X] <b> Tornando os dados mais visuais </b>
+        - [X] <b> [Tornando os dados mais visuais](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/05_Tornando_os_dados_mais_visuais/TornandoOsDadosMaisVisuais.md) </b>
             - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
             - [X] Criando gráficos
             - [x] Ajustando o Design de gráfico
@@ -202,7 +203,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] Faça como fiz: *Alterar o tipo de gráfico*
             - [X] O que aprendemos ? 
 
-        - [X] <b> Compartilhando dados na nuvem </b>
+        - [X] <b> [Compartilhando dados na nuvem](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/06_Compartilhando_dados_na_nuvem/CompartilhandoDadosNaNuvem.md) </b>
             - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
             - [X] Compartilhar e Colaborar
             - [X] Compartilhar o arquivo na nuvem
@@ -213,8 +214,9 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] O que aprendemos ?
             - [X] Conclusão
 
-    - [ ]  <b> [IA: Explorando o potencial da inteligência Artificial Generativa](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA/Explorando_o_potencial_da_inteligencia_artificial_generativa.md)  </b>
-        - [ ] <b> IAs De Texto </b>
+    - [ ]  <b> [IA: Explorando o potencial da inteligência Artificial Generativa](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/)  </b>
+
+        - [ ] <b> [IAs De Texto](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/01_IAs_De_Texto/IAsDeTexto.md) </b>
             - [ ] Apresentação
             - [ ] Usando o ChatGPT
             - [ ] Descobrindo o Google Gemini
@@ -224,14 +226,15 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [ ] Para saber mais
             - [ ] O que aprendemos?
 
-        - [ ] <b> Modelos de linguagem </b>
+        - [ ] <b> [Modelos de linguagem](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/02_Modelos_de_linguagem/ModelosDeLinguagem.md) </b>
             - [ ] O que é e como funciona um modelo de linguagem
             - [ ] Princípios da Engenharia de Prompt
             - [ ] Análise de Prompts no ChatGPT
             - [ ] Mão na massa: criando um post para seu trabalho
             - [ ] Para saber mais
-            - [ ] O que aprendemos?          
-        - [ ] <b> IAs para análises </b>
+            - [ ] O que aprendemos? 
+
+        - [ ] <b> [IAs para análises](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/03_IAs_Para_Analises/IAsParaAnalises.md) </b>
             - [ ] Análise de documentos
             - [ ] Análise de imagens e vídeos
             - [ ] Para saber mais: Sobre Tokens
@@ -240,7 +243,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [ ] Mão na massa: analisando planilha e gerando gráficos
             - [ ] Para saber mais: Mais ferramentas
             - [ ] O que aprendemos?
-        - [ ] <b> Geradores de imagens </b>
+        - [ ] <b> [Geradores de imagens](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/04_Gerando_Imagens/GerandoImagens.md) </b>
             - [ ] Bing Images e DALL-E
             - [ ] Midjourney
             - [ ] Prompts para imagens
@@ -260,7 +263,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
       <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
     </td>
     <td style="padding: 5px;">
-      <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+      <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     </td>
   </tr>
 </table>

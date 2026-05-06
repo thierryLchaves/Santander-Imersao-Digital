@@ -1,4 +1,4 @@
-# Domine o editor de planilhas 
+# Conceitos do Excel
 
 ## Sumário:
 * [1. Introdução](#1-introdução)
@@ -187,8 +187,8 @@ Pensando nisso, recomendamos a leitura e memorização dos que mais você precis
 
 
 ---
-__Titulo:__ Domine o editor de planilhas   
+__Titulo:__ Conceitos do Excel
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 29-04-2026  
-__Data de Modificação:__ 30-04-2026  
+__Data de Modificação:__ 05-04-2026  
 __Versão:__ "1.0"
