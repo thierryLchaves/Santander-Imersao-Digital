@@ -1,7 +1,7 @@
 # Compartilhando dados na nuvem
 
 ## 1. Preparando o ambiente: *planilha Meteora E-commerce*
-Para acompanhar o curso com o máximo de aproveitamento, você pode fazer o download da [planilha](src/Meteora%20Ecommerce%20-%20FINAL%20AULA%205.xlsx) que estamos trabalhando para a Loja Meteora. 
+Para acompanhar o curso com o máximo de aproveitamento, você pode fazer o download da [planilha](db/Meteora%20Ecommerce%20-%20FINAL%20AULA%205.xlsx) que estamos trabalhando para a Loja Meteora. 
 
 ## 2. Compartilhar e Colaborar
 Nessa aula será demonstrado como realizar o compartilhamento da planilha em questão.  

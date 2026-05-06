@@ -11,7 +11,7 @@
 * [7. O que aprendemos](#7-o-que-aprendemos)
 
 ## 1. Preparando o ambiente
-Para acompanhar o curso com o máximo de aproveitamento, você pode fazer o download da [planilha](src/Meteora%20Ecommerce%20-%20FINAL%20AULA%201.xlsx) que estamos trabalhando para a Loja Meteora
+Para acompanhar o curso com o máximo de aproveitamento, você pode fazer o download da [planilha](db/Meteora%20Ecommerce%20-%20FINAL%20AULA%201.xlsx) que estamos trabalhando para a Loja Meteora
 
 ## 2. Formatar como tabela
 O documento a ser trabalhado está disponível [aqui](src/Meteora%20Ecommerce%20-%20FINAL%20AULA%201.xlsx), nesse documento será trabalhado o processo de formatação da planilha, tal documento está sem formatação previa ou demais funcionalidades, e foi baixado através do link da aula, porém para darmos continuidade ao processo, iremos realizar as formatações necessárias, tais como inserção de linha superior antes dos rótulos do arquivo em sí conforme exemplo abaixo:  

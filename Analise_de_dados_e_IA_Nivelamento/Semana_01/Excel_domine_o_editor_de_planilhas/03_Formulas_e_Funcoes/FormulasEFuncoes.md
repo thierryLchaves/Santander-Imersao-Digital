@@ -15,7 +15,7 @@
 * [8. O que aprendemos ?](#8-o-que-aprendemos)
 ---
 ## 1. Preparando o ambiente: planilha Meteora E-commerce
-Para acompanhar o curso com o máximo de aproveitamento, você pode fazer o download da [planilha](src/Meteora%20Ecommerce%20-%20FINAL%20AULA%202.xlsx) que estamos trabalhando para a Loja Meteora
+Para acompanhar o curso com o máximo de aproveitamento, você pode fazer o download da [planilha](db/Meteora%20Ecommerce%20-%20FINAL%20AULA%202.xlsx) que estamos trabalhando para a Loja Meteora
 
 ## 2. Aplicando cálculos
 O desafio primário proposto, é realizar a confecção de uma linha de totais.
