@@ -7,18 +7,20 @@ Nele serão arquivados materiais em __`Markdown`__ para anotações das aulas, c
 
 ## Sumário
 
-* [1. Visão Geral](#1-visão-geral)
-* [2. Estrutura do Repositório](#2-estrutura-do-repositório)
-    * [2.1 Organização das Pastas](#organização-das-pastas)
-    * [2.2 Diretórios Padrão](#diretórios-padrão)
-* [3. Documentação e Padronização](#3-documentação-e-padronização)
-    * [3.1 Estrutura de Rodapé](#31-estrutura-de-rodapé)
-    * [3.2 Estrutura de Demarcação](#32-estrutura-de-demarcação)
-    * [3.3 Exemplos de demarcações e efeitos](#33-exemplos-de-demarcações-e-efeitos)
-    * [3.4 Ancoragem de Referência](#34-ancoragem-de-referência)
-* [4. Nomes dos documentos](#4-nomes-dos-documentos)
-    * [4.1 Marcação de progresso](#41-marcação-de-progresso)
-* [5. Lista de conclusão de aulas](#5-lista-de-conclusão-de-aulas)
+- [Santander Imersão Digital](#santander-imersão-digital)
+  - [Sumário](#sumário)
+  - [1. Visão Geral](#1-visão-geral)
+  - [2. Estrutura do Repositório](#2-estrutura-do-repositório)
+    - [2.1 Organização das Pastas](#21-organização-das-pastas)
+    - [2.2 Diretórios Padrão](#22-diretórios-padrão)
+  - [3. Documentação e Padronização](#3-documentação-e-padronização)
+    - [3.1 Estrutura de Rodapé](#31-estrutura-de-rodapé)
+    - [3.2. Estrutura de Demarcação](#32-estrutura-de-demarcação)
+    - [3.3 Exemplos de demarcações e efeitos](#33-exemplos-de-demarcações-e-efeitos)
+    - [3.4. Ancoragem de Referência](#34-ancoragem-de-referência)
+  - [4. Nomes dos documentos](#4-nomes-dos-documentos)
+    - [4.1 Marcação de progresso](#41-marcação-de-progresso)
+  - [5. Lista de conclusão de aulas](#5-lista-de-conclusão-de-aulas)
 ---
 ## 1. Visão Geral
 Conforme a estrutura do curso se dá em trilhas e módulos, adotaremos a seguinte formatação: serão criadas __8 pastas__ referentes às semanas. Cada uma conterá subdiretórios com a tecnologia abordada no curso de forma macro. Esses subdiretórios conterão outras pastas referentes às aulas do dia em questão. Ambos seguirão o padrão `Snake_Case`, porém os nomes dos arquivos serão em `CamelCase`, com referência à pasta ou à aula em questão.
@@ -55,6 +57,7 @@ As pastas do curso terão um diretório base nomeado com base na trilha a ser es
 
 ---
 ## 3. Documentação e Padronização
+Para facilitar o processo de documentação, foi realizado a criação do [template](templates/template_aula.md), esse contém uma estrutura básica dessa dos documentos, o conteúdo desse template será copiado e editado conforme as anotações aconteçam.
 
 ### 3.1 Estrutura de Rodapé
 Em todo arquivo deverá conter em seu rodapé a seguinte estrutura 
@@ -98,8 +101,8 @@ Para manter a leitura organizada, siga estas convenções ao escrever:
 - __Estrutura de tabela__
 ```Markdown
     Titulo da tabela
-    | | | | | | | <!--Linha divisória do titulo com tabela -->
-    | -- | -- | -- | -- | -- | -- | <!--Quantidade de colunas a serem exibidas -->
+    |     |     |     |     |     |     | <!--Linha divisória do titulo com tabela --> |
+    | --- | --- | --- | --- | --- | --- |<!--Quantidade de colunas a serem exibidas -->
     | A | B | C | D| F | G |
     | 1 | 2 | 3 | 4 | 5 | 6 |
 ```
