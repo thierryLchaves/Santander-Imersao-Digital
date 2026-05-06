@@ -252,15 +252,15 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 
     - [ ]  <b> [IA: Explorando o potencial da inteligência Artificial Generativa](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/)  </b>
 
-        - [ ] <b> [IAs De Texto](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/01_IAs_De_Texto/IAsDeTexto.md) </b>
-            - [ ] Apresentação
-            - [ ] Usando o ChatGPT
-            - [ ] Descobrindo o Google Gemini
-            - [ ] Lidando com textos
-            - [ ] Aprimorando o contexto
-            - [ ] Mão na massa: Criando conteúdo para um blog de alimentação saudável
-            - [ ] Para saber mais
-            - [ ] O que aprendemos?
+        - [X] <b> [IAs De Texto](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/01_IAs_De_Texto/IAsDeTexto.md) </b>
+            - [X] Apresentação
+            - [X] Usando o ChatGPT
+            - [X] Descobrindo o Google Gemini
+            - [X] Lidando com textos
+            - [X] Aprimorando o contexto
+            - [X] Mão na massa: Criando conteúdo para um blog de alimentação saudável
+            - [X] Para saber mais
+            - [X] O que aprendemos?
 
         - [ ] <b> [Modelos de linguagem](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/02_Modelos_de_linguagem/ModelosDeLinguagem.md) </b>
             - [ ] O que é e como funciona um modelo de linguagem
