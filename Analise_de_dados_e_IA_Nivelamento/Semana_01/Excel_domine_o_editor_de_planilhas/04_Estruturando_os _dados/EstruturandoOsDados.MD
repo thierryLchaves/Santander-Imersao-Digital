@@ -11,7 +11,7 @@
 * [7. O que aprendemos ?](#7-o-que-aprendemos)
 ---
 ## 1. Preparando o ambiente: 
-Para acompanhar o curso com o máximo de aproveitamento, você pode fazer o download da [planilha](src/Meteora%20Ecommerce%20-%20FINAL%20AULA%203.xlsx) que estamos trabalhando para a Loja Meteora
+Para acompanhar o curso com o máximo de aproveitamento, você pode fazer o download da [planilha](db/Meteora%20Ecommerce%20-%20FINAL%20AULA%203.xlsx) que estamos trabalhando para a Loja Meteora
 ## 2. Resolvendo o primeiro desafio
 Antes de realizar a descrição da solução do [Desafio da aula anterior](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/dd9f7a41ad093365847c1e38b857291b2d356d31/Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel/03_Formulas_e_Funcoes/FormulasEFuncoes.md), devemos nos atentar algumas dicas importantes sobre o que foi feito no modelo __Sem__ formatação de tabela, para o modelo __Com__ formatação de tabela.  
 

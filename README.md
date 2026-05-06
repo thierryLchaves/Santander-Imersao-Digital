@@ -1,156 +1,189 @@
+<a id="topo"></a>
+
 # Santander Imersão Digital 
 
 Este repositório tem como objetivo Realizar a documentação do material apreendido durante o curso de imersão Digital Santander + Alura.  
-Nele serão arquivados materiais em __`Markdown`__ para notações das aulas, caso necessário será criado um novo repositório com códigos e projetos etc..
-
+Nele serão arquivados materiais em __`Markdown`__ para anotações das aulas, caso necessário será criado um novo repositório com códigos e projetos etc..
 
 ## Sumário
 
-* [1. Sobre a Estrutura](#1-sobre-a-estrutura)
-    * [1.1. Organização das Pastas](#11-das-pastas)
-        * [Estrutura Padrão de Sub-diretórios](#11--estrutura-padrão-de-sub-diretório)
-        * [1.1.1. Diretório de Imagens (imgs)](#111-diretório-de-imagens)
-        * [1.1.2. Diretório de Códigos (src)](#112-diretório-de-códigos)
-        * [1.1.3. Diretório de Dados (db)](#113-diretório-de-dados)
-    * [1.2. Documentação de Anotações](#12-do-documento-de-anotações)
-        * [1.2.1. Estrutura de Rodapé](#121-estrutura-de-rodapé)
-        * [1.2.2. Padronização de Demarcação](#122-estrutura-de-demarcação)
-* [2. Lista de Conclusão de Aulas](#2-lista-de-conclusão-de-aulas)
-    * [2.1. Semana 01 - Análise de Dados e IA](#2-lista-de-conclusão-de-aulas)
-
-### 1 Sobre a estrutura 
+* [1. Visão Geral](#1-visão-geral)
+* [2. Estrutura do Repositório](#2-estrutura-do-repositório)
+    * [2.1 Organização das Pastas](#organização-das-pastas)
+    * [2.2 Diretórios Padrão](#diretórios-padrão)
+* [3. Documentação e Padronização](#3-documentação-e-padronização)
+    * [3.1 Estrutura de Rodapé](#31-estrutura-de-rodapé)
+    * [3.2 Estrutura de Demarcação](#32-estrutura-de-demarcação)
+    * [3.3 Exemplos de demarcações e efeitos](#33-exemplos-de-demarcações-e-efeitos)
+    * [3.4 Ancoragem de Referência](#34-ancoragem-de-referência)
+* [4. Nomes dos documentos](#4-nomes-dos-documentos)
+    * [4.1 Marcação de progresso](#41-marcação-de-progresso)
+* [5. Lista de conclusão de aulas](#5-lista-de-conclusão-de-aulas)
 ---
-Conforme a estrutura do curso se da em trilhas e módulos, será adotado a seguinte formatação, as serão criadas __8 pastas__ referentes as semanas, cada um conterá outras pastas com a tecnologia abordada no curso de forma macro, esses _`Sub Diretórios`_ conterão outras pastas referente as aulas do dia em questão, ambos  _`Sub Diretórios`_ seguirão o padrão `Snake_Case`, porém o nome dos arquivos serão em `CamelCase` com a referência da pasta o a aula em questão.   
-- ### 1.1. Das pastas
-    As pastas do curso terão um diretório base nomeado com base na trilha a ser estuada, já o seus *sub-diretórios*, irão se referir as semanas do conteúdo disponibilizado para estudo, 
-    e os cursos do diretório terão um outro diretório com o nome ou resumo do curso realizado.
-    - #### 1.1.  Estrutura padrão de sub-diretório
-    Em toda pasta deverão conter no mínimo __3__(três) outros sub-diretórios  
-    - #### 1.1.1. Diretório de Imagens
-        __`Diretório de Imagens`__: Este diretório sempre será nomeado de `imgs`, e nele será armazenado os prints utilizados no documento., 
-        as imagens a serem postas nos documentos deverão seguir notação de `HTML`, conforme exemplo:  
-        ```html
-            <table style="text-align: center; width: 100%;"> 
-            <tr>
-                <td style="text-align: left;">
-                <img src="imgs/diagrama_internet.png" alt="Diagrama internetf" width="45%"/>
-                </td>
-            </tr>
-            </table>
-        ```   
-        Esse modelo se provou melhor tanto para apresentação quanto para persistência da informação nos documentos em __`Markdown`__, para além da melhor visualização das imagens e organização caso necessário a inserção de mais de uma imagem para efeitos comparativos e evitar overflow no documento
-    - #### 1.1.2. Diretório de Códigos
-        __`Diretório de código`__:  Este diretório sempre será nomeado de `src`, neste diretório será armazenado os exemplos de códigos feitos nas aulas e seguira a recomendação as boas práticas de  nomeação (sem upper case, com _ entre os nomes, e descrição curta do objetivo do código) 
-    - #### 1.1.3. Diretório de Dados
-        __`Diretório de dados`__: Este diretório sempre será nomeado de `db`, e nele será armazenado os dados complementares a serem usados (arquivos pdf etc..) 
+## 1. Visão Geral
+Conforme a estrutura do curso se dá em trilhas e módulos, adotaremos a seguinte formatação: serão criadas __8 pastas__ referentes às semanas. Cada uma conterá subdiretórios com a tecnologia abordada no curso de forma macro. Esses subdiretórios conterão outras pastas referentes às aulas do dia em questão. Ambos seguirão o padrão `Snake_Case`, porém os nomes dos arquivos serão em `CamelCase`, com referência à pasta ou à aula em questão.
 
-- ### 1.2. Do documento de anotações
-    Os documentos onde serão documentados os conhecimentos passados no curso terão em seu nome o *sub-titulo* do curso, facilitando a melhor compreensão, visto que a mesma tecnologia poderá ser abordada mais de uma vez dentro da trilha.
-    Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusão](#2-lista-de-conclusão-de-aulas) informando que a aulas foi realizada.
+[↑ Voltar ao topo](#topo)
 
-    #### 1.2.1 Estrutura de rodapé
-    Em todo arquivo deverá conter em seu rodapé a seguinte estrutura 
+---
+## 2. Estrutura do Repositório
 
-    ```html 
-        <table align="center" style="border-collapse: collapse; margin-left: auto; margin-right: auto;"> 
-        <caption><b>Skills do projeto</b></caption>
+### 2.1 Organização das Pastas
+As pastas seguem a cronologia das semanas (01 a 08). Cada sub-diretório representa a tecnologia abordada.
+* **Sub-diretórios:** Nomeados em `Snake_Case`.
+* **Arquivos:** Nomeados em `CamelCase` com referência à aula.
+
+### 2.2 Diretórios Padrão
+As pastas do curso terão um diretório base nomeado com base na trilha a ser estudada. Já os seus subdiretórios se referirão às semanas do conteúdo disponibilizado para estudo, e os cursos do diretório terão uma pasta com o nome ou resumo do curso realizado.
+* **`imgs/` (Imagens):** Este diretório sempre será nomeado como `imgs`, e nele serão armazenados os prints utilizados no documento. As imagens a serem postadas nos documentos deverão seguir notação de `HTML`, podendo variar o alinhamento ou a proporção, conforme exemplo:
+    ```html
+        <table style="text-align: center; width: 100%;"> 
         <tr>
-            <td style="padding: 5px;">
-            <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-            </td>
-            <td style="padding: 5px;">
-            <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+            <td style="text-align: left;">
+            <img src="imgs/diagrama_internet.png" alt="Diagrama internet" width="45%"/>
             </td>
         </tr>
         </table>
+    ```   
+    Esse modelo se provou melhor tanto para apresentação quanto para persistência da informação nos documentos em `Markdown`, permitindo a inserção de imagens comparativas sem causar _overflow_ no documento.
 
-        __Titulo:__ Nome do Documento/Módulo
-        __Autor:__ Thierry Lucas Chaves  
-        __Data de Criação:__ DD-MM-YYYY  
-        __Data de Modificação:__ DD-MM-YYYY  
-        __Versão:__ "1.0"
-    ```
-    Os badges serão modificados conforme a linguagem dos códigos a serem utilizados no curso, bem como as datas __DEVEM SER ATUALIZADAS__, seguindo a data de commit's feitos.
-    __PS:__ Caso necessário poderá ser utilizado o [repositório de badges](https://github.com/thierryLchaves/markdown-badges).  
+* **`src/` (Códigos):** Este diretório sempre será nomeado como `src`. Nele serão armazenados os exemplos de códigos feitos nas aulas, seguindo as boas práticas de nomeação (sem *uppercase*, com `_` entre os nomes e descrição curta do objetivo do código).
 
-    #### 1.2.2 Estrutura de demarcação
-    Caso necessário utilizar marcações tabulares, ou demais estruturas de marcações também seguiram uma padronização em suas utilizações, sendo essas listadas abaixo:
+* **`db/` (Dados):** Este diretório sempre será nomeado como `db`, e nele serão armazenados os dados complementares a serem usados (arquivos, PDF, bases de dados, Excel, CSV, etc.).
 
-    - __Estrutura de tabela__
+[↑ Voltar ao topo](#topo)
+
+---
+## 3. Documentação e Padronização
+
+### 3.1 Estrutura de Rodapé
+Em todo arquivo deverá conter em seu rodapé a seguinte estrutura 
+
+```html 
+    <table align="center" style="border-collapse: collapse; margin-left: auto; margin-right: auto;"> 
+    <caption><b>Skills do projeto</b></caption>
+    <tr>
+        <td style="padding: 5px;">
+        <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+        </td>
+        <td style="padding: 5px;">
+        <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
+        </td>
+    </tr>
+    </table>
+
+    __Titulo:__ Nome do Documento/Módulo
+    __Autor:__ Thierry Lucas Chaves  
+    __Data de Criação:__ DD-MM-YYYY  
+    __Data de Modificação:__ DD-MM-YYYY  
+    __Versão:__ "1.0"
+```
+Os badges serão modificados conforme a linguagem dos códigos a serem utilizados no curso, bem como as datas __DEVEM SER ATUALIZADAS__, seguindo a data de commit's feitos.
+__PS:__ Caso necessário poderá ser utilizado o [repositório de badges](https://github.com/thierryLchaves/markdown-badges).  
+
+[↑ Voltar ao topo](#topo)
+
+### 3.2. Estrutura de Demarcação
+Para manter a leitura organizada, siga estas convenções ao escrever:
+
+* **Ênfase:** Use `__negrito__` para termos importantes e `_itálico_` para definições.
+* **Código:** Utilize `código inline` para nomes de arquivos ou comandos rápidos. Para blocos de script, especifique a linguagem (ex: `sql`, `python`) para garantir o *syntax highlighting*.
+* **Listas:** Sempre use o padrão de indentação de 2 espaços para subníveis.
+* **Notas de Destaque:** Use o sinal `>` para citações ou notas de atenção (alertas de erro, dicas de performance).
+
+[↑ Voltar ao topo](#topo)
+
+### 3.3 Exemplos de demarcações e efeitos
+
+- __Estrutura de tabela__
+```Markdown
+    Titulo da tabela
+    | | | | | | | <!--Linha divisória do titulo com tabela -->
+    | -- | -- | -- | -- | -- | -- | <!--Quantidade de colunas a serem exibidas -->
+    | A | B | C | D| F | G |
+    | 1 | 2 | 3 | 4 | 5 | 6 |
+```
+Essa estrutura facilita as tabulações visto que se padronização conforme preenchimento do campo.
+
+- __Marcações__ 
+    - Para marcações de negrito ou itálico deve se utilizar o `_`, conforme exemplo abaixo 
     ```Markdown
-        Titulo da tabela
-        | | | | | | | <!--Linha divisória do titulo com tabela -->
-        | -- | -- | -- | -- | -- | -- | <!--Quantidade de colunas a serem exibidas -->
-        | A | B | C | D| F | G |
-        | 1 | 2 | 3 | 4 | 5 | 6 |
+        _Itálico_
+        __Negrito__
+        <u>Sublinhado</u>
     ```
-    Essa estrutura facilita as tabulações visto que se padronização conforme preenchimento do campo.
-    - __Marcações__ 
-        - Para marcações de negrito ou itálico deve se utilizar o `_`, conforme exemplo abaixo 
-        ```Markdown
-            _Itálico_
-            __Negrito__
-            <u>Sublinhado</u>
-        ```
-        - Para delimitações ou tópicos utilizaremos `---` , ao ser realizado o processo de limite ou demarcação de páginas, conforme demonstrado abaixo:
-        
-        ```Markdown
-            Esse e um exemplo de utilização  
-            ---
-            Segue o conteúdo
-        ```
-        - Listagem  
-            A listas caso necessário serão realizadas utilizando o  processo da utilização de tabulação `TAB`, de onde está o parágrafo precedido de um `-`
-        facilitando assim a organização da notação, conforme demonstrado abaixo:
+- Para delimitações ou tópicos utilizaremos `---` , ao ser realizado o processo de limite ou demarcação de páginas, conforme demonstrado abaixo:
 
-        ```Markdown
-        Lista de exemplo:  
-            - tópico 1
-            - tópico 2
-            - tópico 3
-            - tópico 4
-        ```
-        - Títulos e subtítulos 
-        A estruturação dos  seguinte a premissa abaixo:
+```Markdown
+    Esse e um exemplo de utilização  
+    ---
+    Segue o conteúdo
+```
+- Listagem  
+    A listas caso necessário serão realizadas utilizando o  processo da utilização de tabulação `TAB`, de onde está o parágrafo precedido de um `-`
+facilitando assim a organização da notação, conforme demonstrado abaixo:
 
-        ```Markdown
-        # Título principal (Nome do arquivo)
-        ## Sub texto ou titulo de capitulo 
-        ### Sub titulo ou marcações de tópicos
-        #### Sub divisão do anterior.
-        ```
-        - Exemplos de código:
-            Esse processo será realizado de forma a utilizar o recurso de trecho de código demarcando a linguagem utilizada, em caso de incompatibilidade, não será determinado a linguagem, conforme demonstrado abaixo:
+```Markdown
+Lista de exemplo:  
+    - tópico 1
+    - tópico 2
+    - tópico 3
+    - tópico 4
+```
+- Títulos e subtítulos 
+A estruturação dos  seguinte a premissa abaixo:
 
-            ```Markdown
-           
-            `*3Python
-             def xpto
-            `*3
-            `*3 html
-            etc..
-            ```
-        - Observações
-            Essas deverão ser precedidas de `>`, para melhor organização e destaque em página
-        - Tipos de arquivo 
-            Será adotado durante as anotações, o modelo de __Inline code__, o que pode ser utilizado nesse repositório tanto para marcar que aquilo se trata de um tipo de arquivo ou linguagem de programação, quanto para demonstrar linhas de código simples ou comandos em uma determinada linguagem, simplificando a utilização do triplo __```__ e nome da linguagem.
+```Markdown
+# Título principal (Nome do arquivo)
+## Sub texto ou titulo de capitulo 
+### Sub titulo ou marcações de tópicos
+#### Sub divisão do anterior.
+```
+- Exemplos de código:
+Esse processo será realizado de forma a utilizar o recurso de trecho de código demarcando a linguagem utilizada, em caso de incompatibilidade, não será determinado a linguagem, conforme demonstrado abaixo:
 
-    #### 1.2.3 Ancora de referência
-    Quando for necessário realizar um ancoragem de resultados, seja para melhor legibilidade de resultados, ou para referências de conteúdos de lista será utilizado o código de links abaixo
-    ```html
-        <details id="ref01">
-            <summary>Clique aqui para expandir (ou acesse via link)</summary>
-                <p>Conteúdo que será revelado automaticamente!</p>
-        </details>
-    ```
-    Esse modelo ira realizar o processo de `collapse`, do conteúdo, o que deverá ser utilizado nos cenários de por exemplo glossário, quando for necessário a referência sobre algum termo de não conhecimento prévio, ou quando for necessário detalhamento oculto sobre algum conteúdo. o código deverá ficar abaixo do texto que contém o termo, e esse não seguirá a premissa de `Inline Code` pois nesses casos adicionaremos informações sobre aquele termo o código em questão, para realizar tal referência utilizaremos o código abaixo:  
-    ```Markdown
-    <a href="#ref01">Ir para o ref01 e expandir</a>
-    ```
-    
+```Markdown
 
-### 2. Lista de conclusão de aulas
-> A medida que forem entendio as trilhas será realizado a criação dos checkbox para conclusão, bem como a adição de sumário.
+`*3Python
+    def xpto
+`*3
+`*3 html
+etc..
+```
+- Observações
+Essas deverão ser precedidas de `>`, para melhor organização e destaque em página
+- Tipos de arquivo 
+    Será adotado durante as anotações, o modelo de __Inline code__, o que pode ser utilizado nesse repositório tanto para marcar que aquilo se trata de um tipo de arquivo ou linguagem de programação, quanto para demonstrar linhas de código simples ou comandos em uma determinada linguagem, simplificando a utilização do triplo __```__ e nome da linguagem.
+
+### 3.4. Ancoragem de Referência
+Quando for necessário realizar um ancoragem de resultados, seja para melhor legibilidade de resultados, ou para referências de conteúdos de lista será utilizado o código de links abaixo
+```html
+    <details id="ref01">
+        <summary>Clique aqui para expandir (ou acesse via link)</summary>
+            <p>Conteúdo que será revelado automaticamente!</p>
+    </details>
+```
+Esse modelo realiza o processo de `collapse` do conteúdo. Ele deve ser utilizado em cenários como glossários, quando for necessário definir um termo desconhecido ou detalhar um conteúdo oculto. O código deve ser inserido abaixo do texto que contém o termo. Não seguiremos a premissa de `Inline Code` aqui, pois adicionaremos informações detalhadas sobre o assunto. Para realizar tal referência, utilizaremos o código abaixo:
+```Markdown
+<a href="#ref01">Ir para o ref01 e expandir</a>
+```
+[↑ Voltar ao topo](#topo)
+
+## 4. Nomes dos documentos
+Os documentos onde serão documentados os conhecimentos passados no curso terão em seu nome o mesmo nome do módulo do curso porém utilizando a estrutura de `SnakeCase`, facilitando padronização, e seguindo a definição estabelecida [aqui](#1-visão-geral), para além  disto essa estratégia foi adotada pois facilita a identificação da aula, conforme está estruturado na plataforma do curso.
+
+### 4.1 Marcação de progresso
+Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusão](#5-lista-de-conclusão-de-aulas) informando que a aula foi realizada, essa lista será preenchida seguindo a hierarquia:  
+
+ 1º Referência pasta do módulo da semana,
+ 2º Nome da trilha, e referência a pasta
+ 3º Nome do módulo da trilha e referência ao documento de anotações do módulo
+ 4º Listagem de todos os vídeos do módulo a sendo estudado
+
+ [↑ Voltar ao topo](#topo)
+   
+## 5. Lista de conclusão de aulas
+>À medida que forem estudadas as trilhas será realizado a criação dos checkbox para conclusão, bem como a adição de sumário.
 
 - [ ]  <b> [Semana - 01](Analise_de_dados_e_IA_Nivelamento/Semana_01/)  </b>
     - [X] <b> [Excel: Domine o Editor de Planilhas](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/)</b>
@@ -163,7 +196,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] Edição e Formato
             - [X] Faça como fiz: *Digitando dados no `Excel`*
             - [X] Para saber mais: *Principais atalhos no `Excel`*
-            - [X] O que aprendemos ? 
+            - [X]  O que aprendemos?
             - [X] Atividades
 
         - [X] <b> [Formatação passo a passo](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/02_Formatacao_passo_a_passo/FomatacaoPassoAPasso.md) </b>
@@ -173,7 +206,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] Aplicando formatos
             - [X] Inserindo dados em uma planilha formatada
             - [X] Faça como fiz: *Formatar como Moeda*
-            - [X] O que aprendemos ?
+            - [X] O que aprendemos?
 
         - [X] <b> [Fórmulas e funções](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/03_Formulas_e_Funcoes/FormulasEFuncoes.md) </b>
             - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
@@ -183,7 +216,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] Calculando o valor do desconto
             - [X] Faça como fiz: *Linha de totais*
             - [X] Desafio: *Valor do desconto*
-            - [X] O que aprendemos ?
+            - [X] O que aprendemos?
 
         - [X] <b> [Estruturando os dados](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/04_Estruturando_os%20_dados/EstruturandoOsDados.MD) </b>
             - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
@@ -192,7 +225,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] Copiar o estilo de formatação
             - [X] Imprimindo a planilha
             - [x] Faça como fiz: *Ajustando o valor de desconto*
-            - [X] O que aprendemos ?
+            - [X] O que aprendemos?
 
         - [X] <b> [Tornando os dados mais visuais](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/05_Tornando_os_dados_mais_visuais/TornandoOsDadosMaisVisuais.md) </b>
             - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
@@ -201,7 +234,7 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] Adicionar elemento no gráfico
             - [X] Formatando o gráfico
             - [X] Faça como fiz: *Alterar o tipo de gráfico*
-            - [X] O que aprendemos ? 
+            - [X] O que aprendemos?
 
         - [X] <b> [Compartilhando dados na nuvem](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/06_Compartilhando_dados_na_nuvem/CompartilhandoDadosNaNuvem.md) </b>
             - [X] Preparando o ambiente: *planilha Meteora Ecommerce*
@@ -209,9 +242,9 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [X] Compartilhar o arquivo na nuvem
             - [X] Faça como fiz: *Salvando a planilha na nuvem*
             - [X] Explicando o desafio
-            - [X] Desafio: *Calcular o desconto para caa produto*
-            - [X] Projeto final o curso
-            - [X] O que aprendemos ?
+            - [X] Desafio: *Calcular o desconto para cada produto*
+            - [X] Projeto final do curso
+            - [X] O que aprendemos?
             - [X] Conclusão
 
     - [ ]  <b> [IA: Explorando o potencial da inteligência Artificial Generativa](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/)  </b>
@@ -252,6 +285,8 @@ Conforme a estrutura do curso se da em trilhas e módulos, será adotado a segui
             - [ ] O que aprendemos?
             - [ ] Conclusão
 
+[↑ Voltar ao topo](#topo)
+
 ---
 <table align="center" style="border-collapse: collapse; margin-left: auto; margin-right: auto;"> 
   <caption><b>Skills do projeto</b></caption>
@@ -273,4 +308,4 @@ __Titulo:__ Readme
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 23-04-2026  
 __Data de Modificação:__ 05-05-2026  
-__Versão:__ "1.1"
+__Versão:__ "2.0"

@@ -10,7 +10,7 @@
 * [7. O que aprendemos ?](#7-o-que-aprendemos)
 
 ## 1. Preparando o ambiente: *planilha Meteora Ecommerce*
-Para acompanhar o curso com o máximo de aproveitamento, você pode fazer o download da [planilha](src/Meteora%20Ecommerce%20-%20FINAL%20AULA%204.xlsx) que estamos trabalhando para a Loja Meteora
+Para acompanhar o curso com o máximo de aproveitamento, você pode fazer o download da [planilha](db/Meteora%20Ecommerce%20-%20FINAL%20AULA%204.xlsx) que estamos trabalhando para a Loja Meteora
 
 ## 2. Criando gráficos
 Um dos pontos de suma importância a serem considerados, a confeccionar gráficos com Excel, e realizar o questionamento de __O que se deseja mostrar com esse gráfico?__, outro ponto importante a se atentar e que os gráficos devem sempre seguir a seleção desde o rótulo até o final dos dados, e para seleção de colunas múltiplas, sem que tenham um intervalo contínuo deve ser selecionado as colunas desejadas com a tecla `CTRL` pressionada para devida seleção. 
