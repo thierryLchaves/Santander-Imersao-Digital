@@ -1,6 +1,14 @@
 # IA's DE Texto
 
 ## Sumário
+* [1. Apresentação](#1-apresentação)
+* [2. Usando o ChatGPT](#2-usando-o-chatgpt)
+* [3. Descobrindo o Google Gemini](#3-descobrindo-o-google-gemini)
+* [4. Lidando com textos](#4-lidando-com-textos)
+* [5. Aprimorando o contexto](#5-aprimorando-o-contexto)
+* [6. Mão na massa: Criando conteúdo para um blog de alimentação saudável](#6-mão-na-massa-criando-conteúdo-para-um-blog-de-alimentação-saudável)
+* [7. Para saber mais](#7-para-saber-mais)
+* [8. O que aprendemos?](#o-que-aprendemos)
 
 ## 1. Apresentação
 Nessa trilha será destinada a introdução sobre os modelos de inteligência artificial disponíveis no mercado, sendo eles:
