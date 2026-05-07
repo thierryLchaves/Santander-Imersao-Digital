@@ -4,13 +4,14 @@
 
 ## Introdução
 
-<table style="text-align: center; width: 100%;"> 
+<!-- <table style="text-align: center; width: 100%;"> 
 <tr>
     <td style="text-align: left;">
     <img src="imgs/ex.png" alt="Nome do print" width="45%"/>
     </td>
 </tr>
-</table>
+</table> -->
+
 ---
 
 <table align="center" style="border-collapse: collapse; margin-left: auto; margin-right: auto;"> 
@@ -22,9 +23,6 @@
     <td style="padding: 5px;">
       <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
     </td>
-    <td style="padding: 5px;">
-      <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-    </td>
   </tr>
 </table>
 
@@ -32,6 +30,6 @@
 ---
 __Titulo:__ Conceitos do Excel
 __Autor:__ Thierry Lucas Chaves  
-__Data de Criação:__ 29-04-2026  
-__Data de Modificação:__ 05-04-2026  
+__Data de Criação:__ 06-05-2026  
+__Data de Modificação:__ 06-05-2026  
 __Versão:__ "1.0"

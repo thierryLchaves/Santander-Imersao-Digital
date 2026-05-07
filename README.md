@@ -262,13 +262,13 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
             - [X] Para saber mais
             - [X] O que aprendemos?
 
-        - [ ] <b> [Modelos de linguagem](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/02_Modelos_de_linguagem/ModelosDeLinguagem.md) </b>
-            - [ ] O que é e como funciona um modelo de linguagem
-            - [ ] Princípios da Engenharia de Prompt
-            - [ ] Análise de Prompts no ChatGPT
-            - [ ] Mão na massa: criando um post para seu trabalho
-            - [ ] Para saber mais
-            - [ ] O que aprendemos? 
+        - [X] <b> [Modelos de linguagem](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/02_Modelos_de_linguagem/ModelosDeLinguagem.md) </b>
+            - [X] O que é e como funciona um modelo de linguagem
+            - [X] Princípios da Engenharia de Prompt
+            - [X] Análise de Prompts no ChatGPT
+            - [X] Mão na massa: criando um post para seu trabalho
+            - [X] Para saber mais
+            - [X] O que aprendemos? 
 
         - [ ] <b> [IAs para análises](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/03_IAs_Para_Analises/IAsParaAnalises.md) </b>
             - [ ] Análise de documentos
@@ -310,5 +310,5 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 __Titulo:__ Readme
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 23-04-2026  
-__Data de Modificação:__ 05-05-2026  
+__Data de Modificação:__ 07-05-2026  
 __Versão:__ "2.0"
