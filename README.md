@@ -164,6 +164,11 @@ Quando for necessário realizar um ancoragem de resultados, seja para melhor leg
     <details id="ref01">
         <summary>Clique aqui para expandir (ou acesse via link)</summary>
             <p>Conteúdo que será revelado automaticamente!</p>
+            <ul>
+                <li>l1</li>
+                <li> L2</li>
+                <li> L3</li>
+            </ul>
     </details>
 ```
 Esse modelo realiza o processo de `collapse` do conteúdo. Ele deve ser utilizado em cenários como glossários, quando for necessário definir um termo desconhecido ou detalhar um conteúdo oculto. O código deve ser inserido abaixo do texto que contém o termo. Não seguiremos a premissa de `Inline Code` aqui, pois adicionaremos informações detalhadas sobre o assunto. Para realizar tal referência, utilizaremos o código abaixo:
@@ -188,7 +193,7 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 ## 5. Lista de conclusão de aulas
 >À medida que forem estudadas as trilhas será realizado a criação dos checkbox para conclusão, bem como a adição de sumário.
 
-- [ ]  <b> [Semana - 01](Analise_de_dados_e_IA_Nivelamento/Semana_01/)  </b>
+- [X]  <b> [Semana - 01](Analise_de_dados_e_IA_Nivelamento/Semana_01/)  </b>
     - [X] <b> [Excel: Domine o Editor de Planilhas](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/)</b>
         - [X] <b> [Conceitos do Excel](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/01_Domine_o_editor_de_planilhas/DomineOeditorDePlanilhas.md) </b>
             - [X] Apresentação
@@ -250,7 +255,7 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
             - [X] O que aprendemos?
             - [X] Conclusão
 
-    - [ ]  <b> [IA: Explorando o potencial da inteligência Artificial Generativa](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/)  </b>
+    - [X]  <b> [IA: Explorando o potencial da inteligência Artificial Generativa](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/)  </b>
 
         - [X] <b> [IAs De Texto](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/01_IAs_De_Texto/IAsDeTexto.md) </b>
             - [X] Apresentação
@@ -270,23 +275,38 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
             - [X] Para saber mais
             - [X] O que aprendemos? 
 
-        - [ ] <b> [IAs para análises](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/03_IAs_Para_Analises/IAsParaAnalises.md) </b>
-            - [ ] Análise de documentos
-            - [ ] Análise de imagens e vídeos
-            - [ ] Para saber mais: Sobre Tokens
-            - [ ] Análise de áudios
-            - [ ] Trabalhando com dados
-            - [ ] Mão na massa: analisando planilha e gerando gráficos
-            - [ ] Para saber mais: Mais ferramentas
-            - [ ] O que aprendemos?
-        - [ ] <b> [Geradores de imagens](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/04_Gerando_Imagens/GerandoImagens.md) </b>
-            - [ ] Bing Images e DALL-E
-            - [ ] Midjourney
-            - [ ] Prompts para imagens
-            - [ ] Mão na massa: completando post com imagens
-            - [ ] Para saber mais: Outras ferramentas
-            - [ ] O que aprendemos?
-            - [ ] Conclusão
+        - [X] <b> [IAs para análises](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/03_IAs_Para_Analises/IAsParaAnalises.md) </b>
+            - [X] Análise de documentos
+            - [X] Análise de imagens e vídeos
+            - [X] Para saber mais: Sobre Tokens
+            - [X] Análise de áudios
+            - [X] Trabalhando com dados
+            - [X] Mão na massa: analisando planilha e gerando gráficos
+            - [X] Para saber mais: Mais ferramentas
+            - [X] O que aprendemos?
+        - [X] <b> [Geradores de imagens](Analise_de_dados_e_IA_Nivelamento/Semana_01/IA_explorando_o_potencial_da_inteligencia_artificial_generativa/04_Gerando_Imagens/GerandoImagens.md) </b>
+            - [X] Bing Images e DALL-E
+            - [X] Midjourney
+            - [X] Prompts para imagens
+            - [X] Mão na massa: completando post com imagens
+            - [X] Para saber mais: Outras ferramentas
+            - [X] O que aprendemos?
+            - [X] Conclusão
+- [X]  <b> [Semana - 02](Analise_de_dados_e_IA_Nivelamento/Semana_02/)  </b>
+    - [X] <b> [Funções com Excel: operações matemáticas e filtros](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/)</b>
+        - [Classificando os dados no Excel](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/01_Classificando_os_dados_no_Excel/ClassificandoOsDadosNoExcel.md)
+          - [ ] Apresentação
+          - [ ] Preparando o ambiente: Planilha Meteora E-commerce
+          - [ ] Classificação de Dados
+          - [ ] Classificação por níveis
+          - [ ] Outros tipos de classificação
+
+        - [Aplicando filtros no Excel](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/02_Aplicando_filtros_no_Excel/AplicandoFiltrosNoExcel.MD)
+        - [Cálculos com condição](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/03_Calculos_com_condicao/CalculosComCondicao.md)
+        - [Validação de dados](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/04_Validacao_de_dados/ValidacaoDeDados.md)
+        - [Utilizando outras funções](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/05_Utilizando_outras_funcoes/UtilizandoOutrasfuncoes.md)
+
+
 
 [↑ Voltar ao topo](#topo)
 
