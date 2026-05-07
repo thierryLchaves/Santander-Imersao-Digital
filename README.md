@@ -292,20 +292,102 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
             - [X] Para saber mais: Outras ferramentas
             - [X] O que aprendemos?
             - [X] Conclusão
-- [X]  <b> [Semana - 02](Analise_de_dados_e_IA_Nivelamento/Semana_02/)  </b>
-    - [X] <b> [Funções com Excel: operações matemáticas e filtros](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/)</b>
-        - [Classificando os dados no Excel](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/01_Classificando_os_dados_no_Excel/ClassificandoOsDadosNoExcel.md)
+---
+- [ ]  <b> [Semana - 02](Analise_de_dados_e_IA_Nivelamento/Semana_02/)  </b>
+    - [ ] <b> [Funções com Excel: operações matemáticas e filtros](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/)</b>
+        -[ ] <b> [Classificando os dados no Excel](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/01_Classificando_os_dados_no_Excel/ClassificandoOsDadosNoExcel.md) </b>
           - [ ] Apresentação
           - [ ] Preparando o ambiente: Planilha Meteora E-commerce
           - [ ] Classificação de Dados
           - [ ] Classificação por níveis
           - [ ] Outros tipos de classificação
+          - [ ] Faça como eu fiz: classificando os dados de produtos com tabela
+          - [ ] O que aprendemos?
+        - [ ] <b>[Aplicando filtros no Excel](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/02_Aplicando_filtros_no_Excel/AplicandoFiltrosNoExcel.MD) </b>
+          - [ ] Preparando o ambiente: planilha Meteora E-commerce
+          - [ ] Filtrando os dados
+          - [ ] Filtros específicos
+          - [ ] Filtro de número
+          - [ ] Filtro avançado
+          - [ ] Faça como eu fiz: filtrando os dados por categoria
+          - [ ] O que aprendemos?
 
-        - [Aplicando filtros no Excel](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/02_Aplicando_filtros_no_Excel/AplicandoFiltrosNoExcel.MD)
-        - [Cálculos com condição](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/03_Calculos_com_condicao/CalculosComCondicao.md)
-        - [Validação de dados](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/04_Validacao_de_dados/ValidacaoDeDados.md)
-        - [Utilizando outras funções](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/05_Utilizando_outras_funcoes/UtilizandoOutrasfuncoes.md)
+        - [ ] <b> [Cálculos com condição](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/03_Calculos_com_condicao/CalculosComCondicao.md) </b>
+          - [ ] Preparando o ambiente: planilha Meteora E-commerce
+          - [ ] Contando os produtos
+          - [ ] Contagem condicional
+          - [ ] Contagem de alunos
+          - [ ] Soma condicional
+          - [ ] Operadores lógicos
+          - [ ] Faça como eu fiz: contagem condicional
+          - [ ] O que aprendemos?
+        - [ ] <b> [Validação de dados](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/04_Validacao_de_dados/ValidacaoDeDados.md) </b>
+          - [ ] Preparando o ambiente: planilha Meteora E-commerce
+          - [ ] Explorando a Validação de Dados no Excel
+          - [ ] Criando uma validação de dados
+          - [ ] Tipos de mensagem
+          - [ ] Estilos de célula
+          - [ ] Faça como eu fiz: criando a lista de produtos
+          - [ ] O que aprendemos?
 
+        - [ ] <b> [Utilizando outras funções](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/05_Utilizando_outras_funcoes/UtilizandoOutrasfuncoes.md) </b>
+          - [ ] Preparando o ambiente: planilha Meteora E-commerce
+          - [ ] MÉDIA() e MÉDIASE()
+          - [ ] Média de gastos
+          - [ ] Faça como eu fiz: calculando a média do produtos
+          - [ ] Conhecendo o desafio
+          - [ ] Desafio: refazendo as funções com a tabela produtos
+          - [ ] Projeto final do curso
+          - [ ] O que aprendemos?
+          - [ ] Carreira em Excel
+          - [ ] Conclusão
+          - [ ] Créditos
+
+    - [ ] <b> [Engenharia de Prompt: criando prompts eficazes para IA Generativas](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/)</b>
+        -[ ] <b> [Conceitos iniciais ](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/01_Conceitos_iniciais/ConceitosIniciais.md) </b>
+            - [ ] Apresentação
+            - [ ] Preparando o ambiente
+            - [ ] A proximidade semântica
+            - [ ] Word embeddings
+            - [ ] O que são tokens?
+            - [ ] Faça como eu fiz: explorando probabilidades
+            - [ ] O que aprendemos?
+
+        -[ ] <b> [Engenharia de Prompt](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/02_Engenharia_de_Prompt/EngenhariaDePrompt.md) </b>
+            - [ ] O que é Engenharia de Prompt?
+            - [ ] Para saber mais: motivando a ação
+            - [ ] Preparando o ambiente
+            - [ ] Princípios de criação
+            - [ ] Comunicando instruções
+            - [ ] Faça como eu fiz: princípios fundamentais
+            - [ ] O que aprendemos?
+
+        -[ ] <b> [Few-Shot Prompt](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/03_Few-Shot_Prompt/FewShotPrompt.md) </b>
+            - [ ] Preparando o ambiente
+            - [ ] Entendendo a técnica
+            - [ ] Mais exemplos
+            - [ ] Para saber mais: Few-Shot vs Zero-Shot
+            - [ ] Escolhendo técnicas
+            - [ ] Faça como eu fiz: comandos com exemplos
+            - [ ] O que aprendemos?
+
+        -[ ] <b> [Chain-of-Thougth Prompt](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/04_Chain-of-Thought_Prompt/ChainOfThoughtPrompt.md) </b>
+            - [ ] Preparando o ambiente
+            - [ ] Entendendo a técnica
+            - [ ] Outro exemplo
+            - [ ] Para saber mais: Zero-Shot com Chain of Thought
+            - [ ] Otimizando algoritmos
+            - [ ] Faça como eu fiz: cadeia de pensamentos
+            - [ ] O que aprendemos?
+
+        -[ ] <b> [Mais técnicas de Prompt](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/05_Mais_tecnicas_de_Prompt/MaisTecnicasDePrompt.md) </b>
+            - [ ] Least-to-Most Prompting
+            - [ ] Chain-of-Verification
+            - [ ] Self-Consistency
+            - [ ] Organizando processos
+            - [ ] Mão na massa: aplicando técnicas de Prompt no cotidiano
+            - [ ] O que aprendemos?
+            - [ ] Conclusão
 
 
 [↑ Voltar ao topo](#topo)
