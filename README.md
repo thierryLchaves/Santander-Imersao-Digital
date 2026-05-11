@@ -303,14 +303,14 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
           - [X] Outros tipos de classificação
           - [X] Faça como eu fiz: classificando os dados de produtos com tabela
           - [X] O que aprendemos?
-        - [ ] <b>[Aplicando filtros no Excel](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/02_Aplicando_filtros_no_Excel/AplicandoFiltrosNoExcel.MD) </b>
-          - [ ] Preparando o ambiente: planilha Meteora E-commerce
-          - [ ] Filtrando os dados
-          - [ ] Filtros específicos
-          - [ ] Filtro de número
-          - [ ] Filtro avançado
-          - [ ] Faça como eu fiz: filtrando os dados por categoria
-          - [ ] O que aprendemos?
+        - [X] <b>[Aplicando filtros no Excel](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/02_Aplicando_filtros_no_Excel/AplicandoFiltrosNoExcel.MD) </b>
+          - [X] Preparando o ambiente: planilha Meteora E-commerce
+          - [X] Filtrando os dados
+          - [X] Filtros específicos
+          - [X] Filtro de número
+          - [X] Filtro avançado
+          - [X] Faça como eu fiz: filtrando os dados por categoria
+          - [X] O que aprendemos?
 
         - [ ] <b> [Cálculos com condição](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/03_Calculos_com_condicao/CalculosComCondicao.md) </b>
           - [ ] Preparando o ambiente: planilha Meteora E-commerce
@@ -412,5 +412,5 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 __Titulo:__ Readme
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 23-04-2026  
-__Data de Modificação:__ 07-05-2026  
+__Data de Modificação:__ 11-05-2026  
 __Versão:__ "2.0"
