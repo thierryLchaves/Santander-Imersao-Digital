@@ -1,6 +1,16 @@
 # Classificando os dados no Excel
 
 ## Sumário
+- [Classificando os dados no Excel](#classificando-os-dados-no-excel)
+  - [Sumário](#sumário)
+  - [1. Apresentação](#1-apresentação)
+  - [2. Preparando o ambiente: Planilha Meteora E-commerce](#2-preparando-o-ambiente-planilha-meteora-e-commerce)
+  - [3. Classificação de Dados](#3-classificação-de-dados)
+  - [4. Classificação por níveis](#4-classificação-por-níveis)
+  - [5. Classificando os dados em níveis](#5-classificando-os-dados-em-níveis)
+  - [6. Outros tipos de classificação](#6-outros-tipos-de-classificação)
+  - [7. Faça como eu fiz: classificando os dados de produtos com tabela](#7-faça-como-eu-fiz-classificando-os-dados-de-produtos-com-tabela)
+  - [8. O que aprendemos?](#8-o-que-aprendemos)
 
 ## 1. Apresentação
 Esse curso serve para:
