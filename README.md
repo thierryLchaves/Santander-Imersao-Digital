@@ -295,14 +295,14 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 ---
 - [ ]  <b> [Semana - 02](Analise_de_dados_e_IA_Nivelamento/Semana_02/)  </b>
     - [ ] <b> [Funções com Excel: operações matemáticas e filtros](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/)</b>
-        -[ ] <b> [Classificando os dados no Excel](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/01_Classificando_os_dados_no_Excel/ClassificandoOsDadosNoExcel.md) </b>
-          - [ ] Apresentação
-          - [ ] Preparando o ambiente: Planilha Meteora E-commerce
-          - [ ] Classificação de Dados
-          - [ ] Classificação por níveis
-          - [ ] Outros tipos de classificação
-          - [ ] Faça como eu fiz: classificando os dados de produtos com tabela
-          - [ ] O que aprendemos?
+        -[X] <b> [Classificando os dados no Excel](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/01_Classificando_os_dados_no_Excel/ClassificandoOsDadosNoExcel.md) </b>
+          - [X] Apresentação
+          - [X] Preparando o ambiente: Planilha Meteora E-commerce
+          - [X] Classificação de Dados
+          - [X] Classificação por níveis
+          - [X] Outros tipos de classificação
+          - [X] Faça como eu fiz: classificando os dados de produtos com tabela
+          - [X] O que aprendemos?
         - [ ] <b>[Aplicando filtros no Excel](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/02_Aplicando_filtros_no_Excel/AplicandoFiltrosNoExcel.MD) </b>
           - [ ] Preparando o ambiente: planilha Meteora E-commerce
           - [ ] Filtrando os dados
