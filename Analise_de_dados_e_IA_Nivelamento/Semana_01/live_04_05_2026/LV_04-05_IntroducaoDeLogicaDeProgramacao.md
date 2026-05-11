@@ -3,13 +3,15 @@
 
 ## Sumário: 
 
-* [1. Introdução de lógica de programação (Tipos de variáveis e operações)](#introdução-de-lógica-de-programação-tipos-de-variáveis-e-operações)
-* [2. Introdução de comandos](#introdução-de-comandos)
-    * [2.1 Variáveis](#variáveis)
-        * [2.1.1 Tipos de variáveis](#tipos-de-variáveis)
-        * [2.1.2 Números](#números)
-        * [2.1.3 Operadores Aritméticos](#operadores-aritméticos)
-        * [2.1.4 Input do usuário](#input-do-usuário)
+- [Conteúdo Live 04/05/2026](#conteúdo-live-04052026)
+  - [Introdução de lógica de programação (Tipos de variáveis e operações)](#introdução-de-lógica-de-programação-tipos-de-variáveis-e-operações)
+  - [Sumário:](#sumário)
+- [Introdução de comandos](#introdução-de-comandos)
+  - [Variáveis](#variáveis)
+    - [Tipos de variáveis](#tipos-de-variáveis)
+    - [Números](#números)
+    - [Operadores Aritméticos](#operadores-aritméticos)
+      - [Input do usuário](#input-do-usuário)
 
 Conforme descrito um algorítimo e uma sequências de passos pre-determinado que se tem um __input__ e pelo passos dados se tem um __output__.  
 Um dos exemplos que podemos ter e de ordenação, e laço de repetição demonstrado passo a passo conforme exemplo abaixo:  
