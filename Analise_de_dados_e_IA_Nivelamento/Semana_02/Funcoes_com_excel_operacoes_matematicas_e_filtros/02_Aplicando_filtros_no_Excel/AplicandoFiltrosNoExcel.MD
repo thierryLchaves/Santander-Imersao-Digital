@@ -1,6 +1,15 @@
 # Aplicando Filtros No Excel
 
-## Sumário
+## Sumário: 
+- [Aplicando Filtros No Excel](#aplicando-filtros-no-excel)
+  - [Sumário:](#sumário)
+  - [1. Preparando o ambiente: planilha Meteora E-commerce](#1-preparando-o-ambiente-planilha-meteora-e-commerce)
+  - [2. Filtrando os dados](#2-filtrando-os-dados)
+  - [3. Filtros específicos](#3-filtros-específicos)
+  - [4. Filtro de número](#4-filtro-de-número)
+  - [5. Filtro avançado](#5-filtro-avançado)
+  - [6. Faça como eu fiz: filtrando os dados por categoria](#6-faça-como-eu-fiz-filtrando-os-dados-por-categoria)
+  - [7. O que aprendemos?](#7-o-que-aprendemos)
 
 ## 1. Preparando o ambiente: planilha Meteora E-commerce
 Queremos garantir que você aproveite ao máximo o nosso curso e alcance todo o seu potencial. Por isso, estamos disponibilizando uma ferramenta essencial para auxiliá-lo nessa jornada: a [planilha](db/Meteora%20Ecommerce%20-%20FINAL%20AULA%201.xlsx) que estamos utilizando durante o curso.
