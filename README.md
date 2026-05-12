@@ -312,15 +312,15 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
           - [X] Faça como eu fiz: filtrando os dados por categoria
           - [X] O que aprendemos?
 
-        - [ ] <b> [Cálculos com condição](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/03_Calculos_com_condicao/CalculosComCondicao.md) </b>
-          - [ ] Preparando o ambiente: planilha Meteora E-commerce
-          - [ ] Contando os produtos
-          - [ ] Contagem condicional
-          - [ ] Contagem de alunos
-          - [ ] Soma condicional
-          - [ ] Operadores lógicos
-          - [ ] Faça como eu fiz: contagem condicional
-          - [ ] O que aprendemos?
+        - [X] <b> [Cálculos com condição](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/03_Calculos_com_condicao/CalculosComCondicao.md) </b>
+          - [X] Preparando o ambiente: planilha Meteora E-commerce
+          - [X] Contando os produtos
+          - [X] Contagem condicional
+          - [X] Contagem de alunos
+          - [X] Soma condicional
+          - [X] Operadores lógicos
+          - [X] Faça como eu fiz: contagem condicional
+          - [X] O que aprendemos?
         - [ ] <b> [Validação de dados](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/04_Validacao_de_dados/ValidacaoDeDados.md) </b>
           - [ ] Preparando o ambiente: planilha Meteora E-commerce
           - [ ] Explorando a Validação de Dados no Excel
