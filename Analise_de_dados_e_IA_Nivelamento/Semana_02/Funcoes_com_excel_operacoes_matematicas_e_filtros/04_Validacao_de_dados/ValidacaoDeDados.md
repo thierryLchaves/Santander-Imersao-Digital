@@ -1,6 +1,16 @@
 # Operações matemáticas e filtros  
 
-## Sumário
+## Sumário:
+
+- [Operações matemáticas e filtros](#operações-matemáticas-e-filtros)
+  - [Sumário:](#sumário)
+  - [1. Preparando o ambiente: planilha Meteora E-commerce](#1-preparando-o-ambiente-planilha-meteora-e-commerce)
+  - [2. Explorando a Validação de Dados no Excel](#2-explorando-a-validação-de-dados-no-excel)
+  - [3. Criando uma validação de dados.](#3-criando-uma-validação-de-dados)
+  - [4. Tipos de mensagem](#4-tipos-de-mensagem)
+  - [5. Estilos de célula](#5-estilos-de-célula)
+  - [6. Faça como eu fiz: criando a lista de produtos](#6-faça-como-eu-fiz-criando-a-lista-de-produtos)
+  - [7. O que aprendemos?](#7-o-que-aprendemos)
 
 ## 1. Preparando o ambiente: planilha Meteora E-commerce
 Para acompanhar o curso com o máximo de aproveitamento, você pode fazer o download da [planilha](db/Meteora%20Ecommerce%20-%20FINAL%20AULA%203.xlsx) que estamos trabalhando no curso.

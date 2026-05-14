@@ -1,6 +1,16 @@
 # Cálculos com condição
 
-## Sumário
+## Sumário: 
+- [Cálculos com condição](#cálculos-com-condição)
+  - [Sumário:](#sumário)
+  - [1. Preparando o ambiente: planilha Meteora E-commerce](#1-preparando-o-ambiente-planilha-meteora-e-commerce)
+  - [2. Contando os produtos](#2-contando-os-produtos)
+  - [3. Contagem condicional](#3-contagem-condicional)
+  - [4. Contagem de alunos](#4-contagem-de-alunos)
+  - [5. Soma condicional](#5-soma-condicional)
+  - [6. Operadores lógicos](#6-operadores-lógicos)
+  - [7. Faça como eu fiz: contagem condicional](#7-faça-como-eu-fiz-contagem-condicional)
+  - [8. O que aprendemos?](#8-o-que-aprendemos)
 
 ## 1. Preparando o ambiente: planilha Meteora E-commerce
 Para acompanhar o curso com o máximo de aproveitamento, você pode fazer o download da [planilha](db/Meteora%20Ecommerce%20-%20FINAL%20AULA%202.xlsx) que estamos trabalhando no curso.
