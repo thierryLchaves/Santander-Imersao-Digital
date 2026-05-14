@@ -298,7 +298,7 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 ---
 
 ### [Semana - 02](Analise_de_dados_e_IA_Nivelamento/Semana_02/)
-- [ ] **[Funções com Excel: operações matemáticas e filtros](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/)**
+- [x] **[Funções com Excel: operações matemáticas e filtros](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/)**
     - [x] **[Classificando os dados no Excel](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/01_Classificando_os_dados_no_Excel/ClassificandoOsDadosNoExcel.md)**
       - [x] Apresentação
       - [x] Preparando o ambiente: Planilha Meteora E-commerce
@@ -335,18 +335,18 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
       - [x] Faça como eu fiz: criando a lista de produtos
       - [x] O que aprendemos?
 
-    - [ ] **[Utilizando outras funções](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/05_Utilizando_outras_funcoes/UtilizandoOutrasfuncoes.md)**
+    - [x] **[Utilizando outras funções](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/05_Utilizando_outras_funcoes/UtilizandoOutrasfuncoes.md)**
       - [x] Preparando o ambiente: planilha Meteora E-commerce
-      - [ ] MÉDIA() e MÉDIASE()
-      - [ ] Média de gastos
-      - [ ] Faça como eu fiz: calculando a média do produtos
-      - [ ] Conhecendo o desafio
-      - [ ] Desafio: refazendo as funções com a tabela produtos
-      - [ ] Projeto final do curso
-      - [ ] O que aprendemos?
-      - [ ] Carreira em Excel
-      - [ ] Conclusão
-      - [ ] Créditos
+      - [x] MÉDIA() e MÉDIASE()
+      - [x] Média de gastos
+      - [x] Faça como eu fiz: calculando a média do produtos
+      - [x] Conhecendo o desafio
+      - [x] Desafio: refazendo as funções com a tabela produtos
+      - [x] Projeto final do curso
+      - [x] O que aprendemos?
+      - [x] Carreira em Excel
+      - [x] Conclusão
+      - [x] Créditos
 
 - [ ] **[Engenharia de Prompt: criando prompts eficazes para IA Generativas](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/)**
     - [ ] **[Conceitos iniciais ](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/01_Conceitos_iniciais/ConceitosIniciais.md)**
@@ -417,5 +417,5 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 __Titulo:__ Readme
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 23-04-2026  
-__Data de Modificação:__ 12-05-2026  
+__Data de Modificação:__ 14-05-2026  
 __Versão:__ "2.1"
