@@ -188,5 +188,5 @@ Nesta aula aprendemos sobre funções de contagem contagem sendo elas condiciona
 __Titulo:__ Cálculos com condição
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 12-05-2026  
-__Data de Modificação:__ 12-05-2026  
+__Data de Modificação:__ 14-05-2026  
 __Versão:__ "1.0"
