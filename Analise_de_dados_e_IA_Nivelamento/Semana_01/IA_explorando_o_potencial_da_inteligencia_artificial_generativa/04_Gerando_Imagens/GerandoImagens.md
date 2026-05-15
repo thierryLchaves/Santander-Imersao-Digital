@@ -1,6 +1,15 @@
 # Gerando Imagens
 
-## Sumário
+## Sumário:
+- [Gerando Imagens](#gerando-imagens)
+  - [Sumário:](#sumário)
+  - [1. Bing Images e DALL-E](#1-bing-images-e-dall-e)
+  - [2. Midjourney](#2-midjourney)
+  - [3. Prompts para imagens](#3-prompts-para-imagens)
+  - [4. Mão na massa: completando post com imagens](#4-mão-na-massa-completando-post-com-imagens)
+  - [5. Para saber mais: Outras ferramentas](#5-para-saber-mais-outras-ferramentas)
+  - [6. O que aprendemos?](#6-o-que-aprendemos)
+  - [7. Conclusão](#7-conclusão)
 
 ## 1. Bing Images e DALL-E
 No decorrer desse curso realizamos a exploração primária de modelos multimodais ou seja modelos que podem trabalhar com diferentes tipos de dados (Imagens, textos, vídeos, arquivos etc..)
@@ -91,5 +100,5 @@ Refaça as atividades, faça os exercícios extras e continue explorando essas f
 __Titulo:__ Gerando Imagens
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 07-05-2026  
-__Data de Modificação:__ 07-05-2026  
+__Data de Modificação:__ 14-05-2026  
 __Versão:__ "1.0"
