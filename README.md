@@ -358,14 +358,14 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Faça como eu fiz: explorando probabilidades
         - [x] O que aprendemos?
 
-    - [ ] **[Engenharia de Prompt](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/02_Engenharia_de_Prompt/EngenhariaDePrompt.md)**
-        - [ ] O que é Engenharia de Prompt?
-        - [ ] Para saber mais: motivando a ação
-        - [ ] Preparando o ambiente
-        - [ ] Princípios de criação
-        - [ ] Comunicando instruções
-        - [ ] Faça como eu fiz: princípios fundamentais
-        - [ ] O que aprendemos?
+    - [x] **[Engenharia de Prompt](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/02_Engenharia_de_Prompt/EngenhariaDePrompt.md)**
+        - [x] O que é Engenharia de Prompt?
+        - [x] Para saber mais: motivando a ação
+        - [x] Preparando o ambiente
+        - [x] Princípios de criação
+        - [x] Comunicando instruções
+        - [x] Faça como eu fiz: princípios fundamentais
+        - [x] O que aprendemos?
 
     - [ ] **[Few-Shot Prompt](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/03_Few-Shot_Prompt/FewShotPrompt.md)**
         - [ ] Preparando o ambiente
