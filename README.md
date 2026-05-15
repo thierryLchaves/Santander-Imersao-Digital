@@ -349,14 +349,14 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
       - [x] Créditos
 
 - [ ] **[Engenharia de Prompt: criando prompts eficazes para IA Generativas](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/)**
-    - [ ] **[Conceitos iniciais ](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/01_Conceitos_iniciais/ConceitosIniciais.md)**
-        - [ ] Apresentação
-        - [ ] Preparando o ambiente
-        - [ ] A proximidade semântica
-        - [ ] Word embeddings
-        - [ ] O que são tokens?
-        - [ ] Faça como eu fiz: explorando probabilidades
-        - [ ] O que aprendemos?
+    - [x] **[Conceitos iniciais ](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/01_Conceitos_iniciais/ConceitosIniciais.md)**
+        - [x] Apresentação
+        - [x] Preparando o ambiente
+        - [x] A proximidade semântica
+        - [x] Word embeddings
+        - [x] O que são tokens?
+        - [x] Faça como eu fiz: explorando probabilidades
+        - [x] O que aprendemos?
 
     - [ ] **[Engenharia de Prompt](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/02_Engenharia_de_Prompt/EngenhariaDePrompt.md)**
         - [ ] O que é Engenharia de Prompt?
