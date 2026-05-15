@@ -48,7 +48,7 @@ Para essa atividade, é possível utilizar o [AI Studio](https://aistudio.google
 
 ## 3. A proximidade semântica
 A primeira coisa quando falamos sobre __o que é um modelo de linguagem__ `LLM`, atualmente associamos o termo em questão com as IAS disponíveis no mercado, essas por sua vez foram treinadas com uma grande amostragem de dados, quase o conteúdo completo da internet,porém quando analisamos o seu comportamento esses modelos funcionam como um modelo estatístico mais complexo, para exemplificar melhor vamos supor o seguinte cenário, quando em português-br nos conjugamos a frase:  
-> Eu gosto de pizza, quase sempre após a utilização do gosto temos a preposição da palavra `DE`, porém em outros idiomas essa preposição não existes
+> Eu gosto de pizza, quase sempre após a utilização do gosto temos a preposição da palavra `DE`, porém em outros idiomas essa preposição não existentes
 > ```text
 > Eu gosto de pizza
 > I like pizza. 
