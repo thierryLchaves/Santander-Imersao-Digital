@@ -348,7 +348,7 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
       - [x] Conclusão
       - [x] Créditos
 
-- [ ] **[Engenharia de Prompt: criando prompts eficazes para IA Generativas](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/)**
+- [x] **[Engenharia de Prompt: criando prompts eficazes para IA Generativas](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/)**
     - [x] **[Conceitos iniciais ](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/01_Conceitos_iniciais/ConceitosIniciais.md)**
         - [x] Apresentação
         - [x] Preparando o ambiente
@@ -367,32 +367,32 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Faça como eu fiz: princípios fundamentais
         - [x] O que aprendemos?
 
-    - [ ] **[Few-Shot Prompt](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/03_Few-Shot_Prompt/FewShotPrompt.md)**
-        - [ ] Preparando o ambiente
-        - [ ] Entendendo a técnica
-        - [ ] Mais exemplos
-        - [ ] Para saber mais: Few-Shot vs Zero-Shot
-        - [ ] Escolhendo técnicas
-        - [ ] Faça como eu fiz: comandos com exemplos
-        - [ ] O que aprendemos?
+    - [x] **[Few-Shot Prompt](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/03_Few-Shot_Prompt/FewShotPrompt.md)**
+        - [x] Preparando o ambiente
+        - [x] Entendendo a técnica
+        - [x] Mais exemplos
+        - [x] Para saber mais: Few-Shot vs Zero-Shot
+        - [x] Escolhendo técnicas
+        - [x] Faça como eu fiz: comandos com exemplos
+        - [x] O que aprendemos?
 
-    - [ ] **[Chain-of-Thougth Prompt](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/04_Chain-of-Thought_Prompt/ChainOfThoughtPrompt.md)**
-        - [ ] Preparando o ambiente
-        - [ ] Entendendo a técnica
-        - [ ] Outro exemplo
-        - [ ] Para saber mais: Zero-Shot com Chain of Thought
-        - [ ] Otimizando algoritmos
-        - [ ] Faça como eu fiz: cadeia de pensamentos
-        - [ ] O que aprendemos?
+    - [x] **[Chain-of-Thougth Prompt](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/04_Chain-of-Thought_Prompt/ChainOfThoughtPrompt.md)**
+        - [x] Preparando o ambiente
+        - [x] Entendendo a técnica
+        - [x] Outro exemplo
+        - [x] Para saber mais: Zero-Shot com Chain of Thought
+        - [x] Otimizando algoritmos
+        - [x] Faça como eu fiz: cadeia de pensamentos
+        - [x] O que aprendemos?
 
-    - [ ] **[Mais técnicas de Prompt](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/05_Mais_tecnicas_de_Prompt/MaisTecnicasDePrompt.md)**
-        - [ ] Least-to-Most Prompting
-        - [ ] Chain-of-Verification
-        - [ ] Self-Consistency
-        - [ ] Organizando processos
-        - [ ] Mão na massa: aplicando técnicas de Prompt no cotidiano
-        - [ ] O que aprendemos?
-        - [ ] Conclusão
+    - [x] **[Mais técnicas de Prompt](Analise_de_dados_e_IA_Nivelamento/Semana_02/Engenharia_de_Prompt_criando_prompts_eficazes_para_IA_Generativa/05_Mais_tecnicas_de_Prompt/MaisTecnicasDePrompt.md)**
+        - [x] Least-to-Most Prompting
+        - [x] Chain-of-Verification
+        - [x] Self-Consistency
+        - [x] Organizando processos
+        - [x] Mão na massa: aplicando técnicas de Prompt no cotidiano
+        - [x] O que aprendemos?
+        - [x] Conclusão
 
 
 [↑ Voltar ao topo](#topo)
