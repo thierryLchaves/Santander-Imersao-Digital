@@ -518,5 +518,5 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 __Titulo:__ Readme
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 23-04-2026  
-__Data de Modificação:__ 18-05-2026  
+__Data de Modificação:__ 17-05-2026  
 __Versão:__ "2.2"
