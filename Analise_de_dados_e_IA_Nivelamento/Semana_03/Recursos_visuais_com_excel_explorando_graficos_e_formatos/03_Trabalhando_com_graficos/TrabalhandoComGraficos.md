@@ -1,8 +1,33 @@
+<a id="topo"></a>
+
 # Trabalhando com gráficos
 
 ## Sumário
+- [Trabalhando com gráficos](#trabalhando-com-gráficos)
+  - [Sumário](#sumário)
+  - [1. Projeto da aula anterior](#1-projeto-da-aula-anterior)
+  - [2. Criando um gráfico de barras](#2-criando-um-gráfico-de-barras)
+  - [3. Somando os dados mensais](#3-somando-os-dados-mensais)
+  - [4. Somando com uma condição](#4-somando-com-uma-condição)
+  - [5. Gráfico de combinação](#5-gráfico-de-combinação)
+  - [6. Faça como eu fiz: gráfico de combinação](#6-faça-como-eu-fiz-gráfico-de-combinação)
+  - [7. O que aprendemos?](#7-o-que-aprendemos)
 
-## Introdução
+---
+
+## 1. Projeto da aula anterior
+
+## 2. Criando um gráfico de barras
+
+## 3. Somando os dados mensais
+
+## 4. Somando com uma condição
+
+## 5. Gráfico de combinação
+
+## 6. Faça como eu fiz: gráfico de combinação
+
+## 7. O que aprendemos?
 
 <!-- <table style="text-align: center; width: 100%;"> 
 <tr>

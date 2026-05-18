@@ -1,8 +1,36 @@
+<a id="topo"></a>
+
 # Estratégias para textos longos
 
 ## Sumário
+- [Estratégias para textos longos](#estratégias-para-textos-longos)
+  - [Sumário](#sumário)
+  - [1. Trabalhando com textos longos](#1-trabalhando-com-textos-longos)
+  - [2. Tentando resumir um texto com muitos caracteres](#2-tentando-resumir-um-texto-com-muitos-caracteres)
+  - [3. Trabalhando com textos longos: system e message](#3-trabalhando-com-textos-longos-system-e-message)
+  - [4. Para saber mais: o que é a OpenAI Playground?](#4-para-saber-mais-o-que-é-a-openai-playground)
+  - [5. Desafio: resumindo um texto longo](#5-desafio-resumindo-um-texto-longo)
+  - [6. O que aprendemos?](#6-o-que-aprendemos)
+  - [7. Conclusão](#7-conclusão)
+  - [8. Créditos](#8-créditos)
 
-## Introdução
+---
+
+## 1. Trabalhando com textos longos
+
+## 2. Tentando resumir um texto com muitos caracteres
+
+## 3. Trabalhando com textos longos: system e message
+
+## 4. Para saber mais: o que é a OpenAI Playground?
+
+## 5. Desafio: resumindo um texto longo
+
+## 6. O que aprendemos?
+
+## 7. Conclusão
+
+## 8. Créditos
 
 <!-- <table style="text-align: center; width: 100%;"> 
 <tr>
