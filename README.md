@@ -23,6 +23,7 @@ Nele serão arquivados materiais em __`Markdown`__ para anotações das aulas, c
   - [5. Lista de conclusão de aulas](#5-lista-de-conclusão-de-aulas)
     - [Semana - 01](#semana---01)
     - [Semana - 02](#semana---02)
+    - [Semana - 03](#semana---03)
 ---
 ## 1. Visão Geral
 Conforme a estrutura do curso se dá em trilhas e módulos, adotaremos a seguinte formatação: serão criadas __8 pastas__ referentes às semanas. Cada uma conterá subdiretórios com a tecnologia abordada no curso de forma macro. Esses subdiretórios conterão outras pastas referentes às aulas do dia em questão. Ambos seguirão o padrão `Snake_Case`, porém os nomes dos arquivos serão em `CamelCase`, com referência à pasta ou à aula em questão.
@@ -393,7 +394,99 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Mão na massa: aplicando técnicas de Prompt no cotidiano
         - [x] O que aprendemos?
         - [x] Conclusão
+### [Semana - 03](Analise_de_dados_e_IA_Nivelamento/Semana_03/)
+- [ ] **[Recursos Visuais com Excel: explorando gráficos e formatos](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/)**
+    - [ ] **[Formatação Condicional](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/01_Formatacao_condicional/FormatacaoCondicional.md)**
+        - [ ] Apresentação
+        - [ ] Preparando o ambiente: planilha Meteora E-commerce
+        - [ ] Conhecendo o trabalho a ser feito
+        - [ ] Destaque com formatação condicional
+        - [ ] Conjunto de ícones e barras
+        - [ ] Classificando os dados em níveis
+        - [ ] Faça como eu fiz: conjunto de ícones
+        - [ ] O que aprendemos?
 
+    - [ ] **[Estruturando o dashboard](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/02_Estruturando_o_dashboard/EstruturandoODashboard.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Estruturando o painel
+        - [ ] Criando indicadores
+        - [ ] Somando com uma condição
+        - [ ] Preparando os dados
+        - [ ] Faça como eu fiz: calculando os indicadores
+        - [ ] O que aprendemos?
+
+    - [ ] **[Trabalhando com gráficos](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/03_Trabalhando_com_graficos/TrabalhandoComGraficos.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Criando um gráfico de barras
+        - [ ] Somando os dados mensais
+        - [ ] Somando com uma condição
+        - [ ] Gráfico de combinação
+        - [ ] Faça como eu fiz: gráfico de combinação
+        - [ ] O que aprendemos?
+
+    - [ ] **[Gráficos de relógio](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/04_Graficos_de_relogio/GraficosDeRelogio.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Criando o gráfico de rosca
+        - [ ] Trabalhando com porcentagem
+        - [ ] Percentual de vendas
+        - [ ] Recursos de formatação
+        - [ ] Faça como eu fiz: gráfico de rosca
+        - [ ] Desafio: inserir a caixa de texto
+        - [ ] O que aprendemos?
+
+    - [ ] **[Concluindo o dashboard](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/05_Concluindo_o_dashboard/ConcluindoODashboard.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Procura de valores
+        - [ ] Diferenciando as fórmulas
+        - [ ] Faça como eu fiz: corrigindo os valores na coluna ''Total''
+        - [ ] Explicando o desafio
+        - [ ] Desafio: alterando o tipo do gráfico
+        - [ ] Projeto final do curso
+        - [ ] O que aprendemos?
+        - [ ] Conclusão
+        - [ ] Créditos
+
+- [ ] **[ChatGPT: otimizando a qualidade dos resultados](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/)**
+    - [ ] **[Criando os primeiros prompts](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/01_Criando_os_primeiros_prompts/CriandoOsPrimeirosPrompts.md)**
+        - [ ] Apresentação
+        - [ ] Preparando o ambiente
+        - [ ] Para saber mais: compreendendo as limitações do ChatGPT - Por que nem sempre as respostas são precisas?
+        - [ ] Utilizando diferentes estratégias para criar prompts
+        - [ ] Para saber mais: entendendo o que são tokens
+        - [ ] Melhorando a qualidade das respostas
+        - [ ] Para saber mais: ChatGPT 3.5 vs ChatGPT 4 - Qual é a diferença?
+        - [ ] Desafio: crie um prompt com a técnica de conclusão
+        - [ ] O que aprendemos?
+
+    - [ ] **[Melhorando a confiabilidade dos resultados](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/02_Melhorando_a_confiabilidade_dos_resultados/MelhorandoAConfiabilidadeDosResultados.md)**
+        - [ ] Dividindo tarefas complexas em subtarefas mais simples
+        - [ ] Aprendendo a dar instruções mais claras
+        - [ ] Para saber mais: boas práticas na escrita de prompts
+        - [ ] Maximizando o potencial dos resultados
+        - [ ] Utilizando boas práticas na criação de prompts
+        - [ ] Utilizando a estratégia Step by step
+        - [ ] Desafio: resolvendo um problema de lógica
+        - [ ] Queremos ouvir você!
+        - [ ] O que aprendemos?
+
+    - [ ] **[Explorando a aplicações](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/03_Explorando_a_aplicacoes/ExplorandoAAplicacoes.md)**
+        - [ ] Sintetizando textos na linguagem correta: aprenda boas práticas
+        - [ ] Aprendendo a sintetizar resenhas de produto
+        - [ ] Traduzindo e sintetizando textos de forma eficiente
+        - [ ] Criando prompts para analisar sentimentos
+        - [ ] Para saber mais: Prompts - Diversas aplicações
+        - [ ] Desafio: analisando sentimentos em várias resenhas
+        - [ ] O que aprendemos?
+
+    - [ ] **[Estratégias para textos longos](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/04_Estrategias_para_textos_longos/EstrategiasParaTextosLongos.md)**
+        - [ ] Trabalhando com textos longos
+        - [ ] Tentando resumir um texto com muitos caracteres
+        - [ ] Trabalhando com textos longos: system e message
+        - [ ] Para saber mais: o que é a OpenAI Playground?
+        - [ ] Desafio: resumindo um texto longo
+        - [ ] O que aprendemos?
+        - [ ] Conclusão
+        - [ ] Créditos
 
 [↑ Voltar ao topo](#topo)
 
@@ -411,11 +504,19 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
       <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     </td>
   </tr>
+  <tr>
+    <td style="padding: 5px;">
+      <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+    </td>
+    <td style="padding: 5px;">
+      <img alt="Google Gemini" src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+    </td>
+  </tr>
 </table>
 
 ---
 __Titulo:__ Readme
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 23-04-2026  
-__Data de Modificação:__ 14-05-2026  
-__Versão:__ "2.1"
+__Data de Modificação:__ 18-05-2026  
+__Versão:__ "2.2"
