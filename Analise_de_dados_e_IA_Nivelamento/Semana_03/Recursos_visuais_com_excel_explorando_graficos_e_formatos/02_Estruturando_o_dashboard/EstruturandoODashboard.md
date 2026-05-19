@@ -28,11 +28,66 @@ Uma das dicas passadas no curso diz respeito a formatação de Altura e largura 
 height: +- 9 px
 width: +- 1,30 px
 ```
-Com esse processo de ajuste total da planilha nos auxilia, tanto na divisão de colunas que serão inseridas para confecção do 
+Com esse processo de ajuste total da planilha nos auxilia, tanto na divisão de colunas que serão inseridas para confecção dos painéis. Para ajuste da planilha iremos realizar a seleção de __18__ colunas  e 6 linhas a partir da `Coluna C`, e posteriormente deixaremos mais 2 colunas vagas após essa seleção e repetiremos o intervalo, fazendo esse processo teremos um resultado similar a esse:
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/modelo_selecao_planilha.png" alt="Desenho planilha" width="45%"/>
+    </td>
+</tr>
+</table>
+
+> PS: Uma sugestão dada durante a aula, foi de que ao serem criados DashBoards os primeiros Painéis sejam aquelas que contenham as informações mais relevantes.
 
 ## 3. Criando indicadores
 
+Feito as configurações sugeridas no módulo anterior daremos seguimento a outras formatações, uma delas sendo a opção de _`Recolher Faixa de opções`_ esse recurso de mouse pode ser realizado em qualquer uma das guias do Excel.
+Para além disso para melhor apresentação dessa planilha, podemos ocultar as linhas de grade, dentro da guia _Exibir_ desmarca a opção de linhas de grade, fazendo assim com que nosso Dashboard fique da seguinte forma:
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/desenho_dash_board_2.png" alt="Desenho planilha 2" width="45%"/>
+    </td>
+</tr>
+</table>
+
+Apenas para relembramos algumas formulas que já vimos anteriormente, para a tabela de produtos utilizaremos a formula de contagem de valores, e para essa contagem a formula utilizada é a de 
+```exel
+=CONT.VALORES(Produtos!B4:B42)
+```
+Essa formulá pode ser feita tanto dessa maneira quanto da maneira abaixo:
+```excel
+=CONT.VALORES(TB_Produtos[Código])
+```
+Na formulá acima utiliza-se do processo de referência estruturada, e essa pode ser mais segura dado que caso sejam acrecidos valores na tabela ou modificados esse valor será atualizado , utilizaremos o processo de referência estruturada também para os demais cards, com as formulas abaixo:
+```excel
+=SOMA(TB_Vendas[Qtd])
+
+=SOMA(TB_Vendas[Total])
+```
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Prova_Questoes/TB_VERDADE.png" alt="TAB VERDADE" width="45%"/>
+    </td>
+</tr>
+</table>
+
+Camila, a gerente da empresa deseja contar quantas respostas válidas foram dadas por cada funcionário no total. Mas está na dúvida de qual função ela deve utilizar.
+
+Baseado no que aprendemos na aula, vamos ajudar a Camila a escolher a função correta para calcular a quantidade de respostas válidas?
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Prova_Questoes/RESP_TAB_VERDADE.png" alt="RESPOSTA TABELA VERDADE" width="45%"/>
+    </td>
+</tr>
+</table>
+
 ## 4. Somando com uma condição
+Em uma pesquisa de satisfação em uma empresa, os funcionários responderam a algumas perguntas usando Verdadeiro ou Falso.
+
 
 ## 5. Preparando os dados
 
