@@ -66,10 +66,13 @@ Na formulá acima utiliza-se do processo de referência estruturada, e essa pode
 
 =SOMA(TB_Vendas[Total])
 ```
+## 4. Somando com uma condição
+Em uma pesquisa de satisfação em uma empresa, os funcionários responderam a algumas perguntas usando Verdadeiro ou Falso.  
+
 <table style="text-align: center; width: 100%;"> 
 <tr>
     <td style="text-align: left;">
-    <img src="imgs/Prova_Questoes/TB_VERDADE.png" alt="TAB VERDADE" width="45%"/>
+    <img src="imgs/Prova_Questoes/TB_VERDADE.png" alt="TAB VERDADE" width="35%"/>
     </td>
 </tr>
 </table>
@@ -77,31 +80,95 @@ Na formulá acima utiliza-se do processo de referência estruturada, e essa pode
 Camila, a gerente da empresa deseja contar quantas respostas válidas foram dadas por cada funcionário no total. Mas está na dúvida de qual função ela deve utilizar.
 
 Baseado no que aprendemos na aula, vamos ajudar a Camila a escolher a função correta para calcular a quantidade de respostas válidas?
+
 <table style="text-align: center; width: 100%;"> 
 <tr>
     <td style="text-align: left;">
-    <img src="imgs/Prova_Questoes/RESP_TAB_VERDADE.png" alt="RESPOSTA TABELA VERDADE" width="45%"/>
+    <img src="imgs/Prova_Questoes/RESP_TAB_VERDADE.png" alt="Resposta TAB VERDADE" width="50%"/>
     </td>
 </tr>
 </table>
 
-## 4. Somando com uma condição
-Em uma pesquisa de satisfação em uma empresa, os funcionários responderam a algumas perguntas usando Verdadeiro ou Falso.
-
-
 ## 5. Preparando os dados
+Para realizar a confecção de gráficos dentro do Excel uma das funções mais utilizadas para confecção de gráficos é `=SOMASE`. Iremos aplicar essa formula para o dashboard de Ranking de vendedores. 
+Mas ao invés de realizar a formula diretamente do quadro, iremos utilizar uma base de dados intermediaria para fazer o tratamento dos dados antes de construir o gráfico propriamente dito.
+Então para então criamos essa nova planilha, e até o presente momento dado aos dados apresentados na planilha de vendas, iremos apenas digitar os nomes dos vendedores que são poucos organizados em ordem alfabética e aplicar a formula abaixo  
+```Excel
+=SOMASE(TB_Vendas[Vendedor];A2;TB_Vendas[Total])
+```
+No modelo abaixo utilizamos referência estruturada, porém também é possível criar a mesma formula com intervalo digitado substituindo  essa referência pelo intervalo
+```Excel
+=SOMASE(Vendas!$h$3:$h$61;A2;Vendas!$G$3:$G$61)
+```
+Porém com esse modelo devemos _"travar"_ os intervalo com atalho de teclado `F4`.  
+>PS: É altamente recomendado que o conceito de referência estruturadas sejam utilizadas e adotadas. 
 
 ## 6. Faça como eu fiz: calculando os indicadores
+É hora de ação! Vamos treinar o que aprendemos na aula e calcular os principais indicadores (Total de Produtos, Produtos Vendidos e Total de Vendas) para o painel interativo da E-commerce Meteora?
+
+Essa é uma oportunidade perfeita para aprimorar suas habilidades e explorar as funcionalidades do Excel. Use as funções mais adequadas para calcular os indicadores e perceba os insights aparecer. Vamos lá!
+
+__Opinião do instrutor__
+
+Para realizar essa atividade, siga o passo a passo proposto.
+
+O primeiro indicador que vamos calcular no “Dashboard” é o Total de Produtos.
+
+- Passo 1: Como queremos contar quantos produtos a E-commerce Meteora tem em estoque, vamos utilizar a função CONT.VALORES.
+
+- Passo 2: Na caixa do primeiro indicador, digite o sinal de igual “=” para iniciar a fórmula e em seguida escreva a fórmula que vamos utilizar.
+
+  `=CONT.VALORES(`
+- Passo 3: Para realizar a contagem do total de produtos em estoque, vamos utilizar como argumento da função as informações da tabela Produtos. Digite TB_Produtos para indicar a tabela que queremos que a contagem seja feita.
+
+  `=CONT.VALORES(TB_Produtos`  
+
+- Passo 4: Em seguida abra o colchetes [ e selecione a coluna que queremos realizar a contagem, que neste caso será a coluna “Código”.
+
+  `=CONT.VALORES(TB_Produtos[Código`
+- Passo 5: Feche o colchetes “]” e pressione o `[ENTER]` para finalizar a fórmula.
+
+O segundo indicador que vamos calcular no painel é o Produtos Vendidos.
+
+- Passo 6: Como queremos como resultado o total da quantidade de produtos vendidos, vamos utilizar a função Soma.
+
+- Passo 7: Na caixa do segundo indicador, digite o sinal de igual “=” para iniciar a fórmula e em seguida escreva a fórmula.
+
+  `=SOMA(`  
+
+- Passo 8: Para realizar a soma da quantidade total de produtos vendidos, vamos utilizar como argumento da função as informações da tabela Vendas. Digite TB_Vendas para indicar a tabela que queremos que a soma seja feita.
+
+  `=SOMA(TB_Vendas`  
+
+- Passo 9: Em seguida abra o colchetes [ e selecione a coluna que queremos realizar a soma, que neste caso será a coluna “Qtd”.
+
+  `=SOMA(TB_Vendas[Qtd`
+- Passo 10: Feche o colchetes “]” e pressione o `[ENTER]` para finalizar a fórmula.
+
+O terceiro e último indicador que vamos calcular no “Dashboard” é o Total de Vendas.
+
+- Passo 11: Como queremos como resultado o valor total das vendas, vamos utilizar a função Soma.
+
+- Passo 12: Na caixa do terceiro indicador, digite o sinal de igual “=” para iniciar a fórmula e em seguida escreva a fórmula.
+
+  `=SOMA(`
+- Passo 13: Para realizar a soma do total de vendas, vamos utilizar como argumento da função as informações da tabela Vendas. Digite TB_Vendas para indicar a tabela que queremos que a soma seja feita.
+
+  `=SOMA(TB_Vendas`  
+
+- Passo 14: Em seguida, abra o colchetes "[" e selecione a coluna que queremos realizar a soma, que neste caso será a coluna “Total”.
+
+  `=SOMA(TB_Vendas[Total`
+- Passo 15: Feche o colchetes “]” e pressione o [ENTER] para finalizar a fórmula.
+
+Pronto, os principais indicadores foram calculados!
 
 ## 7. O que aprendemos?
-
-<!-- <table style="text-align: center; width: 100%;"> 
-<tr>
-    <td style="text-align: left;">
-    <img src="imgs/ex.png" alt="Nome do print" width="45%"/>
-    </td>
-</tr>
-</table> -->
+Nessa aula, você aprendeu a:
+- Identificar os pontos importantes na criação de "Dashboards";
+- Esquematizar um Dashboard no Excel;
+- Utilizar a função CONT.VALORES() do Excel;
+- Calcular os principais indicadores no Excel.
 
 ---
 
