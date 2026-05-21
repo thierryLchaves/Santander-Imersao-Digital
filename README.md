@@ -431,14 +431,14 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Faça como eu fiz: calculando os indicadores
         - [x] O que aprendemos?
 
-    - [ ] **[Trabalhando com gráficos](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/03_Trabalhando_com_graficos/TrabalhandoComGraficos.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Criando um gráfico de barras
-        - [ ] Somando os dados mensais
-        - [ ] Somando com uma condição
-        - [ ] Gráfico de combinação
-        - [ ] Faça como eu fiz: gráfico de combinação
-        - [ ] O que aprendemos?
+    - [x] **[Trabalhando com gráficos](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/03_Trabalhando_com_graficos/TrabalhandoComGraficos.md)**
+        - [x] Projeto da aula anterior
+        - [x] Criando um gráfico de barras
+        - [x] Somando os dados mensais
+        - [x] Somando com uma condição
+        - [x] Gráfico de combinação
+        - [x] Faça como eu fiz: gráfico de combinação
+        - [x] O que aprendemos?
 
     - [ ] **[Gráficos de relógio](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/04_Graficos_de_relogio/GraficosDeRelogio.md)**
         - [ ] Projeto da aula anterior
