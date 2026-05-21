@@ -201,6 +201,9 @@ Nessa aula, você aprendeu a:
     <td style="padding: 5px;">
       <img alt="Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
     </td>
+    <td style="padding: 5px;">
+      <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+    </td>
   </tr>
 </table>
 
