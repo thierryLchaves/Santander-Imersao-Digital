@@ -411,7 +411,7 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 <details>
   <summary><b>Aulas da Semana - 03</b></summary>
 
-- [ ] **[Recursos Visuais com Excel: explorando gráficos e formatos](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/)**
+- [x] **[Recursos Visuais com Excel: explorando gráficos e formatos](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/)**
     - [x] **[Formatação Condicional](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/01_Formatacao_condicional/FormatacaoCondicional.md)**
         - [x] Apresentação
         - [x] Preparando o ambiente: planilha Meteora E-commerce
@@ -440,27 +440,27 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Faça como eu fiz: gráfico de combinação
         - [x] O que aprendemos?
 
-    - [ ] **[Gráficos de relógio](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/04_Graficos_de_relogio/GraficosDeRelogio.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Criando o gráfico de rosca
-        - [ ] Trabalhando com porcentagem
-        - [ ] Percentual de vendas
-        - [ ] Recursos de formatação
-        - [ ] Faça como eu fiz: gráfico de rosca
-        - [ ] Desafio: inserir a caixa de texto
-        - [ ] O que aprendemos?
+    - [x] **[Gráficos de relógio](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/04_Graficos_de_relogio/GraficosDeRelogio.md)**
+        - [x] Projeto da aula anterior
+        - [x] Criando o gráfico de rosca
+        - [x] Trabalhando com porcentagem
+        - [x] Percentual de vendas
+        - [x] Recursos de formatação
+        - [x] Faça como eu fiz: gráfico de rosca
+        - [x] Desafio: inserir a caixa de texto
+        - [x] O que aprendemos?
 
-    - [ ] **[Concluindo o dashboard](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/05_Concluindo_o_dashboard/ConcluindoODashboard.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Procura de valores
-        - [ ] Diferenciando as fórmulas
-        - [ ] Faça como eu fiz: corrigindo os valores na coluna ''Total''
-        - [ ] Explicando o desafio
-        - [ ] Desafio: alterando o tipo do gráfico
-        - [ ] Projeto final do curso
-        - [ ] O que aprendemos?
-        - [ ] Conclusão
-        - [ ] Créditos
+    - [x] **[Concluindo o dashboard](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/05_Concluindo_o_dashboard/ConcluindoODashboard.md)**
+        - [x] Projeto da aula anterior
+        - [x] Procura de valores
+        - [x] Diferenciando as fórmulas
+        - [x] Faça como eu fiz: corrigindo os valores na coluna ''Total''
+        - [x] Explicando o desafio
+        - [x] Desafio: alterando o tipo do gráfico
+        - [x] Projeto final do curso
+        - [x] O que aprendemos?
+        - [x] Conclusão
+        - [x] Créditos
 
 - [ ] **[ChatGPT: otimizando a qualidade dos resultados](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/)**
     - [ ] **[Criando os primeiros prompts](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/01_Criando_os_primeiros_prompts/CriandoOsPrimeirosPrompts.md)**
@@ -537,5 +537,5 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 __Titulo:__ Readme
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 23-04-2026  
-__Data de Modificação:__ 18-05-2026  
+__Data de Modificação:__ 20-05-2026  
 __Versão:__ "2.3"
