@@ -396,24 +396,24 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Conclusão
 ### [Semana - 03](Analise_de_dados_e_IA_Nivelamento/Semana_03/)
 - [ ] **[Recursos Visuais com Excel: explorando gráficos e formatos](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/)**
-    - [ ] **[Formatação Condicional](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/01_Formatacao_condicional/FormatacaoCondicional.md)**
-        - [ ] Apresentação
-        - [ ] Preparando o ambiente: planilha Meteora E-commerce
-        - [ ] Conhecendo o trabalho a ser feito
-        - [ ] Destaque com formatação condicional
-        - [ ] Conjunto de ícones e barras
-        - [ ] Classificando os dados em níveis
-        - [ ] Faça como eu fiz: conjunto de ícones
-        - [ ] O que aprendemos?
+    - [x] **[Formatação Condicional](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/01_Formatacao_condicional/FormatacaoCondicional.md)**
+        - [x] Apresentação
+        - [x] Preparando o ambiente: planilha Meteora E-commerce
+        - [x] Conhecendo o trabalho a ser feito
+        - [x] Destaque com formatação condicional
+        - [x] Conjunto de ícones e barras
+        - [x] Classificando os dados em níveis
+        - [x] Faça como eu fiz: conjunto de ícones
+        - [x] O que aprendemos?
 
-    - [ ] **[Estruturando o dashboard](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/02_Estruturando_o_dashboard/EstruturandoODashboard.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Estruturando o painel
-        - [ ] Criando indicadores
-        - [ ] Somando com uma condição
-        - [ ] Preparando os dados
-        - [ ] Faça como eu fiz: calculando os indicadores
-        - [ ] O que aprendemos?
+    - [x] **[Estruturando o dashboard](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/02_Estruturando_o_dashboard/EstruturandoODashboard.md)**
+        - [x] Projeto da aula anterior
+        - [x] Estruturando o painel
+        - [x] Criando indicadores
+        - [x] Somando com uma condição
+        - [x] Preparando os dados
+        - [x] Faça como eu fiz: calculando os indicadores
+        - [x] O que aprendemos?
 
     - [ ] **[Trabalhando com gráficos](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/03_Trabalhando_com_graficos/TrabalhandoComGraficos.md)**
         - [ ] Projeto da aula anterior
