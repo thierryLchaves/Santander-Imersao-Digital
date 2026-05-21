@@ -1,8 +1,36 @@
+<a id="topo"></a>
+
 # Gráficos de relógio
 
 ## Sumário
+- [Gráficos de relógio](#gráficos-de-relógio)
+  - [Sumário](#sumário)
+  - [1. Projeto da aula anterior](#1-projeto-da-aula-anterior)
+  - [2. Criando o gráfico de rosca](#2-criando-o-gráfico-de-rosca)
+  - [3. Trabalhando com porcentagem](#3-trabalhando-com-porcentagem)
+  - [4. Percentual de vendas](#4-percentual-de-vendas)
+  - [5. Recursos de formatação](#5-recursos-de-formatação)
+  - [6. Faça como eu fiz: gráfico de rosca](#6-faça-como-eu-fiz-gráfico-de-rosca)
+  - [7. Desafio: inserir a caixa de texto](#7-desafio-inserir-a-caixa-de-texto)
+  - [8. O que aprendemos?](#8-o-que-aprendemos)
 
-## Introdução
+---
+
+## 1. Projeto da aula anterior
+
+## 2. Criando o gráfico de rosca
+
+## 3. Trabalhando com porcentagem
+
+## 4. Percentual de vendas
+
+## 5. Recursos de formatação
+
+## 6. Faça como eu fiz: gráfico de rosca
+
+## 7. Desafio: inserir a caixa de texto
+
+## 8. O que aprendemos?
 
 <!-- <table style="text-align: center; width: 100%;"> 
 <tr>

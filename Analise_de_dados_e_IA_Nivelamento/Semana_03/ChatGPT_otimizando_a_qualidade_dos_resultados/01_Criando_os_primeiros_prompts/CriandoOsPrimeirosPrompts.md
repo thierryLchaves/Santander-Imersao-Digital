@@ -1,8 +1,39 @@
+<a id="topo"></a>
+
 # Criando os primeiros prompts
 
 ## Sumário
+- [Criando os primeiros prompts](#criando-os-primeiros-prompts)
+  - [Sumário](#sumário)
+  - [1. Apresentação](#1-apresentação)
+  - [2. Preparando o ambiente](#2-preparando-o-ambiente)
+  - [3. Para saber mais: compreendendo as limitações do ChatGPT - Por que nem sempre as respostas são precisas?](#3-para-saber-mais-compreendendo-as-limitações-do-chatgpt---por-que-nem-sempre-as-respostas-são-precisas)
+  - [4. Utilizando diferentes estratégias para criar prompts](#4-utilizando-diferentes-estratégias-para-criar-prompts)
+  - [5. Para saber mais: entendendo o que são tokens](#5-para-saber-mais-entendendo-o-que-são-tokens)
+  - [6. Melhorando a qualidade das respostas](#6-melhorando-a-qualidade-das-respostas)
+  - [7. Para saber mais: ChatGPT 3.5 vs ChatGPT 4 - Qual é a diferença?](#7-para-saber-mais-chatgpt-35-vs-chatgpt-4---qual-é-a-diferença)
+  - [8. Desafio: crie um prompt com a técnica de conclusão](#8-desafio-crie-um-prompt-com-a-técnica-de-conclusão)
+  - [9. O que aprendemos?](#9-o-que-aprendemos)
 
-## Introdução
+---
+
+## 1. Apresentação
+
+## 2. Preparando o ambiente
+
+## 3. Para saber mais: compreendendo as limitações do ChatGPT - Por que nem sempre as respostas são precisas?
+
+## 4. Utilizando diferentes estratégias para criar prompts
+
+## 5. Para saber mais: entendendo o que são tokens
+
+## 6. Melhorando a qualidade das respostas
+
+## 7. Para saber mais: ChatGPT 3.5 vs ChatGPT 4 - Qual é a diferença?
+
+## 8. Desafio: crie um prompt com a técnica de conclusão
+
+## 9. O que aprendemos?
 
 <!-- <table style="text-align: center; width: 100%;"> 
 <tr>
