@@ -1,8 +1,42 @@
+<a id="topo"></a>
+
 # Concluindo o dashboard
 
 ## Sumário
+- [Concluindo o dashboard](#concluindo-o-dashboard)
+  - [Sumário](#sumário)
+  - [1. Projeto da aula anterior](#1-projeto-da-aula-anterior)
+  - [2. Procura de valores](#2-procura-de-valores)
+  - [3. Diferenciando as fórmulas](#3-diferenciando-as-fórmulas)
+  - [4. Faça como eu fiz: corrigindo os valores na coluna ''Total''](#4-faça-como-eu-fiz-corrigindo-os-valores-na-coluna-total)
+  - [5. Explicando o desafio](#5-explicando-o-desafio)
+  - [6. Desafio: alterando o tipo do gráfico](#6-desafio-alterando-o-tipo-do-gráfico)
+  - [7. Projeto final do curso](#7-projeto-final-do-curso)
+  - [8. O que aprendemos?](#8-o-que-aprendemos)
+  - [9. Conclusão](#9-conclusão)
+  - [10. Créditos](#10-créditos)
 
-## Introdução
+---
+
+## 1. Projeto da aula anterior
+
+## 2. Procura de valores
+
+## 3. Diferenciando as fórmulas
+
+## 4. Faça como eu fiz: corrigindo os valores na coluna ''Total''
+
+## 5. Explicando o desafio
+
+## 6. Desafio: alterando o tipo do gráfico
+
+## 7. Projeto final do curso
+
+## 8. O que aprendemos?
+
+## 9. Conclusão
+
+## 10. Créditos
 
 <!-- <table style="text-align: center; width: 100%;"> 
 <tr>

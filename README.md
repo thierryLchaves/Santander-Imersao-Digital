@@ -197,6 +197,9 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 >À medida que forem estudadas as trilhas será realizado a criação dos checkbox para conclusão, bem como a adição de sumário.
 
 ### [Semana - 01](Analise_de_dados_e_IA_Nivelamento/Semana_01/)
+<details>
+  <summary><b> Aulas da Semana - 01</b></summary>
+
 - [x] **[Excel: Domine o Editor de Planilhas](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/)**
     - [x] **[Conceitos do Excel](Analise_de_dados_e_IA_Nivelamento/Semana_01/Excel_domine_o_editor_de_planilhas/01_Domine_o_editor_de_planilhas/DomineOeditorDePlanilhas.md)**
         - [x] Apresentação
@@ -296,9 +299,14 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] O que aprendemos?
         - [x] Conclusão
 
+</details>
+
 ---
 
 ### [Semana - 02](Analise_de_dados_e_IA_Nivelamento/Semana_02/)
+<details>
+  <summary><b>Aulas da Semana - 02</b></summary>
+
 - [x] **[Funções com Excel: operações matemáticas e filtros](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/)**
     - [x] **[Classificando os dados no Excel](Analise_de_dados_e_IA_Nivelamento/Semana_02/Funcoes_com_excel_operacoes_matematicas_e_filtros/01_Classificando_os_dados_no_Excel/ClassificandoOsDadosNoExcel.md)**
       - [x] Apresentação
@@ -394,7 +402,15 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Mão na massa: aplicando técnicas de Prompt no cotidiano
         - [x] O que aprendemos?
         - [x] Conclusão
+
+</details>
+
+---
+
 ### [Semana - 03](Analise_de_dados_e_IA_Nivelamento/Semana_03/)
+<details>
+  <summary><b>Aulas da Semana - 03</b></summary>
+
 - [ ] **[Recursos Visuais com Excel: explorando gráficos e formatos](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/)**
     - [x] **[Formatação Condicional](Analise_de_dados_e_IA_Nivelamento/Semana_03/Recursos_visuais_com_excel_explorando_graficos_e_formatos/01_Formatacao_condicional/FormatacaoCondicional.md)**
         - [x] Apresentação
@@ -488,6 +504,9 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [ ] Conclusão
         - [ ] Créditos
 
+</details>
+
+---
 [↑ Voltar ao topo](#topo)
 
 ---
@@ -518,5 +537,5 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 __Titulo:__ Readme
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 23-04-2026  
-__Data de Modificação:__ 17-05-2026  
-__Versão:__ "2.2"
+__Data de Modificação:__ 18-05-2026  
+__Versão:__ "2.3"
