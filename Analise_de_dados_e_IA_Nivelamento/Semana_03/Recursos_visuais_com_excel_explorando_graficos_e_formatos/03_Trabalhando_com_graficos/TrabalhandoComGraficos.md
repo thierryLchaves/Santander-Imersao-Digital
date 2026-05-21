@@ -137,6 +137,9 @@ Nessa aula, você aprendeu a:
     <td style="padding: 5px;">
       <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
     </td>
+    <td style="padding: 5px;">
+      <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+    </td>
   </tr>
 </table>
 
@@ -145,5 +148,5 @@ Nessa aula, você aprendeu a:
 __Titulo:__ Trabalhando com gráficos
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 17-05-2026  
-__Data de Modificação:__ 17-05-2026  
+__Data de Modificação:__ 20-05-2026  
 __Versão:__ "1.0"
