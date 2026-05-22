@@ -462,47 +462,47 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Conclusão
         - [x] Créditos
 
-- [ ] **[ChatGPT: otimizando a qualidade dos resultados](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/)**
-    - [ ] **[Criando os primeiros prompts](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/01_Criando_os_primeiros_prompts/CriandoOsPrimeirosPrompts.md)**
-        - [ ] Apresentação
-        - [ ] Preparando o ambiente
-        - [ ] Para saber mais: compreendendo as limitações do ChatGPT - Por que nem sempre as respostas são precisas?
-        - [ ] Utilizando diferentes estratégias para criar prompts
-        - [ ] Para saber mais: entendendo o que são tokens
-        - [ ] Melhorando a qualidade das respostas
-        - [ ] Para saber mais: ChatGPT 3.5 vs ChatGPT 4 - Qual é a diferença?
-        - [ ] Desafio: crie um prompt com a técnica de conclusão
-        - [ ] O que aprendemos?
+- [X] **[ChatGPT: otimizando a qualidade dos resultados](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/)**
+    - [x] **[Criando os primeiros prompts](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/01_Criando_os_primeiros_prompts/CriandoOsPrimeirosPrompts.md)**
+        - [x] Apresentação
+        - [x] Preparando o ambiente
+        - [x] Para saber mais: compreendendo as limitações do ChatGPT - Por que nem sempre as respostas são precisas?
+        - [x] Utilizando diferentes estratégias para criar prompts
+        - [x] Para saber mais: entendendo o que são tokens
+        - [x] Melhorando a qualidade das respostas
+        - [x] Para saber mais: ChatGPT 3.5 vs ChatGPT 4 - Qual é a diferença?
+        - [x] Desafio: crie um prompt com a técnica de conclusão
+        - [x] O que aprendemos?
 
-    - [ ] **[Melhorando a confiabilidade dos resultados](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/02_Melhorando_a_confiabilidade_dos_resultados/MelhorandoAConfiabilidadeDosResultados.md)**
-        - [ ] Dividindo tarefas complexas em subtarefas mais simples
-        - [ ] Aprendendo a dar instruções mais claras
-        - [ ] Para saber mais: boas práticas na escrita de prompts
-        - [ ] Maximizando o potencial dos resultados
-        - [ ] Utilizando boas práticas na criação de prompts
-        - [ ] Utilizando a estratégia Step by step
-        - [ ] Desafio: resolvendo um problema de lógica
-        - [ ] Queremos ouvir você!
-        - [ ] O que aprendemos?
+    - [x] **[Melhorando a confiabilidade dos resultados](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/02_Melhorando_a_confiabilidade_dos_resultados/MelhorandoAConfiabilidadeDosResultados.md)**
+        - [x] Dividindo tarefas complexas em subtarefas mais simples
+        - [x] Aprendendo a dar instruções mais claras
+        - [x] Para saber mais: boas práticas na escrita de prompts
+        - [x] Maximizando o potencial dos resultados
+        - [x] Utilizando boas práticas na criação de prompts
+        - [x] Utilizando a estratégia Step by step
+        - [x] Desafio: resolvendo um problema de lógica
+        - [x] Queremos ouvir você!
+        - [x] O que aprendemos?
 
-    - [ ] **[Explorando a aplicações](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/03_Explorando_a_aplicacoes/ExplorandoAAplicacoes.md)**
-        - [ ] Sintetizando textos na linguagem correta: aprenda boas práticas
-        - [ ] Aprendendo a sintetizar resenhas de produto
-        - [ ] Traduzindo e sintetizando textos de forma eficiente
-        - [ ] Criando prompts para analisar sentimentos
-        - [ ] Para saber mais: Prompts - Diversas aplicações
-        - [ ] Desafio: analisando sentimentos em várias resenhas
-        - [ ] O que aprendemos?
+    - [x] **[Explorando a aplicações](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/03_Explorando_a_aplicacoes/ExplorandoAAplicacoes.md)**
+        - [x] Sintetizando textos na linguagem correta: aprenda boas práticas
+        - [x] Aprendendo a sintetizar resenhas de produto
+        - [x] Traduzindo e sintetizando textos de forma eficiente
+        - [x] Criando prompts para analisar sentimentos
+        - [x] Para saber mais: Prompts - Diversas aplicações
+        - [x] Desafio: analisando sentimentos em várias resenhas
+        - [x] O que aprendemos?
 
-    - [ ] **[Estratégias para textos longos](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/04_Estrategias_para_textos_longos/EstrategiasParaTextosLongos.md)**
-        - [ ] Trabalhando com textos longos
-        - [ ] Tentando resumir um texto com muitos caracteres
-        - [ ] Trabalhando com textos longos: system e message
-        - [ ] Para saber mais: o que é a OpenAI Playground?
-        - [ ] Desafio: resumindo um texto longo
-        - [ ] O que aprendemos?
-        - [ ] Conclusão
-        - [ ] Créditos
+    - [x] **[Estratégias para textos longos](Analise_de_dados_e_IA_Nivelamento/Semana_03/ChatGPT_otimizando_a_qualidade_dos_resultados/04_Estrategias_para_textos_longos/EstrategiasParaTextosLongos.md)**
+        - [x] Trabalhando com textos longos
+        - [x] Tentando resumir um texto com muitos caracteres
+        - [x] Trabalhando com textos longos: system e message
+        - [x] Para saber mais: o que é a OpenAI Playground?
+        - [x] Desafio: resumindo um texto longo
+        - [x] O que aprendemos?
+        - [x] Conclusão
+        - [x] Créditos
 
 </details>
 
