@@ -13,6 +13,7 @@ Nele serão arquivados materiais em __`Markdown`__ para anotações das aulas, c
   - [2. Estrutura do Repositório](#2-estrutura-do-repositório)
     - [2.1 Organização das Pastas](#21-organização-das-pastas)
     - [2.2 Diretórios Padrão](#22-diretórios-padrão)
+    - [2.3 Automação da Estrutura](#23-automação-da-estrutura)
   - [3. Documentação e Padronização](#3-documentação-e-padronização)
     - [3.1 Estrutura de Rodapé](#31-estrutura-de-rodapé)
     - [3.2. Estrutura de Demarcação](#32-estrutura-de-demarcação)
@@ -24,6 +25,7 @@ Nele serão arquivados materiais em __`Markdown`__ para anotações das aulas, c
     - [Semana - 01](#semana---01)
     - [Semana - 02](#semana---02)
     - [Semana - 03](#semana---03)
+    - [Semana - 04](#semana---04)
 ---
 ## 1. Visão Geral
 Conforme a estrutura do curso se dá em trilhas e módulos, adotaremos a seguinte formatação: serão criadas __8 pastas__ referentes às semanas. Cada uma conterá subdiretórios com a tecnologia abordada no curso de forma macro. Esses subdiretórios conterão outras pastas referentes às aulas do dia em questão. Ambos seguirão o padrão `Snake_Case`, porém os nomes dos arquivos serão em `CamelCase`, com referência à pasta ou à aula em questão.
@@ -55,6 +57,11 @@ As pastas do curso terão um diretório base nomeado com base na trilha a ser es
 * **`src/` (Códigos):** Este diretório sempre será nomeado como `src`. Nele serão armazenados os exemplos de códigos feitos nas aulas, seguindo as boas práticas de nomeação (sem *uppercase*, com `_` entre os nomes e descrição curta do objetivo do código).
 
 * **`db/` (Dados):** Este diretório sempre será nomeado como `db`, e nele serão armazenados os dados complementares a serem usados (arquivos, PDF, bases de dados, Excel, CSV, etc.).
+
+### 2.3 Automação da Estrutura
+Para manter a devida formatação e organização do projeto, a criação da estrutura de pastas e arquivos semanais foi automatizada. Para isso, devem ser utilizados dois arquivos presentes na raiz do repositório:
+* **[`automacao_semanal_prompt.md`](automacao_semanal_prompt.md)**: Este arquivo serve como um documento de instruções (prompt) para a Inteligência Artificial. Ele detalha todas as regras de formatação, os padrões de documentação e o fluxo de trabalho do projeto. É fundamental que este arquivo seja fornecido ou lido pela I.A. no início do processo, garantindo assim que ela entenda o contexto geral e não fuja dos padrões preestabelecidos ao atualizar o repositório ou gerar conteúdos.
+* **[`gerar_arquivos_semana.py`](gerar_arquivos_semana.py)**: Este script é responsável por automatizar a criação dos diretórios e arquivos iniciais das novas semanas de curso. Ele analisa a estrutura existente, cria as novas pastas sequenciais (ex: `Semana_05`) e copia o template padrão de arquivos Markdown. Para executá-lo, abra o terminal na raiz do projeto e rode o comando: `python gerar_arquivos_semana.py` (ou `python3` dependendo do seu ambiente).
 
 [↑ Voltar ao topo](#topo)
 
@@ -507,6 +514,120 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 </details>
 
 ---
+### Semana - 04
+<details>
+  <summary><b>Aulas da Semana - 04</b></summary>
+
+- [ ] **[Excel: aprendendo lógica booleana e busca por valores](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/)**
+    - [ ] **[Funções de pesquisa e referência](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/01_Funcoes_de_pesquisa_e_referencia/FuncoesDePesquisaEReferencia.md)**
+        - [ ] Apresentação
+        - [ ] Preparando o ambiente: planilha Meteora E-commerce
+        - [ ] Busca com PROCV
+        - [ ] Análise de vendas
+        - [ ] Busca com PROCX
+        - [ ] PROCH vs. PROCX
+        - [ ] Faça como eu fiz: pesquisando tamanhos
+        - [ ] O que aprendemos?
+
+    - [ ] **[Trabalhando com lógica](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/02_Trabalhando_com_logica/TrabalhandoComLogica.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Situação do estoque
+        - [ ] Taxas de cliques
+        - [ ] Comparando SE() e SES()
+        - [ ] Desafio: estoque por categoria
+        - [ ] Juntando Procura e Lógica
+        - [ ] Faça como eu fiz: situação estoque
+        - [ ] O que aprendemos?
+
+    - [ ] **[Desconto progressivo](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/03_Desconto_progressivo/DescontoProgressivo.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Procura bi-dimensional
+        - [ ] Índice com Corresp
+        - [ ] Análise de ações
+        - [ ] Calculando o desconto
+        - [ ] Faça como eu fiz: criando o desconto
+        - [ ] O que aprendemos?
+
+    - [ ] **[Testes lógicos](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/04_Testes_logicos/TestesLogicos.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Desconto do vendedor
+        - [ ] Desconto passo a passo
+        - [ ] CORRESPX()
+        - [ ] Desconto com lógica
+        - [ ] Faça como eu fiz: coluna índice
+        - [ ] O que aprendemos?
+
+    - [ ] **[Busca aproximada](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/05_Busca_aproximada/BuscaAproximada.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Procura de valores
+        - [ ] Modo de correspondência
+        - [ ] Faça como eu fiz: produto mais caro
+        - [ ] Explicando o desafio
+        - [ ] Desafio: respondendo as perguntas
+        - [ ] O que aprendemos?
+        - [ ] Conclusão
+        - [ ] Créditos
+
+- [ ] **[Aprendizagem: personalizando sua rotina de estudos com ChatGPT](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/)**
+    - [ ] **[Você, Aprendiz](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/01_Voce_aprendiz/VoceAprendiz.md)**
+        - [ ] Apresentação
+        - [ ] Slides do curso
+        - [ ] Aprendizagem autônoma
+        - [ ] Preparando o ambiente
+        - [ ] Navegando pela aprendizagem autônoma
+        - [ ] Mão na Massa: método 70-20-10 - Maximizando o aprendizado
+        - [ ] Pesquisar, conectar, praticar
+        - [ ] Para saber mais: aprendizado contínuo
+        - [ ] Desafio: Learning Canvas
+        - [ ] Mão na massa: aprendizagem autônoma
+        - [ ] O que aprendemos?
+
+    - [ ] **[Aprendendo com GPT](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/02_Aprendendo_com_GPT/AprendendoComGPT.md)**
+        - [ ] Estilos e preferências de aprendizado
+        - [ ] Alura+ ChatGPT: como construir prompts eficientes
+        - [ ] Estratégias de aprendizado
+        - [ ] Otimizando o aprendizado com prompts
+        - [ ] Sua rotina de estudos
+        - [ ] Faça como eu fiz: construa sua rotina de estudos
+        - [ ] Para saber mais: ética e IA
+        - [ ] Faça como eu fiz: imagine que...
+        - [ ] Para saber mais: prompts para o ChatGPT
+        - [ ] O que aprendemos?
+
+    - [ ] **[Rodmap de estudos](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/03_Rodmap_de_estudos/RodmapDeEstudos.md)**
+        - [ ] Roadmap de estudos
+        - [ ] Taxonomia de Bloom
+        - [ ] Mão na massa: cronograma de estudos
+        - [ ] Desafio: 7 days of code
+        - [ ] Níveis de aprendizagem
+        - [ ] Avançando no roadmap de estudos
+        - [ ] Mão na massa: crie seu roadmap de estudos
+        - [ ] O que aprendemos?
+
+    - [ ] **[IA na rotina de estudos](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/04_IA_na_rotina_de_estudos/IANaRotinaDeEstudos.md)**
+        - [ ] Magical IA
+        - [ ] Mão na massa: utilizando a IA do Magical
+        - [ ] IA do Notion
+        - [ ] Gamma APP
+        - [ ] Avaliando as ferramentas
+        - [ ] Para saber mais: explorando outras ferramentas
+        - [ ] Mão na massa: desenvolva seu prompt para o Gamma APP
+        - [ ] O que aprendemos?
+
+    - [ ] **[Cases: IA aplicada no aprendizado](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/05_Cases_IA_aplicada_no_aprendizado/CasesIAAplicadaNoAprendizado.md)**
+        - [ ] Cases: empresas e IA
+        - [ ] Um olhar sobre empresas inovadoras
+        - [ ] Mão na massa: análise de caso
+        - [ ] Cases: pessoas e IA
+        - [ ] Para saber mais: indicação de TEDx Talks
+        - [ ] Para ir mais fundo
+        - [ ] O que aprendemos?
+        - [ ] Conclusão
+        - [ ] Créditos
+
+</details>
+
+---
 [↑ Voltar ao topo](#topo)
 
 ---
@@ -530,6 +651,9 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
     <td style="padding: 5px;">
       <img alt="Google Gemini" src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google-gemini&logoColor=white"/>
     </td>
+    <td style="padding: 5px;">
+      <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    </td>
   </tr>
 </table>
 
@@ -537,5 +661,5 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 __Titulo:__ Readme
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 23-04-2026  
-__Data de Modificação:__ 20-05-2026  
-__Versão:__ "2.3"
+__Data de Modificação:__ 23-05-2026  
+__Versão:__ "3.0"

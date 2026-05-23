@@ -1,8 +1,11 @@
 # [Nome da aula]
 
-## Sumário
+<a id="topo"></a>
 
-## Introdução
+## Sumário
+[SUMARIO_DINAMICO]
+
+[CONTEUDO_DINAMICO]
 
 <!-- <table style="text-align: center; width: 100%;"> 
 <tr>
@@ -22,14 +25,14 @@
     </td>
     <td style="padding: 5px;">
       <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-    </td>
+    </td>[BADGE_EXCEL]
   </tr>
 </table>
 
 
 ---
-__Titulo:__ Conceitos do Excel
+__Titulo:__ [Nome da aula]
 __Autor:__ Thierry Lucas Chaves  
-__Data de Criação:__ 06-05-2026  
-__Data de Modificação:__ 06-05-2026  
+__Data de Criação:__ [DATA_ATUAL]  
+__Data de Modificação:__ [DATA_ATUAL]  
 __Versão:__ "1.0"
