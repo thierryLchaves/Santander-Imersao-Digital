@@ -3,21 +3,27 @@
 <a id="topo"></a>
 
 ## Sumário
-- [1. Apresentação](#1-apresentação)
-- [2. Slides do curso](#2-slides-do-curso)
-- [3. Aprendizagem autônoma](#3-aprendizagem-autônoma)
-- [4. Preparando o ambiente](#4-preparando-o-ambiente)
-- [5. Navegando pela aprendizagem autônoma](#5-navegando-pela-aprendizagem-autônoma)
-- [6. Mão na Massa: método 70-20-10 - Maximizando o aprendizado](#6-mão-na-massa-método-70-20-10---maximizando-o-aprendizado)
-- [7. Pesquisar, conectar, praticar](#7-pesquisar-conectar-praticar)
-- [8. Para saber mais: aprendizado contínuo](#8-para-saber-mais-aprendizado-contínuo)
-- [9. Desafio: Learning Canvas](#9-desafio-learning-canvas)
-- [10. Mão na massa: aprendizagem autônoma](#10-mão-na-massa-aprendizagem-autônoma)
-- [11. O que aprendemos?](#11-o-que-aprendemos)
+- [Você, Aprendiz](#você-aprendiz)
+  - [Sumário](#sumário)
+  - [1. Apresentação](#1-apresentação)
+  - [2. Slides do curso](#2-slides-do-curso)
+  - [3. Aprendizagem autônoma](#3-aprendizagem-autônoma)
+  - [4. Preparando o ambiente](#4-preparando-o-ambiente)
+  - [5. Navegando pela aprendizagem autônoma](#5-navegando-pela-aprendizagem-autônoma)
+  - [6. Mão na Massa: método 70-20-10 - Maximizando o aprendizado](#6-mão-na-massa-método-70-20-10---maximizando-o-aprendizado)
+  - [7. Pesquisar, conectar, praticar](#7-pesquisar-conectar-praticar)
+  - [8. Para saber mais: aprendizado contínuo](#8-para-saber-mais-aprendizado-contínuo)
+  - [9. Desafio: Learning Canvas](#9-desafio-learning-canvas)
+  - [10. Mão na massa: aprendizagem autônoma](#10-mão-na-massa-aprendizagem-autônoma)
+  - [11. O que aprendemos?](#11-o-que-aprendemos)
 
 ## 1. Apresentação
-
-[↑ Voltar ao topo](#topo)
+Neste curso teremos as seguintes metas de aprendizado, sendo elas:
+- 1 Identificar o seu estilo de aprendizagem 
+- 2 Selecionar estrategias de aprendizagem conforme seu estilo 
+- 3 Montar uma rotina de estudos personalizada com auxilio da inteligência Artificial 
+- 4 Desenhar um roadmap de estudos aplicando a taxonomia de Bloom
+- 5 Produzir resumos, fichamento e apresentações. 
 
 ---
 ## 2. Slides do curso
