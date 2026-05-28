@@ -3,20 +3,48 @@
 <a id="topo"></a>
 
 ## Sumário
-- [1. Roadmap de estudos](#1-roadmap-de-estudos)
-- [2. Taxonomia de Bloom](#2-taxonomia-de-bloom)
-- [3. Mão na massa: cronograma de estudos](#3-mão-na-massa-cronograma-de-estudos)
-- [4. Desafio: 7 days of code](#4-desafio-7-days-of-code)
-- [5. Níveis de aprendizagem](#5-níveis-de-aprendizagem)
-- [6. Avançando no roadmap de estudos](#6-avançando-no-roadmap-de-estudos)
-- [7. Mão na massa: crie seu roadmap de estudos](#7-mão-na-massa-crie-seu-roadmap-de-estudos)
-- [8. O que aprendemos?](#8-o-que-aprendemos)
+- [Rodmap de estudos](#rodmap-de-estudos)
+  - [Sumário](#sumário)
+  - [1. Roadmap de estudos](#1-roadmap-de-estudos)
+  - [2. Taxonomia de Bloom](#2-taxonomia-de-bloom)
+  - [3. Mão na massa: cronograma de estudos](#3-mão-na-massa-cronograma-de-estudos)
+  - [4. Desafio: 7 days of code](#4-desafio-7-days-of-code)
+  - [5. Níveis de aprendizagem](#5-níveis-de-aprendizagem)
+  - [6. Avançando no roadmap de estudos](#6-avançando-no-roadmap-de-estudos)
+  - [7. Mão na massa: crie seu roadmap de estudos](#7-mão-na-massa-crie-seu-roadmap-de-estudos)
+  - [8. O que aprendemos?](#8-o-que-aprendemos)
 
 ## 1. Roadmap de estudos
+Uma das informações fundamentais para o processo de aprendizagem é saber em qual nível ou qual etapa do aprendizado estamos, para exemplificar o processo em questão, vamos supor  que esteja começando o processo de aprendizagem e para tal passamos por algumas etapas:
+- 1º Memorizar informações básicas
+- 2º Compreensão da sintaxe e lógica
+- 3º Analisar o projeto em questão. 
 
-[↑ Voltar ao topo](#topo)
+Para qualquer processo de estudos ou de objetivo traçado para o estudo precisamos passar pelas as etapas descritas, de memorizar, compreender, e analisar, porém para isso precisamos realizar uma melhor organização do estudo de acordo com o nível de aprendizado, e uma das ferramentas possíveis de serem utilizadas, e uma que será demonstrada é a ferramenta de  ROADMAP DE ESTUDOS. que consiste nos pontos:  
+- Mapa 
+- Objetivos. 
+- Curto, médio e longo prazo.
 
----
+Uma diferença primordial entre um ROADMAP e um cronograma de estudos se da no fato que um cronograma está focado nas atividades que devem ser realizadas com uma delimitação de tempo X. Já o roadmap não é focado nas tarefas que devem ser feitas e sim nos objetivos que se deseja alcançar.
+Supondo que temos o objetivo de ser proficiente em Python podemos realizar o roadmap da seguinte maneira:
+>
+>|                         |                                     |                                            |                           |
+>| ----------------------- | ----------------------------------- | ------------------------------------------ | ------------------------- |
+>| Temáticas               | Curto prazo                         | Médio prazo                                | Longo Prazo               |
+>| Python                  | Memorizar conceitos e regras Python | Compreender os conceitos básicos de python | Aplicar Python em projeto |
+>| Inteligencia artificial | Objetivo 01                         | Objetivo 02                                | Objetivo 03               |
+>| Comunicação             | Objetivo 01                         | Objetivo 02                                | Objetivo 03               |
+
+Nesse processo não temos um limite temporal bem demarcado e delimitador como em um cronograma, como por exemplo para alguma pessoa a atividade demarcada no curto prazo pode durar entre 8 horas ou até 2 meses, estando mais ligado no que esta sendo feito agora que no restante.
+Nesse quadro acima, podemos ser mais objetivos como por exemplo aplicar um questionamento de quais conceitos? quais regras? etc..
+
+E Podemos por exemplo aplicar I.A para construção desse ROADMAP
+
+```TEXT
+Estou começando a estudar Python. Gostaria de estabelecer três objetivos de aprendizagem na seguinte ordem: Memorizar, compreender, aplicar. Cada objetivo será separado em curto, médio e longo prazo, sendo memorizar a curto prazo, compreender a médio e aplicar a longo prazo. Crie quatro colunas, sendo a primeira temática "Ptyhon" e outras três colunas com objetivos a curto,médio e longo prazo.
+```
+
+
 ## 2. Taxonomia de Bloom
 
 [↑ Voltar ao topo](#topo)
