@@ -569,30 +569,30 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [ ] Créditos
 
 - [ ] **[Aprendizagem: personalizando sua rotina de estudos com ChatGPT](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/)**
-    - [ ] **[Você, Aprendiz](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/01_Voce_aprendiz/VoceAprendiz.md)**
-        - [ ] Apresentação
-        - [ ] Slides do curso
-        - [ ] Aprendizagem autônoma
-        - [ ] Preparando o ambiente
-        - [ ] Navegando pela aprendizagem autônoma
-        - [ ] Mão na Massa: método 70-20-10 - Maximizando o aprendizado
-        - [ ] Pesquisar, conectar, praticar
-        - [ ] Para saber mais: aprendizado contínuo
-        - [ ] Desafio: Learning Canvas
-        - [ ] Mão na massa: aprendizagem autônoma
-        - [ ] O que aprendemos?
+    - [x] **[Você, Aprendiz](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/01_Voce_aprendiz/VoceAprendiz.md)**
+        - [x] Apresentação
+        - [x] Slides do curso
+        - [x] Aprendizagem autônoma
+        - [x] Preparando o ambiente
+        - [x] Navegando pela aprendizagem autônoma
+        - [x] Mão na Massa: método 70-20-10 - Maximizando o aprendizado
+        - [x] Pesquisar, conectar, praticar
+        - [x] Para saber mais: aprendizado contínuo
+        - [x] Desafio: Learning Canvas
+        - [x] Mão na massa: aprendizagem autônoma
+        - [x] O que aprendemos?
 
-    - [ ] **[Aprendendo com GPT](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/02_Aprendendo_com_GPT/AprendendoComGPT.md)**
-        - [ ] Estilos e preferências de aprendizado
-        - [ ] Alura+ ChatGPT: como construir prompts eficientes
-        - [ ] Estratégias de aprendizado
-        - [ ] Otimizando o aprendizado com prompts
-        - [ ] Sua rotina de estudos
-        - [ ] Faça como eu fiz: construa sua rotina de estudos
-        - [ ] Para saber mais: ética e IA
-        - [ ] Faça como eu fiz: imagine que...
-        - [ ] Para saber mais: prompts para o ChatGPT
-        - [ ] O que aprendemos?
+    - [x] **[Aprendendo com GPT](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/02_Aprendendo_com_GPT/AprendendoComGPT.md)**
+        - [x] Estilos e preferências de aprendizado
+        - [x] Alura+ ChatGPT: como construir prompts eficientes
+        - [x] Estratégias de aprendizado
+        - [x] Otimizando o aprendizado com prompts
+        - [x] Sua rotina de estudos
+        - [x] Faça como eu fiz: construa sua rotina de estudos
+        - [x] Para saber mais: ética e IA
+        - [x] Faça como eu fiz: imagine que...
+        - [x] Para saber mais: prompts para o ChatGPT
+        - [x] O que aprendemos?
 
     - [ ] **[Rodmap de estudos](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/03_Rodmap_de_estudos/RodmapDeEstudos.md)**
         - [ ] Roadmap de estudos
