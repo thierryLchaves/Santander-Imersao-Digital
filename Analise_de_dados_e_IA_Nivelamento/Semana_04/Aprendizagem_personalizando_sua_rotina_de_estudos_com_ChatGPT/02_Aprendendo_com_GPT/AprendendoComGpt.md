@@ -272,6 +272,6 @@ Adapte cada passo do prompt para sua realidade e compartilhe suas dúvidas no F�
 ---
 __Titulo:__ Aprendendo com GPT
 __Autor:__ Thierry Lucas Chaves  
-__Data de Criação:__ 23-05-2026  
-__Data de Modificação:__ 23-05-2026  
+__Data de Criação:__ 27-05-2026  
+__Data de Modificação:__ 28-05-2026  
 __Versão:__ "1.0"
