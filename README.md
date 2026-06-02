@@ -514,30 +514,30 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 </details>
 
 ---
-### Semana - 04
+### [Semana - 04](Analise_de_dados_e_IA_Nivelamento/Semana_04/)
 <details>
   <summary><b>Aulas da Semana - 04</b></summary>
 
 - [ ] **[Excel: aprendendo lógica booleana e busca por valores](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/)**
-    - [ ] **[Funções de pesquisa e referência](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/01_Funcoes_de_pesquisa_e_referencia/FuncoesDePesquisaEReferencia.md)**
-        - [ ] Apresentação
-        - [ ] Preparando o ambiente: planilha Meteora E-commerce
-        - [ ] Busca com PROCV
-        - [ ] Análise de vendas
-        - [ ] Busca com PROCX
-        - [ ] PROCH vs. PROCX
-        - [ ] Faça como eu fiz: pesquisando tamanhos
-        - [ ] O que aprendemos?
+    - [x] **[Funções de pesquisa e referência](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/01_Funcoes_de_pesquisa_e_referencia/FuncoesDePesquisaEReferencia.md)**
+        - [x] Apresentação
+        - [x] Preparando o ambiente: planilha Meteora E-commerce
+        - [x] Busca com PROCV
+        - [x] Análise de vendas
+        - [x] Busca com PROCX
+        - [x] PROCH vs. PROCX
+        - [x] Faça como eu fiz: pesquisando tamanhos
+        - [x] O que aprendemos?
 
-    - [ ] **[Trabalhando com lógica](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/02_Trabalhando_com_logica/TrabalhandoComLogica.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Situação do estoque
-        - [ ] Taxas de cliques
-        - [ ] Comparando SE() e SES()
-        - [ ] Desafio: estoque por categoria
-        - [ ] Juntando Procura e Lógica
-        - [ ] Faça como eu fiz: situação estoque
-        - [ ] O que aprendemos?
+    - [x] **[Trabalhando com lógica](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/02_Trabalhando_com_logica/TrabalhandoComLogica.md)**
+        - [x] Projeto da aula anterior
+        - [x] Situação do estoque
+        - [x] Taxas de cliques
+        - [x] Comparando SE() e SES()
+        - [x] Desafio: estoque por categoria
+        - [x] Juntando Procura e Lógica
+        - [x] Faça como eu fiz: situação estoque
+        - [x] O que aprendemos?
 
     - [ ] **[Desconto progressivo](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/03_Desconto_progressivo/DescontoProgressivo.md)**
         - [ ] Projeto da aula anterior
@@ -568,7 +568,7 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [ ] Conclusão
         - [ ] Créditos
 
-- [ ] **[Aprendizagem: personalizando sua rotina de estudos com ChatGPT](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/)**
+- [x] **[Aprendizagem: personalizando sua rotina de estudos com ChatGPT](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/)**
     - [x] **[Você, Aprendiz](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/01_Voce_aprendiz/VoceAprendiz.md)**
         - [x] Apresentação
         - [x] Slides do curso
@@ -594,36 +594,36 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Para saber mais: prompts para o ChatGPT
         - [x] O que aprendemos?
 
-    - [ ] **[Rodmap de estudos](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/03_Rodmap_de_estudos/RodmapDeEstudos.md)**
-        - [ ] Roadmap de estudos
-        - [ ] Taxonomia de Bloom
-        - [ ] Mão na massa: cronograma de estudos
-        - [ ] Desafio: 7 days of code
-        - [ ] Níveis de aprendizagem
-        - [ ] Avançando no roadmap de estudos
-        - [ ] Mão na massa: crie seu roadmap de estudos
-        - [ ] O que aprendemos?
+    - [x] **[Rodmap de estudos](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/03_Rodmap_de_estudos/RodmapDeEstudos.md)**
+        - [x] Roadmap de estudos
+        - [x] Taxonomia de Bloom
+        - [x] Mão na massa: cronograma de estudos
+        - [x] Desafio: 7 days of code
+        - [x] Níveis de aprendizagem
+        - [x] Avançando no roadmap de estudos
+        - [x] Mão na massa: crie seu roadmap de estudos
+        - [x] O que aprendemos?
 
-    - [ ] **[IA na rotina de estudos](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/04_IA_na_rotina_de_estudos/IANaRotinaDeEstudos.md)**
-        - [ ] Magical IA
-        - [ ] Mão na massa: utilizando a IA do Magical
-        - [ ] IA do Notion
-        - [ ] Gamma APP
-        - [ ] Avaliando as ferramentas
-        - [ ] Para saber mais: explorando outras ferramentas
-        - [ ] Mão na massa: desenvolva seu prompt para o Gamma APP
-        - [ ] O que aprendemos?
+    - [x] **[IA na rotina de estudos](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/04_IA_na_rotina_de_estudos/IANaRotinaDeEstudos.md)**
+        - [x] Magical IA
+        - [x] Mão na massa: utilizando a IA do Magical
+        - [x] IA do Notion
+        - [x] Gamma APP
+        - [x] Avaliando as ferramentas
+        - [x] Para saber mais: explorando outras ferramentas
+        - [x] Mão na massa: desenvolva seu prompt para o Gamma APP
+        - [x] O que aprendemos?
 
-    - [ ] **[Cases: IA aplicada no aprendizado](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/05_Cases_IA_aplicada_no_aprendizado/CasesIAAplicadaNoAprendizado.md)**
-        - [ ] Cases: empresas e IA
-        - [ ] Um olhar sobre empresas inovadoras
-        - [ ] Mão na massa: análise de caso
-        - [ ] Cases: pessoas e IA
-        - [ ] Para saber mais: indicação de TEDx Talks
-        - [ ] Para ir mais fundo
-        - [ ] O que aprendemos?
-        - [ ] Conclusão
-        - [ ] Créditos
+    - [x] **[Cases: IA aplicada no aprendizado](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/05_Cases_IA_aplicada_no_aprendizado/CasesIAAplicadaNoAprendizado.md)**
+        - [x] Cases: empresas e IA
+        - [x] Um olhar sobre empresas inovadoras
+        - [x] Mão na massa: análise de caso
+        - [x] Cases: pessoas e IA
+        - [x] Para saber mais: indicação de TEDx Talks
+        - [x] Para ir mais fundo
+        - [x] O que aprendemos?
+        - [x] Conclusão
+        - [x] Créditos
 
 </details>
 
