@@ -518,7 +518,7 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 <details>
   <summary><b>Aulas da Semana - 04</b></summary>
 
-- [ ] **[Excel: aprendendo lógica booleana e busca por valores](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/)**
+- [x] **[Excel: aprendendo lógica booleana e busca por valores](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/)**
     - [x] **[Funções de pesquisa e referência](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/01_Funcoes_de_pesquisa_e_referencia/FuncoesDePesquisaEReferencia.md)**
         - [x] Apresentação
         - [x] Preparando o ambiente: planilha Meteora E-commerce
@@ -539,34 +539,34 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Faça como eu fiz: situação estoque
         - [x] O que aprendemos?
 
-    - [ ] **[Desconto progressivo](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/03_Desconto_progressivo/DescontoProgressivo.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Procura bi-dimensional
-        - [ ] Índice com Corresp
-        - [ ] Análise de ações
-        - [ ] Calculando o desconto
-        - [ ] Faça como eu fiz: criando o desconto
-        - [ ] O que aprendemos?
+    - [x] **[Desconto progressivo](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/03_Desconto_progressivo/DescontoProgressivo.md)**
+        - [x] Projeto da aula anterior
+        - [x] Procura bi-dimensional
+        - [x] Índice com Corresp
+        - [x] Análise de ações
+        - [x] Calculando o desconto
+        - [x] Faça como eu fiz: criando o desconto
+        - [x] O que aprendemos?
 
-    - [ ] **[Testes lógicos](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/04_Testes_logicos/TestesLogicos.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Desconto do vendedor
-        - [ ] Desconto passo a passo
-        - [ ] CORRESPX()
-        - [ ] Desconto com lógica
-        - [ ] Faça como eu fiz: coluna índice
-        - [ ] O que aprendemos?
+    - [x] **[Testes lógicos](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/04_Testes_logicos/TestesLogicos.md)**
+        - [x] Projeto da aula anterior
+        - [x] Desconto do vendedor
+        - [x] Desconto passo a passo
+        - [x] CORRESPX()
+        - [x] Desconto com lógica
+        - [x] Faça como eu fiz: coluna índice
+        - [x] O que aprendemos?
 
-    - [ ] **[Busca aproximada](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/05_Busca_aproximada/BuscaAproximada.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Procura de valores
-        - [ ] Modo de correspondência
-        - [ ] Faça como eu fiz: produto mais caro
-        - [ ] Explicando o desafio
-        - [ ] Desafio: respondendo as perguntas
-        - [ ] O que aprendemos?
-        - [ ] Conclusão
-        - [ ] Créditos
+    - [x] **[Busca aproximada](Analise_de_dados_e_IA_Nivelamento/Semana_04/Excel_aprendendo_logica_booleana_e_busca_por_valores/05_Busca_aproximada/BuscaAproximada.md)**
+        - [x] Projeto da aula anterior
+        - [x] Procura de valores
+        - [x] Modo de correspondência
+        - [x] Faça como eu fiz: produto mais caro
+        - [x] Explicando o desafio
+        - [x] Desafio: respondendo as perguntas
+        - [x] O que aprendemos?
+        - [x] Conclusão
+        - [x] Créditos
 
 - [x] **[Aprendizagem: personalizando sua rotina de estudos com ChatGPT](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/)**
     - [x] **[Você, Aprendiz](Analise_de_dados_e_IA_Nivelamento/Semana_04/Aprendizagem_personalizando_sua_rotina_de_estudos_com_ChatGPT/01_Voce_aprendiz/VoceAprendiz.md)**
@@ -661,5 +661,5 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 __Titulo:__ Readme
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 23-04-2026  
-__Data de Modificação:__ 28-05-2026  
+__Data de Modificação:__ 03-06-2026  
 __Versão:__ "3.0"
