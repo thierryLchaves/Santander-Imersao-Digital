@@ -3,24 +3,25 @@
 <a id="topo"></a>
 
 ## Sumário
-- [1. Projeto da aula anterior](#1-projeto-da-aula-anterior)
-- [2. Modelo de dados](#2-modelo-de-dados)
-- [3. Tabela dinâmica](#3-tabela-dinâmica)
-- [4. Para saber mais: suplemento Power Pivot](#4-para-saber-mais-suplemento-power-pivot)
-- [5. Filtros visuais](#5-filtros-visuais)
-- [6. Origem dos dados](#6-origem-dos-dados)
-- [7. Faça como eu fiz: segmentação de dados](#7-faça-como-eu-fiz-segmentação-de-dados)
-- [8. O que aprendemos?](#8-o-que-aprendemos)
+- [Origens dos Dados](#origens-dos-dados)
+  - [Sumário](#sumário)
+  - [1. Projeto da aula anterior](#1-projeto-da-aula-anterior)
+  - [2. Modelo de dados](#2-modelo-de-dados)
+  - [O processo de adição de modelos de dados, é utilizando quando por exemplo temos informações em planilhas separadas, quando estávamos trabalhando em  aulas anteriores com a planilha de vendas por exemplo temos o campo de categoria, que originalmente não é oriundo dessa planilha e para que esse fosse adicionado foi necessário a inserção via função _(No caso `PROCX`)_, porém para tabelas dinâmicas podemos realizar esse processo de forma diferente, então seguiremos o mesmo passo de adição de uma tabela dinâmica conforme visto na aula anterior](#o-processo-de-adição-de-modelos-de-dados-é-utilizando-quando-por-exemplo-temos-informações-em-planilhas-separadas-quando-estávamos-trabalhando-em--aulas-anteriores-com-a-planilha-de-vendas-por-exemplo-temos-o-campo-de-categoria-que-originalmente-não-é-oriundo-dessa-planilha-e-para-que-esse-fosse-adicionado-foi-necessário-a-inserção-via-função-no-caso-procx-porém-para-tabelas-dinâmicas-podemos-realizar-esse-processo-de-forma-diferente-então-seguiremos-o-mesmo-passo-de-adição-de-uma-tabela-dinâmica-conforme-visto-na-aula-anterior)
+  - [3. Tabela dinâmica](#3-tabela-dinâmica)
+  - [4. Para saber mais: suplemento Power Pivot](#4-para-saber-mais-suplemento-power-pivot)
+  - [5. Filtros visuais](#5-filtros-visuais)
+  - [6. Origem dos dados](#6-origem-dos-dados)
+  - [7. Faça como eu fiz: segmentação de dados](#7-faça-como-eu-fiz-segmentação-de-dados)
+  - [8. O que aprendemos?](#8-o-que-aprendemos)
 
 ## 1. Projeto da aula anterior
 
-[↑ Voltar ao topo](#topo)
+Para acompanhar o curso com o máximo de aproveitamento, você pode acessar a [planilha](db/Meteora%20Ecommerce%20-%20FINAL%20AULA%201.xlsx). Com a planilha em mãos, você terá a oportunidade de praticar os exercícios propostos, explorar os exemplos e mergulhar ainda mais no aprendizado.
 
 ---
 ## 2. Modelo de dados
-
-[↑ Voltar ao topo](#topo)
-
+O processo de adição de modelos de dados, é utilizando quando por exemplo temos informações em planilhas separadas, quando estávamos trabalhando em  aulas anteriores com a planilha de vendas por exemplo temos o campo de categoria, que originalmente não é oriundo dessa planilha e para que esse fosse adicionado foi necessário a inserção via função _(No caso `PROCX`)_, porém para tabelas dinâmicas podemos realizar esse processo de forma diferente, então seguiremos o mesmo passo de adição de uma tabela dinâmica conforme visto na [aula anterior]()
 ---
 ## 3. Tabela dinâmica
 
