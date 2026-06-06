@@ -635,17 +635,17 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
   <summary><b>Aulas da Semana - 05</b></summary>
 
 - [ ] **[Excel: Utilizando tabelas dinâmicas e gráficos dinâmicos](Analise_de_dados_e_IA_Nivelamento/Semana_05/Excel_Utilizando_tabelas_dinamicas_e_graficos_dinamicos/)**
-    - [ ] **[Conceitos do Excel](Analise_de_dados_e_IA_Nivelamento/Semana_05/Excel_Utilizando_tabelas_dinamicas_e_graficos_dinamicos/01_Conceitos_do_Excel/ConceitosDoExcel.md)**
-        - [ ] Apresentação
-        - [ ] Preparando o ambiente: planilha Meteora E-commerce
-        - [ ] Noções de tabela dinâmica
-        - [ ] Para saber mais: tabelas dinâmicas
-        - [ ] Opções da tabela dinâmica
-        - [ ] Conhecendo o seletor de campos
-        - [ ] Organizando os campos da tabela dinâmica
-        - [ ] Faça como eu fiz: tabela dinâmica de produtos
-        - [ ] Para saber mais: estrutura da tabela dinâmica
-        - [ ] O que aprendemos?
+    - [x] **[Conceitos do Excel](Analise_de_dados_e_IA_Nivelamento/Semana_05/Excel_Utilizando_tabelas_dinamicas_e_graficos_dinamicos/01_Conceitos_do_Excel/ConceitosDoExcel.md)**
+        - [x] Apresentação
+        - [x] Preparando o ambiente: planilha Meteora E-commerce
+        - [x] Noções de tabela dinâmica
+        - [x] Para saber mais: tabelas dinâmicas
+        - [x] Opções da tabela dinâmica
+        - [x] Conhecendo o seletor de campos
+        - [x] Organizando os campos da tabela dinâmica
+        - [x] Faça como eu fiz: tabela dinâmica de produtos
+        - [x] Para saber mais: estrutura da tabela dinâmica
+        - [x] O que aprendemos?
     - [ ] **[Origens dos Dados](Analise_de_dados_e_IA_Nivelamento/Semana_05/Excel_Utilizando_tabelas_dinamicas_e_graficos_dinamicos/02_Origens_dos_Dados/OrigensDosDados.md)**
         - [ ] Projeto da aula anterior
         - [ ] Modelo de dados
@@ -765,5 +765,5 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 __Titulo:__ Readme
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 23-04-2026  
-__Data de Modificação:__ 04-06-2026  
+__Data de Modificação:__ 06-06-2026  
 __Versão:__ "4.0"
