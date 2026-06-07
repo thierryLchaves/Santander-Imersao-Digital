@@ -634,7 +634,7 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 <details>
   <summary><b>Aulas da Semana - 05</b></summary>
 
-- [ ] **[Excel: Utilizando tabelas dinâmicas e gráficos dinâmicos](Analise_de_dados_e_IA_Nivelamento/Semana_05/Excel_Utilizando_tabelas_dinamicas_e_graficos_dinamicos/)**
+- [x] **[Excel: Utilizando tabelas dinâmicas e gráficos dinâmicos](Analise_de_dados_e_IA_Nivelamento/Semana_05/Excel_Utilizando_tabelas_dinamicas_e_graficos_dinamicos/)**
     - [x] **[Conceitos do Excel](Analise_de_dados_e_IA_Nivelamento/Semana_05/Excel_Utilizando_tabelas_dinamicas_e_graficos_dinamicos/01_Conceitos_do_Excel/ConceitosDoExcel.md)**
         - [x] Apresentação
         - [x] Preparando o ambiente: planilha Meteora E-commerce
@@ -646,44 +646,44 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Faça como eu fiz: tabela dinâmica de produtos
         - [x] Para saber mais: estrutura da tabela dinâmica
         - [x] O que aprendemos?
-    - [ ] **[Origens dos Dados](Analise_de_dados_e_IA_Nivelamento/Semana_05/Excel_Utilizando_tabelas_dinamicas_e_graficos_dinamicos/02_Origens_dos_Dados/OrigensDosDados.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Modelo de dados
-        - [ ] Tabela dinâmica
-        - [ ] Para saber mais: suplemento Power Pivot
-        - [ ] Filtros visuais
-        - [ ] Origem dos dados
-        - [ ] Faça como eu fiz: segmentação de dados
-        - [ ] O que aprendemos?
-    - [ ] **[Gráficos dinâmicos](Analise_de_dados_e_IA_Nivelamento/Semana_05/Excel_Utilizando_tabelas_dinamicas_e_graficos_dinamicos/03_Graficos_dinamicos/GraficosDinamicos.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Criando o dashboard com dinâmica
-        - [ ] Criando gráficos dinâmicos
-        - [ ] Para saber mais: gráficos dinâmicos
-        - [ ] Dados visuais
-        - [ ] Ranking de vendedores
-        - [ ] Faça como eu fiz: ranking de vendedores
-        - [ ] O que aprendemos?
-    - [ ] **[Modelo de dados](Analise_de_dados_e_IA_Nivelamento/Semana_05/Excel_Utilizando_tabelas_dinamicas_e_graficos_dinamicos/04_Modelo_de_dados/ModeloDeDados.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Criando medidas com fórmula DAX
-        - [ ] Percentual de vendas
-        - [ ] Vendas por categoria
-        - [ ] Carregando dados externos
-        - [ ] Faça como eu fiz: importando dados externos
-        - [ ] Para saber mais: suplemento Power Query
-        - [ ] O que aprendemos?
-    - [ ] **[Finalizando o dashboard](Analise_de_dados_e_IA_Nivelamento/Semana_05/Excel_Utilizando_tabelas_dinamicas_e_graficos_dinamicos/05_Finalizando_o_dashboard/FinalizandoODashboard.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Ajustando o dashboard
-        - [ ] Classificando os dados
-        - [ ] Faça como eu fiz: classificando os dados de vendedores
-        - [ ] Revisão para desafio
-        - [ ] Desafio: histórico de vendas
-        - [ ] Projeto final do curso
-        - [ ] O que aprendemos?
-        - [ ] Conclusão
-        - [ ] Créditos
+    - [x] **[Origens dos Dados](Analise_de_dados_e_IA_Nivelamento/Semana_05/Excel_Utilizando_tabelas_dinamicas_e_graficos_dinamicos/02_Origens_dos_Dados/OrigensDosDados.md)**
+        - [x] Projeto da aula anterior
+        - [x] Modelo de dados
+        - [x] Tabela dinâmica
+        - [x] Para saber mais: suplemento Power Pivot
+        - [x] Filtros visuais
+        - [x] Origem dos dados
+        - [x] Faça como eu fiz: segmentação de dados
+        - [x] O que aprendemos?
+    - [x] **[Gráficos dinâmicos](Analise_de_dados_e_IA_Nivelamento/Semana_05/Excel_Utilizando_tabelas_dinamicas_e_graficos_dinamicos/03_Graficos_dinamicos/GraficosDinamicos.md)**
+        - [x] Projeto da aula anterior
+        - [x] Criando o dashboard com dinâmica
+        - [x] Criando gráficos dinâmicos
+        - [x] Para saber mais: gráficos dinâmicos
+        - [x] Dados visuais
+        - [x] Ranking de vendedores
+        - [x] Faça como eu fiz: ranking de vendedores
+        - [x] O que aprendemos?
+    - [x] **[Modelo de dados](Analise_de_dados_e_IA_Nivelamento/Semana_05/Excel_Utilizando_tabelas_dinamicas_e_graficos_dinamicos/04_Modelo_de_dados/ModeloDeDados.md)**
+        - [x] Projeto da aula anterior
+        - [x] Criando medidas com fórmula DAX
+        - [x] Percentual de vendas
+        - [x] Vendas por categoria
+        - [x] Carregando dados externos
+        - [x] Faça como eu fiz: importando dados externos
+        - [x] Para saber mais: suplemento Power Query
+        - [x] O que aprendemos?
+    - [x] **[Finalizando o dashboard](Analise_de_dados_e_IA_Nivelamento/Semana_05/Excel_Utilizando_tabelas_dinamicas_e_graficos_dinamicos/05_Finalizando_o_dashboard/FinalizandoODashboard.md)**
+        - [x] Projeto da aula anterior
+        - [x] Ajustando o dashboard
+        - [x] Classificando os dados
+        - [x] Faça como eu fiz: classificando os dados de vendedores
+        - [x] Revisão para desafio
+        - [x] Desafio: histórico de vendas
+        - [x] Projeto final do curso
+        - [x] O que aprendemos?
+        - [x] Conclusão
+        - [x] Créditos
 
 - [ ] **[BI com Excel: Trabalhando com tabelas dinâmicas com Power Pivot](Analise_de_dados_e_IA_Nivelamento/Semana_05/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/)**
     - [ ] **[Relembrando a tabela dinâmica](Analise_de_dados_e_IA_Nivelamento/Semana_05/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/01_Relembrando_a_tabela_dinamica/RelembrandoATabelaDinamica.md)**

@@ -162,7 +162,11 @@ def criar_arquivos_md(semana, aulas_info):
         caminho_pasta.mkdir(parents=True, exist_ok=True)
 
         # Criação da estruturação de pastas de apoio (imgs, db, src) com .gitkeep
-        for sub in ["imgs", "db", "src"]:
+        pastas_apoio = ["imgs", "db"]
+        if not is_excel:
+            pastas_apoio.append("src")
+
+        for sub in pastas_apoio:
             sub_path = caminho_pasta / sub
             sub_path.mkdir(parents=True, exist_ok=True)
             (sub_path / ".gitkeep").touch()
