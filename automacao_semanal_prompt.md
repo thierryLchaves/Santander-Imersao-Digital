@@ -22,48 +22,98 @@ Por favor, siga os passos abaixo:
 5. IMPORTANTE: Sempre que realizar qualquer edição no `README.md`, não se esqueça de ir até o rodapé e atualizar a **Data de Modificação** para a data corrente, além de atualizar/incrementar a **Versão**.
 
 <lista_bruta_da_semana>
-Análise de dados: Cálculos, padrões e estratégias com Excel
-  Visualização de Dados
-    Introdução
-    Botando a mão na massa
-    Visualização de variáveis categóricas
-    Visualização de variáveis quantitativas
-    Visualização de uma Série Temporal
-    Cuidado com as barras
-    Faça como eu fiz na aula
-    O que aprendemos?
-  Medidas de Posição
-    Uma medida que resume uma coluna
-    Uma medida que divide a coluna duas metades
-    Média Condicional
-    Média ou Mediana?
-    Faça como eu fiz na aula
-    O que aprendemos?
-  Medidas de Dispersão
-    Observando a variação dos dados
-    A variância
-    Desvio Padrão
-    Comentários sobre as medidas de dispersão
-    Variância varia e desvio desvia
-    Faça como eu fiz na aula
-    O que aprendemos?
-  Padronização Amostragem e Frequência
-    Padronização de uma coluna
-    Amostragem
-    Frequência
-    A parte e o todo
-    Faça como eu fiz na aula
-    O que aprendemos?
-  Ferramentas de Análise Rápida
-    Técnicas básicas de resumo rápido
-    Assistente de estatística descritiva
-    Ferramenta de sumarização seletiva
-    Medidas descritivas imediatas
-    Conclusão
-    Quem conta um conto aumenta um ponto
-    Projeto final do curso
-    Faça como eu fiz na aula
-    O que aprendemos?
+Excel: Simulação e análise de cenários
+  - Pequenas boas práticas
+     -Introdução
+     -Material do curso
+     -Importando dados e fórmulas condicionais
+     -Nomes e boas práticas
+     -Definindo média
+     -Faça como eu fiz na aula
+     -O que aprendemos?
+  - Importando e atualizando
+    -Projeto da aula anterior
+    -Auto atualização e histogramas
+    -Conexão com fontes externas
+    -Visualização de dados
+    -Faça como eu fiz na aula
+    -O que aprendemos?
+  - Validação
+    -Projeto da aula anterior
+    -Células de validação e fazendo testes pequenos
+    -Testando estimativas
+    -Expandindo para 2 anos
+    -Faça como eu fiz na aula
+    -O que aprendemos?
+  - Rodando Cenários
+    -Projeto da aula anterior
+    -Cenários distintos e teste de hipótese
+    -Criação de cenário
+    -Protegendo a planilha e comentários
+    -Medidas de precaução
+    -Faça como eu fiz na aula
+    -O que aprendemos?
+   - Gerenciando 
+    -Projeto da aula anterior
+    -Gerenciador de cenários
+    -Análise de cenário
+    -Faça como eu fiz na aula
+    -O que aprendemos?
+  - Metas e mais cenários complexos
+    -Projeto da aula anterior
+    -Cenários com filtros e validação
+    -Índice e correspondente como boa prática
+    -Atingindo metas nos modelos
+    -Lucro previsto
+    -Conclusão
+    -Projeto
+    -Faça como eu fiz na aula
+    -O que aprendemos?
+
+BI com Excel: Trabalhando com tabelas dinâmicas com Power Pivot
+   - Relembrando tabela dinâmica
+     - Apresentação
+     - Conceito de tabela dinâmica
+     - Vantagens da tabela dinâmica
+     - Preparando o ambiente: planilha Serenatto Café e Bistrô
+     - Seletor de campos
+     - Formatando uma tabela dinâmica
+     - Faça como eu fiz: criando uma tabela dinâmica
+     - O que aprendemos?
+   - Opções de tabela Dinâmica
+     - Projeto da aula anterior
+     - Linha do tempo
+     - Segmentação de dados
+     - Filtros na tabela dinâmica
+     - Origens de dados
+     - Faça como eu fiz: inserindo uma segmentação de dados
+     - O que aprendemos?
+   - Conhecendo Power Pivot
+     - Projeto da aula anterior
+     - O que é Power Pivot?
+     - Relacionando duas tabelas
+     - Faça como eu fiz: habilitando o Power Pivot
+     - Relacionando três tabelas
+     - Tabela fato versus Tabela dimensão?
+     - O que aprendemos?
+   - Usando modelo de dados
+     - Projeto da aula anterior
+     - Criando tabelas dinâmicas
+     - Criando uma coluna calculada
+     - Para saber mais: fórmulas DAX
+     - Calculando a venda total dos produtos
+     - Aplicando filtros
+     - Faça como eu fiz: criando uma coluna calculada
+     - O que aprendemos?
+   - Finalizando tabelas
+     - Projeto da aula anterior
+     - Gerenciando o Power Pivot
+     - Desafio: criar um gráfico dinâmico no Power Pivot
+     - Desafio: explicação
+     - Projeto final do curso
+     - O que aprendemos?
+     - Conclusão
+
 </lista_bruta_da_semana>
 
 ### Passo 2: Aplicação dos Links
