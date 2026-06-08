@@ -684,50 +684,48 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] O que aprendemos?
         - [x] Conclusão
         - [x] Créditos
-
-- [ ] **[BI com Excel: Trabalhando com tabelas dinâmicas com Power Pivot](Analise_de_dados_e_IA_Nivelamento/Semana_05/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/)**
-    - [ ] **[Relembrando a tabela dinâmica](Analise_de_dados_e_IA_Nivelamento/Semana_05/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/01_Relembrando_a_tabela_dinamica/RelembrandoATabelaDinamica.md)**
-        - [ ] Apresentação
-        - [ ] Conceito de tabela dinâmica
-        - [ ] Vantagens da tabela dinâmica
-        - [ ] Preparando o ambiente: planilha Serenatto Café e Bistrô
-        - [ ] Seletor de campos
-        - [ ] Formatando uma tabela dinâmica
-        - [ ] Faça como eu fiz: criando uma tabela dinâmica
+- [ ] **[Análise de dados: Cálculos, padrões e estratégias com Excel](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/)**
+    - [ ] **[Visualização de Dados](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/01_Visualizacao_de_Dados/VisualizacaoDeDados.md)**
+        - [ ] Introdução
+        - [ ] Botando a mão na massa
+        - [ ] Visualização de variáveis categóricas
+        - [ ] Visualização de variáveis quantitativas
+        - [ ] Visualização de uma Série Temporal
+        - [ ] Cuidado com as barras
+        - [ ] Faça como eu fiz na aula
         - [ ] O que aprendemos?
-    - [ ] **[Opções de tabela dinâmica](Analise_de_dados_e_IA_Nivelamento/Semana_05/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/02_Opcoes_de_tabela_dinamica/OpcoesDeTabelaDinamica.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Linha do tempo
-        - [ ] Segmentação de dados
-        - [ ] Filtros na tabela dinâmica
-        - [ ] Origens de dados
-        - [ ] Faça como eu fiz: inserindo uma segmentação de dados
+    - [ ] **[Medidas de Posição](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/02_Medidas_de_Posicao/MedidasDePosicao.md)**
+        - [ ] Uma medida que resume uma coluna
+        - [ ] Uma medida que divide a coluna duas metades
+        - [ ] Média Condicional
+        - [ ] Média ou Mediana?
+        - [ ] Faça como eu fiz na aula
         - [ ] O que aprendemos?
-    - [ ] **[Conhecendo Power Pivot](Analise_de_dados_e_IA_Nivelamento/Semana_05/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/03_Conhecendo_Power_Pivot/ConhecendoPowerPivot.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] O que é Power Pivot?
-        - [ ] Relacionando duas tabelas
-        - [ ] Faça como eu fiz: habilitando o Power Pivot
-        - [ ] Relacionando três tabelas
-        - [ ] Tabela fato versus Tabela dimensão?
+    - [ ] **[Medidas de Dispersão](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/03_Medidas_de_Dispersao/MedidasDeDispersao.md)**
+        - [ ] Observando a variação dos dados
+        - [ ] A variância
+        - [ ] Desvio Padrão
+        - [ ] Comentários sobre as medidas de dispersão
+        - [ ] Variância varia e desvio desvia
+        - [ ] Faça como eu fiz na aula
         - [ ] O que aprendemos?
-    - [ ] **[Usando o modelo de dados](Analise_de_dados_e_IA_Nivelamento/Semana_05/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/04_Usando_o_modelo_de_dados/UsandoOModeloDeDados.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Criando tabelas dinâmicas
-        - [ ] Criando uma coluna calculada
-        - [ ] Para saber mais: fórmulas DAX
-        - [ ] Calculando a venda total dos produtos
-        - [ ] Aplicando filtros
-        - [ ] Faça como eu fiz: criando uma coluna calculada
+    - [ ] **[Padronização Amostragem e Frequência](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/04_Padronizacao_Amostragem_e_Frequencia/PadronizacaoAmostragemEFrequencia.md)**
+        - [ ] Padronização de uma coluna
+        - [ ] Amostragem
+        - [ ] Frequência
+        - [ ] A parte e o todo
+        - [ ] Faça como eu fiz na aula
         - [ ] O que aprendemos?
-    - [ ] **[Finalizando as tabelas](Analise_de_dados_e_IA_Nivelamento/Semana_05/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/05_Finalizando_as_tabelas/FinalizandoAsTabelas.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Gerenciando o Power Pivot
-        - [ ] Desafio: criar um gráfico dinâmico no Power Pivot
-        - [ ] Desafio: explicação
-        - [ ] Projeto final do curso
-        - [ ] O que aprendemos?
+    - [ ] **[Ferramentas de Análise Rápida](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/05_Ferramentas_de_Analise_Rapida/FerramentasDeAnaliseRapida.md)**
+        - [ ] Técnicas básicas de resumo rápido
+        - [ ] Assistente de estatística descritiva
+        - [ ] Ferramenta de sumarização seletiva
+        - [ ] Medidas descritivas imediatas
         - [ ] Conclusão
+        - [ ] Quem conta um conto aumenta um ponto
+        - [ ] Projeto final do curso
+        - [ ] Faça como eu fiz na aula
+        - [ ] O que aprendemos?
 
 </details>
 
@@ -765,5 +763,5 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 __Titulo:__ Readme
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 23-04-2026  
-__Data de Modificação:__ 06-06-2026  
-__Versão:__ "4.0"
+__Data de Modificação:__ 08-06-2026
+__Versão:__ "6.0"

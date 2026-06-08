@@ -1,48 +1,48 @@
-# Relembrando a tabela dinâmica
+# Visualização de Dados
 
 <a id="topo"></a>
 
 ## Sumário
-- [1. Apresentação](#1-apresentação)
-- [2. Conceito de tabela dinâmica](#2-conceito-de-tabela-dinâmica)
-- [3. Vantagens da tabela dinâmica](#3-vantagens-da-tabela-dinâmica)
-- [4. Preparando o ambiente: planilha Serenatto Café e Bistrô](#4-preparando-o-ambiente-planilha-serenatto-café-e-bistrô)
-- [5. Seletor de campos](#5-seletor-de-campos)
-- [6. Formatando uma tabela dinâmica](#6-formatando-uma-tabela-dinâmica)
-- [7. Faça como eu fiz: criando uma tabela dinâmica](#7-faça-como-eu-fiz-criando-uma-tabela-dinâmica)
+- [1. Introdução](#1-introdução)
+- [2. Botando a mão na massa](#2-botando-a-mão-na-massa)
+- [3. Visualização de variáveis categóricas](#3-visualização-de-variáveis-categóricas)
+- [4. Visualização de variáveis quantitativas](#4-visualização-de-variáveis-quantitativas)
+- [5. Visualização de uma Série Temporal](#5-visualização-de-uma-série-temporal)
+- [6. Cuidado com as barras](#6-cuidado-com-as-barras)
+- [7. Faça como eu fiz na aula](#7-faça-como-eu-fiz-na-aula)
 - [8. O que aprendemos?](#8-o-que-aprendemos)
 
-## 1. Apresentação
+## 1. Introdução
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 2. Conceito de tabela dinâmica
+## 2. Botando a mão na massa
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 3. Vantagens da tabela dinâmica
+## 3. Visualização de variáveis categóricas
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 4. Preparando o ambiente: planilha Serenatto Café e Bistrô
+## 4. Visualização de variáveis quantitativas
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 5. Seletor de campos
+## 5. Visualização de uma Série Temporal
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 6. Formatando uma tabela dinâmica
+## 6. Cuidado com as barras
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 7. Faça como eu fiz: criando uma tabela dinâmica
+## 7. Faça como eu fiz na aula
 
 [↑ Voltar ao topo](#topo)
 
@@ -80,8 +80,8 @@
 
 
 ---
-__Titulo:__ Relembrando a tabela dinâmica
+__Titulo:__ Visualização de Dados
 __Autor:__ Thierry Lucas Chaves  
-__Data de Criação:__ 04-06-2026  
-__Data de Modificação:__ 04-06-2026  
+__Data de Criação:__ 08-06-2026  
+__Data de Modificação:__ 08-06-2026  
 __Versão:__ "1.0"

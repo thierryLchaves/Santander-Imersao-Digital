@@ -1,42 +1,42 @@
-# Opções de tabela dinâmica
+# Medidas de Dispersão
 
 <a id="topo"></a>
 
 ## Sumário
-- [1. Projeto da aula anterior](#1-projeto-da-aula-anterior)
-- [2. Linha do tempo](#2-linha-do-tempo)
-- [3. Segmentação de dados](#3-segmentação-de-dados)
-- [4. Filtros na tabela dinâmica](#4-filtros-na-tabela-dinâmica)
-- [5. Origens de dados](#5-origens-de-dados)
-- [6. Faça como eu fiz: inserindo uma segmentação de dados](#6-faça-como-eu-fiz-inserindo-uma-segmentação-de-dados)
+- [1. Observando a variação dos dados](#1-observando-a-variação-dos-dados)
+- [2. A variância](#2-a-variância)
+- [3. Desvio Padrão](#3-desvio-padrão)
+- [4. Comentários sobre as medidas de dispersão](#4-comentários-sobre-as-medidas-de-dispersão)
+- [5. Variância varia e desvio desvia](#5-variância-varia-e-desvio-desvia)
+- [6. Faça como eu fiz na aula](#6-faça-como-eu-fiz-na-aula)
 - [7. O que aprendemos?](#7-o-que-aprendemos)
 
-## 1. Projeto da aula anterior
+## 1. Observando a variação dos dados
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 2. Linha do tempo
+## 2. A variância
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 3. Segmentação de dados
+## 3. Desvio Padrão
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 4. Filtros na tabela dinâmica
+## 4. Comentários sobre as medidas de dispersão
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 5. Origens de dados
+## 5. Variância varia e desvio desvia
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 6. Faça como eu fiz: inserindo uma segmentação de dados
+## 6. Faça como eu fiz na aula
 
 [↑ Voltar ao topo](#topo)
 
@@ -74,8 +74,8 @@
 
 
 ---
-__Titulo:__ Opções de tabela dinâmica
+__Titulo:__ Medidas de Dispersão
 __Autor:__ Thierry Lucas Chaves  
-__Data de Criação:__ 04-06-2026  
-__Data de Modificação:__ 04-06-2026  
+__Data de Criação:__ 08-06-2026  
+__Data de Modificação:__ 08-06-2026  
 __Versão:__ "1.0"

@@ -52,13 +52,19 @@ def parse_readme(semana):
     in_semana = False
     for line in lines:
         # Identifica em qual semana estamos lendo
-        if line.strip().startswith(f"### Semana - {semana}"):
+        if line.strip().startswith(f"### Semana - {semana}") or line.strip().startswith(
+            f"### [Semana - {semana}"
+        ):
             in_semana = True
             continue
 
         if in_semana:
             # Encerra leitura se encontrar a próxima semana ou o final do bloco
-            if line.strip().startswith("### Semana -") or line.strip() == "</details>":
+            if (
+                line.strip().startswith("### Semana -")
+                or line.strip().startswith("### [Semana -")
+                or line.strip() == "</details>"
+            ):
                 break
 
             # Normaliza possíveis Tabs para 4 espaços p/ garantir leitura correta
