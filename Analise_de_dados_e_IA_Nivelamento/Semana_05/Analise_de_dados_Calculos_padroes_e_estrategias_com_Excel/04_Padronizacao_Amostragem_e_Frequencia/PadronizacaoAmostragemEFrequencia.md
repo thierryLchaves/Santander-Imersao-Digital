@@ -1,53 +1,41 @@
-# Usando o modelo de dados
+# Padronização Amostragem e Frequência
 
 <a id="topo"></a>
 
 ## Sumário
-- [1. Projeto da aula anterior](#1-projeto-da-aula-anterior)
-- [2. Criando tabelas dinâmicas](#2-criando-tabelas-dinâmicas)
-- [3. Criando uma coluna calculada](#3-criando-uma-coluna-calculada)
-- [4. Para saber mais: fórmulas DAX](#4-para-saber-mais-fórmulas-dax)
-- [5. Calculando a venda total dos produtos](#5-calculando-a-venda-total-dos-produtos)
-- [6. Aplicando filtros](#6-aplicando-filtros)
-- [7. Faça como eu fiz: criando uma coluna calculada](#7-faça-como-eu-fiz-criando-uma-coluna-calculada)
-- [8. O que aprendemos?](#8-o-que-aprendemos)
+- [1. Padronização de uma coluna](#1-padronização-de-uma-coluna)
+- [2. Amostragem](#2-amostragem)
+- [3. Frequência](#3-frequência)
+- [4. A parte e o todo](#4-a-parte-e-o-todo)
+- [5. Faça como eu fiz na aula](#5-faça-como-eu-fiz-na-aula)
+- [6. O que aprendemos?](#6-o-que-aprendemos)
 
-## 1. Projeto da aula anterior
+## 1. Padronização de uma coluna
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 2. Criando tabelas dinâmicas
+## 2. Amostragem
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 3. Criando uma coluna calculada
+## 3. Frequência
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 4. Para saber mais: fórmulas DAX
+## 4. A parte e o todo
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 5. Calculando a venda total dos produtos
+## 5. Faça como eu fiz na aula
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 6. Aplicando filtros
-
-[↑ Voltar ao topo](#topo)
-
----
-## 7. Faça como eu fiz: criando uma coluna calculada
-
-[↑ Voltar ao topo](#topo)
-
----
-## 8. O que aprendemos?
+## 6. O que aprendemos?
 
 [↑ Voltar ao topo](#topo)
 
@@ -80,8 +68,8 @@
 
 
 ---
-__Titulo:__ Usando o modelo de dados
+__Titulo:__ Padronização Amostragem e Frequência
 __Autor:__ Thierry Lucas Chaves  
-__Data de Criação:__ 04-06-2026  
-__Data de Modificação:__ 04-06-2026  
+__Data de Criação:__ 08-06-2026  
+__Data de Modificação:__ 08-06-2026  
 __Versão:__ "1.0"

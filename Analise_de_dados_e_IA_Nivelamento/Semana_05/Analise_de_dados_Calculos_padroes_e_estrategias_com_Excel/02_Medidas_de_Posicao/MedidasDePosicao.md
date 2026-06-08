@@ -1,47 +1,41 @@
-# Conhecendo Power Pivot
+# Medidas de Posição
 
 <a id="topo"></a>
 
 ## Sumário
-- [1. Projeto da aula anterior](#1-projeto-da-aula-anterior)
-- [2. O que é Power Pivot?](#2-o-que-é-power-pivot)
-- [3. Relacionando duas tabelas](#3-relacionando-duas-tabelas)
-- [4. Faça como eu fiz: habilitando o Power Pivot](#4-faça-como-eu-fiz-habilitando-o-power-pivot)
-- [5. Relacionando três tabelas](#5-relacionando-três-tabelas)
-- [6. Tabela fato versus Tabela dimensão?](#6-tabela-fato-versus-tabela-dimensão)
-- [7. O que aprendemos?](#7-o-que-aprendemos)
+- [1. Uma medida que resume uma coluna](#1-uma-medida-que-resume-uma-coluna)
+- [2. Uma medida que divide a coluna duas metades](#2-uma-medida-que-divide-a-coluna-duas-metades)
+- [3. Média Condicional](#3-média-condicional)
+- [4. Média ou Mediana?](#4-média-ou-mediana)
+- [5. Faça como eu fiz na aula](#5-faça-como-eu-fiz-na-aula)
+- [6. O que aprendemos?](#6-o-que-aprendemos)
 
-## 1. Projeto da aula anterior
-
-[↑ Voltar ao topo](#topo)
-
----
-## 2. O que é Power Pivot?
+## 1. Uma medida que resume uma coluna
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 3. Relacionando duas tabelas
+## 2. Uma medida que divide a coluna duas metades
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 4. Faça como eu fiz: habilitando o Power Pivot
+## 3. Média Condicional
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 5. Relacionando três tabelas
+## 4. Média ou Mediana?
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 6. Tabela fato versus Tabela dimensão?
+## 5. Faça como eu fiz na aula
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 7. O que aprendemos?
+## 6. O que aprendemos?
 
 [↑ Voltar ao topo](#topo)
 
@@ -74,8 +68,8 @@
 
 
 ---
-__Titulo:__ Conhecendo Power Pivot
+__Titulo:__ Medidas de Posição
 __Autor:__ Thierry Lucas Chaves  
-__Data de Criação:__ 04-06-2026  
-__Data de Modificação:__ 04-06-2026  
+__Data de Criação:__ 08-06-2026  
+__Data de Modificação:__ 08-06-2026  
 __Versão:__ "1.0"

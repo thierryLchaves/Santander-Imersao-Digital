@@ -1,47 +1,59 @@
-# Finalizando as tabelas
+# Ferramentas de Análise Rápida
 
 <a id="topo"></a>
 
 ## Sumário
-- [1. Projeto da aula anterior](#1-projeto-da-aula-anterior)
-- [2. Gerenciando o Power Pivot](#2-gerenciando-o-power-pivot)
-- [3. Desafio: criar um gráfico dinâmico no Power Pivot](#3-desafio-criar-um-gráfico-dinâmico-no-power-pivot)
-- [4. Desafio: explicação](#4-desafio-explicação)
-- [5. Projeto final do curso](#5-projeto-final-do-curso)
-- [6. O que aprendemos?](#6-o-que-aprendemos)
-- [7. Conclusão](#7-conclusão)
+- [1. Técnicas básicas de resumo rápido](#1-técnicas-básicas-de-resumo-rápido)
+- [2. Assistente de estatística descritiva](#2-assistente-de-estatística-descritiva)
+- [3. Ferramenta de sumarização seletiva](#3-ferramenta-de-sumarização-seletiva)
+- [4. Medidas descritivas imediatas](#4-medidas-descritivas-imediatas)
+- [5. Conclusão](#5-conclusão)
+- [6. Quem conta um conto aumenta um ponto](#6-quem-conta-um-conto-aumenta-um-ponto)
+- [7. Projeto final do curso](#7-projeto-final-do-curso)
+- [8. Faça como eu fiz na aula](#8-faça-como-eu-fiz-na-aula)
+- [9. O que aprendemos?](#9-o-que-aprendemos)
 
-## 1. Projeto da aula anterior
-
-[↑ Voltar ao topo](#topo)
-
----
-## 2. Gerenciando o Power Pivot
+## 1. Técnicas básicas de resumo rápido
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 3. Desafio: criar um gráfico dinâmico no Power Pivot
+## 2. Assistente de estatística descritiva
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 4. Desafio: explicação
+## 3. Ferramenta de sumarização seletiva
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 5. Projeto final do curso
+## 4. Medidas descritivas imediatas
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 6. O que aprendemos?
+## 5. Conclusão
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 7. Conclusão
+## 6. Quem conta um conto aumenta um ponto
+
+[↑ Voltar ao topo](#topo)
+
+---
+## 7. Projeto final do curso
+
+[↑ Voltar ao topo](#topo)
+
+---
+## 8. Faça como eu fiz na aula
+
+[↑ Voltar ao topo](#topo)
+
+---
+## 9. O que aprendemos?
 
 [↑ Voltar ao topo](#topo)
 
@@ -74,8 +86,8 @@
 
 
 ---
-__Titulo:__ Finalizando as tabelas
+__Titulo:__ Ferramentas de Análise Rápida
 __Autor:__ Thierry Lucas Chaves  
-__Data de Criação:__ 04-06-2026  
-__Data de Modificação:__ 04-06-2026  
+__Data de Criação:__ 08-06-2026  
+__Data de Modificação:__ 08-06-2026  
 __Versão:__ "1.0"
