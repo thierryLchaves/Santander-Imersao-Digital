@@ -736,14 +736,14 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
   <summary><b>Aulas da Semana - 06</b></summary>
 
 - [ ] **[Excel: Simulação e análise de cenários](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/)**
-    - [ ] **[Pequenas boas práticas](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/01_Pequenas_boas_praticas/PequenasBoasPraticas.md)**
-        - [ ] Introdução
-        - [ ] Material do curso
-        - [ ] Importando dados e fórmulas condicionais
-        - [ ] Nomes e boas práticas
-        - [ ] Definindo média
-        - [ ] Faça como eu fiz na aula
-        - [ ] O que aprendemos?
+    - [x] **[Pequenas boas práticas](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/01_Pequenas_boas_praticas/PequenasBoasPraticas.md)**
+        - [x] Introdução
+        - [x] Material do curso
+        - [x] Importando dados e fórmulas condicionais
+        - [x] Nomes e boas práticas
+        - [x] Definindo média
+        - [x] Faça como eu fiz na aula
+        - [x] O que aprendemos?
     - [ ] **[Importando e atualizando](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/02_Importando_e_atualizando/ImportandoEAtualizando.md)**
         - [ ] Projeto da aula anterior
         - [ ] Auto atualização e histogramas
