@@ -685,7 +685,7 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] O que aprendemos?
         - [x] Conclusão
         - [x] Créditos
-- [ ] **[Análise de dados: Cálculos, padrões e estratégias com Excel](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/)**
+- [x] **[Análise de dados: Cálculos, padrões e estratégias com Excel](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/)**
     - [x] **[Visualização de Dados](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/01_Visualizacao_de_Dados/VisualizacaoDeDados.md)**
         - [x] Introdução
         - [x] Botando a mão na massa
@@ -717,16 +717,16 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] A parte e o todo
         - [x] Faça como eu fiz na aula
         - [x] O que aprendemos?
-    - [ ] **[Ferramentas de Análise Rápida](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/05_Ferramentas_de_Analise_Rapida/FerramentasDeAnaliseRapida.md)**
-        - [ ] Técnicas básicas de resumo rápido
-        - [ ] Assistente de estatística descritiva
-        - [ ] Ferramenta de sumarização seletiva
-        - [ ] Medidas descritivas imediatas
-        - [ ] Conclusão
-        - [ ] Quem conta um conto aumenta um ponto
-        - [ ] Projeto final do curso
-        - [ ] Faça como eu fiz na aula
-        - [ ] O que aprendemos?
+    - [x] **[Ferramentas de Análise Rápida](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/05_Ferramentas_de_Analise_Rapida/FerramentasDeAnaliseRapida.md)**
+        - [x] Técnicas básicas de resumo rápido
+        - [x] Assistente de estatística descritiva
+        - [x] Ferramenta de sumarização seletiva
+        - [x] Medidas descritivas imediatas
+        - [x] Conclusão
+        - [x] Quem conta um conto aumenta um ponto
+        - [x] Projeto final do curso
+        - [x] Faça como eu fiz na aula
+        - [x] O que aprendemos?
 
 </details>
 
@@ -832,6 +832,8 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 ---
 [↑ Voltar ao topo](#topo)
 
+
+
 ---
 <table align="center" style="border-collapse: collapse; margin-left: auto; margin-right: auto;"> 
   <caption><b>Skills do projeto</b></caption>
@@ -860,8 +862,8 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 </table>
 
 ---
-__Titulo:__ Readme
-__Autor:__ Thierry Lucas Chaves  
-__Data de Criação:__ 23-04-2026  
-__Data de Modificação:__ 08-06-2026
-__Versão:__ "7.0"
+__Titulo:__ Readme  
+__Autor:__ Thierry Lucas Chaves    
+__Data de Criação:__ 23-04-2026    
+__Data de Modificação:__ 09-06-2026   
+__Versão:__ "7.0"  
