@@ -702,14 +702,14 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Média ou Mediana?
         - [x] Faça como eu fiz na aula
         - [x] O que aprendemos?
-    - [ ] **[Medidas de Dispersão](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/03_Medidas_de_Dispersao/MedidasDeDispersao.md)**
-        - [ ] Observando a variação dos dados
-        - [ ] A variância
-        - [ ] Desvio Padrão
-        - [ ] Comentários sobre as medidas de dispersão
-        - [ ] Variância varia e desvio desvia
-        - [ ] Faça como eu fiz na aula
-        - [ ] O que aprendemos?
+    - [x] **[Medidas de Dispersão](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/03_Medidas_de_Dispersao/MedidasDeDispersao.md)**
+        - [x] Observando a variação dos dados
+        - [x] A variância
+        - [x] Desvio Padrão
+        - [x] Comentários sobre as medidas de dispersão
+        - [x] Variância varia e desvio desvia
+        - [x] Faça como eu fiz na aula
+        - [x] O que aprendemos?
     - [ ] **[Padronização Amostragem e Frequência](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/04_Padronizacao_Amostragem_e_Frequencia/PadronizacaoAmostragemEFrequencia.md)**
         - [ ] Padronização de uma coluna
         - [ ] Amostragem
