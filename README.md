@@ -686,22 +686,22 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Conclusão
         - [x] Créditos
 - [ ] **[Análise de dados: Cálculos, padrões e estratégias com Excel](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/)**
-    - [ ] **[Visualização de Dados](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/01_Visualizacao_de_Dados/VisualizacaoDeDados.md)**
-        - [ ] Introdução
-        - [ ] Botando a mão na massa
-        - [ ] Visualização de variáveis categóricas
-        - [ ] Visualização de variáveis quantitativas
-        - [ ] Visualização de uma Série Temporal
-        - [ ] Cuidado com as barras
-        - [ ] Faça como eu fiz na aula
-        - [ ] O que aprendemos?
-    - [ ] **[Medidas de Posição](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/02_Medidas_de_Posicao/MedidasDePosicao.md)**
-        - [ ] Uma medida que resume uma coluna
-        - [ ] Uma medida que divide a coluna duas metades
-        - [ ] Média Condicional
-        - [ ] Média ou Mediana?
-        - [ ] Faça como eu fiz na aula
-        - [ ] O que aprendemos?
+    - [x] **[Visualização de Dados](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/01_Visualizacao_de_Dados/VisualizacaoDeDados.md)**
+        - [x] Introdução
+        - [x] Botando a mão na massa
+        - [x] Visualização de variáveis categóricas
+        - [x] Visualização de variáveis quantitativas
+        - [x] Visualização de uma Série Temporal
+        - [x] Cuidado com as barras
+        - [x] Faça como eu fiz na aula
+        - [x] O que aprendemos?
+    - [x] **[Medidas de Posição](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/02_Medidas_de_Posicao/MedidasDePosicao.md)**
+        - [x] Uma medida que resume uma coluna
+        - [x] Uma medida que divide a coluna duas metades
+        - [x] Média Condicional
+        - [x] Média ou Mediana?
+        - [x] Faça como eu fiz na aula
+        - [x] O que aprendemos?
     - [ ] **[Medidas de Dispersão](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/03_Medidas_de_Dispersao/MedidasDeDispersao.md)**
         - [ ] Observando a variação dos dados
         - [ ] A variância
