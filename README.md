@@ -710,13 +710,13 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Variância varia e desvio desvia
         - [x] Faça como eu fiz na aula
         - [x] O que aprendemos?
-    - [ ] **[Padronização Amostragem e Frequência](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/04_Padronizacao_Amostragem_e_Frequencia/PadronizacaoAmostragemEFrequencia.md)**
-        - [ ] Padronização de uma coluna
-        - [ ] Amostragem
-        - [ ] Frequência
-        - [ ] A parte e o todo
-        - [ ] Faça como eu fiz na aula
-        - [ ] O que aprendemos?
+    - [x] **[Padronização Amostragem e Frequência](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/04_Padronizacao_Amostragem_e_Frequencia/PadronizacaoAmostragemEFrequencia.md)**
+        - [x] Padronização de uma coluna
+        - [x] Amostragem
+        - [x] Frequência
+        - [x] A parte e o todo
+        - [x] Faça como eu fiz na aula
+        - [x] O que aprendemos?
     - [ ] **[Ferramentas de Análise Rápida](Analise_de_dados_e_IA_Nivelamento/Semana_05/Analise_de_dados_Calculos_padroes_e_estrategias_com_Excel/05_Ferramentas_de_Analise_Rapida/FerramentasDeAnaliseRapida.md)**
         - [ ] Técnicas básicas de resumo rápido
         - [ ] Assistente de estatística descritiva
