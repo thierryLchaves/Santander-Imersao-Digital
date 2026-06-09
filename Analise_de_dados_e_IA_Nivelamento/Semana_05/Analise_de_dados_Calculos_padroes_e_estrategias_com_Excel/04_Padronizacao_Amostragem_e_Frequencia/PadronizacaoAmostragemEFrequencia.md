@@ -155,17 +155,19 @@ Veja como a venda na linha 358 é outlier para ninguém botar defeito:
 ---
 ## 6. O que aprendemos?
 
-[↑ Voltar ao topo](#topo)
+Explique com suas próprias palavras os principais conceitos que você aprendeu nesta aula.
 
----
-
-<!-- <table style="text-align: center; width: 100%;"> 
+```text
+Nesta aula, aprendi que a padronização de uma coluna consiste em transformar seus valores em desvios padrão em relação à média, o que serve para medir distâncias desse ponto central e identificar casos discrepantes conhecidos como outliers. Entendi que a amostragem é um recurso para selecionar uma amostra aleatória de uma base de dados quando não se quer trabalhar com todo o conjunto ou quando é preciso exibir apenas uma parte das informações. Contudo, os resultados estatísticos da amostra (como a média) diferem do universo completo dos dados, pois o tamanho da amostra e a presença de outliers influenciam o resultado. Por fim, aprendi a criar uma distribuição de frequência personalizada dividindo as variáveis em faixas de valores desejáveis chamadas de categorias (ou bins), aplicando para isso a função matricial =FREQÜÊNCIA com o comando CTRL + SHIFT + ENTER.
+```
+<table style="text-align: center; width: 100%;"> 
 <tr>
     <td style="text-align: left;">
-    <img src="imgs/ex.png" alt="Nome do print" width="45%"/>
+    <img src="imgs/Oque_aprendemos.png" alt="O que aprendemos" width="45%"/>
     </td>
 </tr>
-</table> -->
+</table>  
+
 
 ---
 
