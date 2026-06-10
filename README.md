@@ -744,20 +744,20 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Definindo média
         - [x] Faça como eu fiz na aula
         - [x] O que aprendemos?
-    - [ ] **[Importando e atualizando](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/02_Importando_e_atualizando/ImportandoEAtualizando.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Auto atualização e histogramas
-        - [ ] Conexão com fontes externas
-        - [ ] Visualização de dados
-        - [ ] Faça como eu fiz na aula
-        - [ ] O que aprendemos?
-    - [ ] **[Validação](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/03_Validacao/Validacao.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Células de validação e fazendo testes pequenos
-        - [ ] Testando estimativas
-        - [ ] Expandindo para 2 anos
-        - [ ] Faça como eu fiz na aula
-        - [ ] O que aprendemos?
+    - [x] **[Importando e atualizando](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/02_Importando_e_atualizando/ImportandoEAtualizando.md)**
+        - [x] Projeto da aula anterior
+        - [x] Auto atualização e histogramas
+        - [x] Conexão com fontes externas
+        - [x] Visualização de dados
+        - [x] Faça como eu fiz na aula
+        - [x] O que aprendemos?
+    - [x] **[Validação](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/03_Validacao/Validacao.md)**
+        - [x] Projeto da aula anterior
+        - [x] Células de validação e fazendo testes pequenos
+        - [x] Testando estimativas
+        - [x] Expandindo para 2 anos
+        - [x] Faça como eu fiz na aula
+        - [x] O que aprendemos?
     - [ ] **[Rodando Cenários](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/04_Rodando_Cenarios/RodandoCenarios.md)**
         - [ ] Projeto da aula anterior
         - [ ] Cenários distintos e teste de hipótese
