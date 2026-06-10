@@ -758,14 +758,14 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Expandindo para 2 anos
         - [x] Faça como eu fiz na aula
         - [x] O que aprendemos?
-    - [ ] **[Rodando Cenários](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/04_Rodando_Cenarios/RodandoCenarios.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Cenários distintos e teste de hipótese
-        - [ ] Criação de cenário
-        - [ ] Protegendo a planilha e comentários
-        - [ ] Medidas de precaução
-        - [ ] Faça como eu fiz na aula
-        - [ ] O que aprendemos?
+    - [x] **[Rodando Cenários](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/04_Rodando_Cenarios/RodandoCenarios.md)**
+        - [x] Projeto da aula anterior
+        - [x] Cenários distintos e teste de hipótese
+        - [x] Criação de cenário
+        - [x] Protegendo a planilha e comentários
+        - [x] Medidas de precaução
+        - [x] Faça como eu fiz na aula
+        - [x] O que aprendemos?
     - [ ] **[Gerenciando](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/05_Gerenciando/Gerenciando.md)**
         - [ ] Projeto da aula anterior
         - [ ] Gerenciador de cenários
