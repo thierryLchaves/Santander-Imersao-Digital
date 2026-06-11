@@ -766,15 +766,15 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Medidas de precaução
         - [x] Faça como eu fiz na aula
         - [x] O que aprendemos?
-    - [ ] **[Gerenciando](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/05_Gerenciando/Gerenciando.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Gerenciador de cenários
-        - [ ] Análise de cenário
-        - [ ] Faça como eu fiz na aula
-        - [ ] O que aprendemos?
+    - [x] **[Gerenciando](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/05_Gerenciando/Gerenciando.md)**
+        - [x] Projeto da aula anterior
+        - [x] Gerenciador de cenários
+        - [x] Análise de cenário
+        - [x] Faça como eu fiz na aula
+        - [x] O que aprendemos?
     - [ ] **[Metas e mais cenários complexos](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/06_Metas_e_mais_cenarios_complexos/MetasEMaisCenariosComplexos.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Cenários com filtros e validação
+        - [x] Projeto da aula anterior
+        - [x] Cenários com filtros e validação
         - [ ] Índice e correspondente como boa prática
         - [ ] Atingindo metas nos modelos
         - [ ] Lucro previsto
