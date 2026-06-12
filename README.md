@@ -735,7 +735,7 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 <details>
   <summary><b>Aulas da Semana - 06</b></summary>
 
-- [ ] **[Excel: Simulação e análise de cenários](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/)**
+- [x] **[Excel: Simulação e análise de cenários](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/)**
     - [x] **[Pequenas boas práticas](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/01_Pequenas_boas_praticas/PequenasBoasPraticas.md)**
         - [x] Introdução
         - [x] Material do curso
@@ -772,16 +772,16 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Análise de cenário
         - [x] Faça como eu fiz na aula
         - [x] O que aprendemos?
-    - [ ] **[Metas e mais cenários complexos](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/06_Metas_e_mais_cenarios_complexos/MetasEMaisCenariosComplexos.md)**
+    - [x] **[Metas e mais cenários complexos](Analise_de_dados_e_IA_Nivelamento/Semana_06/Excel_Simulacao_e_analise_de_cenarios/06_Metas_e_mais_cenarios_complexos/MetasEMaisCenariosComplexos.md)**
         - [x] Projeto da aula anterior
         - [x] Cenários com filtros e validação
-        - [ ] Índice e correspondente como boa prática
-        - [ ] Atingindo metas nos modelos
-        - [ ] Lucro previsto
-        - [ ] Conclusão
-        - [ ] Projeto
-        - [ ] Faça como eu fiz na aula
-        - [ ] O que aprendemos?
+        - [x] Índice e correspondente como boa prática
+        - [x] Atingindo metas nos modelos
+        - [x] Lucro previsto
+        - [x] Conclusão
+        - [x] Projeto
+        - [x] Faça como eu fiz na aula
+        - [x] O que aprendemos?
 
 - [ ] **[BI com Excel: Trabalhando com tabelas dinâmicas com Power Pivot](Analise_de_dados_e_IA_Nivelamento/Semana_06/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/)**
     - [ ] **[Relembrando tabela dinâmica](Analise_de_dados_e_IA_Nivelamento/Semana_06/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/01_Relembrando_tabela_dinamica/RelembrandoTabelaDinamica.md)**
