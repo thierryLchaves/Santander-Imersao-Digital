@@ -11,7 +11,6 @@
   - [4. Filtros na tabela dinâmica](#4-filtros-na-tabela-dinâmica)
   - [5. Origens de dados](#5-origens-de-dados)
   - [6. Faça como eu fiz: inserindo uma segmentação de dados](#6-faça-como-eu-fiz-inserindo-uma-segmentação-de-dados)
-  - [Pronto, nossa segmentação de dados foi inserida e agora podemos filtrar os dados clicando nos nomes dos Fornecedores.](#pronto-nossa-segmentação-de-dados-foi-inserida-e-agora-podemos-filtrar-os-dados-clicando-nos-nomes-dos-fornecedores)
   - [7. O que aprendemos?](#7-o-que-aprendemos)
 
 ## 1. Projeto da aula anterior
@@ -135,7 +134,8 @@ __Opinião do instrutor__
 
 - __Passo 3:__  Na janela *Inserir Segmentação de dados, vamos selecionar a coluna de Fornecedor e apertar o botão OK.
 
-Pronto, nossa segmentação de dados foi inserida e agora podemos filtrar os dados clicando nos nomes dos Fornecedores.
+Pronto, nossa segmentação de dados foi inserida e agora podemos filtrar os dados clicando nos nomes dos Fornecedores. 
+
 ---
 ## 7. O que aprendemos?
 Nessa aula, você aprendeu a:
