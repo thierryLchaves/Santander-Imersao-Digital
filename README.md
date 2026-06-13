@@ -784,23 +784,23 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] O que aprendemos?
 
 - [ ] **[BI com Excel: Trabalhando com tabelas dinâmicas com Power Pivot](Analise_de_dados_e_IA_Nivelamento/Semana_06/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/)**
-    - [ ] **[Relembrando tabela dinâmica](Analise_de_dados_e_IA_Nivelamento/Semana_06/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/01_Relembrando_tabela_dinamica/RelembrandoTabelaDinamica.md)**
-        - [ ] Apresentação
-        - [ ] Conceito de tabela dinâmica
-        - [ ] Vantagens da tabela dinâmica
-        - [ ] Preparando o ambiente: planilha Serenatto Café e Bistrô
-        - [ ] Seletor de campos
-        - [ ] Formatando uma tabela dinâmica
-        - [ ] Faça como eu fiz: criando uma tabela dinâmica
-        - [ ] O que aprendemos?
-    - [ ] **[Opções de tabela Dinâmica](Analise_de_dados_e_IA_Nivelamento/Semana_06/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/02_Opcoes_de_tabela_Dinamica/OpcoesDeTabelaDinamica.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Linha do tempo
-        - [ ] Segmentação de dados
-        - [ ] Filtros na tabela dinâmica
-        - [ ] Origens de dados
-        - [ ] Faça como eu fiz: inserindo uma segmentação de dados
-        - [ ] O que aprendemos?
+    - [x] **[Relembrando tabela dinâmica](Analise_de_dados_e_IA_Nivelamento/Semana_06/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/01_Relembrando_tabela_dinamica/RelembrandoTabelaDinamica.md)**
+        - [x] Apresentação
+        - [x] Conceito de tabela dinâmica
+        - [x] Vantagens da tabela dinâmica
+        - [x] Preparando o ambiente: planilha Serenatto Café e Bistrô
+        - [x] Seletor de campos
+        - [x] Formatando uma tabela dinâmica
+        - [x] Faça como eu fiz: criando uma tabela dinâmica
+        - [x] O que aprendemos?
+    - [x] **[Opções de tabela Dinâmica](Analise_de_dados_e_IA_Nivelamento/Semana_06/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/02_Opcoes_de_tabela_Dinamica/OpcoesDeTabelaDinamica.md)**
+        - [x] Projeto da aula anterior
+        - [x] Linha do tempo
+        - [x] Segmentação de dados
+        - [x] Filtros na tabela dinâmica
+        - [x] Origens de dados
+        - [x] Faça como eu fiz: inserindo uma segmentação de dados
+        - [x] O que aprendemos?
     - [ ] **[Conhecendo Power Pivot](Analise_de_dados_e_IA_Nivelamento/Semana_06/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/03_Conhecendo_Power_Pivot/ConhecendoPowerPivot.md)**
         - [ ] Projeto da aula anterior
         - [ ] O que é Power Pivot?
