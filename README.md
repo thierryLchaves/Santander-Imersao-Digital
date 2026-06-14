@@ -783,7 +783,7 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Faça como eu fiz na aula
         - [x] O que aprendemos?
 
-- [ ] **[BI com Excel: Trabalhando com tabelas dinâmicas com Power Pivot](Analise_de_dados_e_IA_Nivelamento/Semana_06/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/)**
+- [x] **[BI com Excel: Trabalhando com tabelas dinâmicas com Power Pivot](Analise_de_dados_e_IA_Nivelamento/Semana_06/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/)**
     - [x] **[Relembrando tabela dinâmica](Analise_de_dados_e_IA_Nivelamento/Semana_06/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/01_Relembrando_tabela_dinamica/RelembrandoTabelaDinamica.md)**
         - [x] Apresentação
         - [x] Conceito de tabela dinâmica
@@ -818,14 +818,14 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [X] Aplicando filtros
         - [X] Faça como eu fiz: criando uma coluna calculada
         - [X] O que aprendemos?
-    - [ ] **[Finalizando tabelas](Analise_de_dados_e_IA_Nivelamento/Semana_06/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/05_Finalizando_tabelas/FinalizandoTabelas.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Gerenciando o Power Pivot
-        - [ ] Desafio: criar um gráfico dinâmico no Power Pivot
-        - [ ] Desafio: explicação
-        - [ ] Projeto final do curso
-        - [ ] O que aprendemos?
-        - [ ] Conclusão
+    - [x] **[Finalizando tabelas](Analise_de_dados_e_IA_Nivelamento/Semana_06/BI_com_Excel_Trabalhando_com_tabelas_dinamicas_com_Power_Pivot/05_Finalizando_tabelas/FinalizandoTabelas.md)**
+        - [x] Projeto da aula anterior
+        - [x] Gerenciando o Power Pivot
+        - [x] Desafio: criar um gráfico dinâmico no Power Pivot
+        - [x] Desafio: explicação
+        - [x] Projeto final do curso
+        - [x] O que aprendemos?
+        - [x] Conclusão
 
 </details>
 
@@ -865,5 +865,5 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 __Titulo:__ Readme  
 __Autor:__ Thierry Lucas Chaves    
 __Data de Criação:__ 23-04-2026    
-__Data de Modificação:__ 13-06-2026   
+__Data de Modificação:__ 14-06-2026   
 __Versão:__ "7.0"  
