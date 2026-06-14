@@ -28,6 +28,7 @@ Nele serão arquivados materiais em __`Markdown`__ para anotações das aulas, c
     - [Semana - 04](#semana---04)
     - [Semana - 05](#semana---05)
     - [Semana - 06](#semana---06)
+    - [Semana - 07](#semana---07)
 ---
 ## 1. Visão Geral
 Conforme a estrutura do curso se dá em trilhas e módulos, adotaremos a seguinte formatação: serão criadas __8 pastas__ referentes às semanas. Cada uma conterá subdiretórios com a tecnologia abordada no curso de forma macro. Esses subdiretórios conterão outras pastas referentes às aulas do dia em questão. Ambos seguirão o padrão `Snake_Case`, porém os nomes dos arquivos serão em `CamelCase`, com referência à pasta ou à aula em questão.
@@ -830,6 +831,131 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 </details>
 
 ---
+### [Semana - 07](Analise_de_dados_e_IA_Nivelamento/Semana_07/)
+<details>
+  <summary><b>Aulas da Semana - 07</b></summary>
+
+- [ ] **[Power BI Desktop: Construindo meu primeiro dashboard](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/)**
+    - [ ] **[Conectando os dados](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/01_Conectando_os_dados/ConectandoOsDados.md)**
+        - [ ] Apresentação
+        - [ ] Para saber mais: conta gratuita indisponível
+        - [ ] Preparando o ambiente: Power BI e base de dados
+        - [ ] Para saber mais: Business Intelligence
+        - [ ] Construindo o cartão com a média de pets
+        - [ ] Alinhamento configuração Power BI
+        - [ ] Ajustando a visualização
+        - [ ] Importando as pastas e mesclando as tabelas
+        - [ ] Tipo de dado correto
+        - [ ] Conectando com o Google planilhas
+        - [ ] Renomeando tabelas
+        - [ ] Faça como eu fiz
+        - [ ] O que aprendemos?
+    - [ ] **[Realizando Cálculos](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/02_Realizando_Calculos/RealizandoCalculos.md)**
+        - [ ] Criando uma coluna calculada
+        - [ ] Filtragem de dados nulos
+        - [ ] Para saber mais: qualidade da coluna
+        - [ ] Calculando o faturamento total
+        - [ ] Calcular receita total das vendas
+        - [ ] Para saber mais: medidas implícitas e explícitas
+        - [ ] Para saber mais: M e DAX
+        - [ ] Calculando o total de itens vendidos
+        - [ ] Mão na massa: utilizando DAX
+        - [ ] O que aprendemos?
+    - [ ] **[Análises com os gráficos](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/03_Analises_com_os_graficos/AnalisesComOsGraficos.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Trabalhando com o gráfico de pizza
+        - [ ] Comparação de receita por gênero
+        - [ ] Série temporal
+        - [ ] Para saber mais: rótulos de hierarquia
+        - [ ] Obtendo novos visuais
+        - [ ] Visualizando imagens dos eventos
+        - [ ] Faça como eu fiz: trazendo visuais externos
+        - [ ] O que aprendemos?
+    - [ ] **[Estilização do relatório](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/04_Estilizacao_do_relatorio/EstilizacaoDoRelatorio.md)** 
+        - [ ] Projeto da aula anterior
+        - [ ] Estilização dos cartões
+        - [ ] Ajustando imagem de fundo
+        - [ ] Estilizando as segmentações
+        - [ ] Para saber mais: apresentações de impacto
+        - [ ] Estilizando o gráfico de pizza
+        - [ ] Escolhendo visuais
+        - [ ] Gráfico de área
+        - [ ] Faça como eu fiz: dashboard com as estilizações
+        - [ ] O que aprendemos?
+    - [ ] **[Power Bi Service](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/05_Power_Bi_Service/PowerBiService.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Layout móvel
+        - [ ] Layout personalizado
+        - [ ] Publicando na web
+        - [ ] Para saber mais: publicar na web
+        - [ ] Acessando o Power BI service
+        - [ ] Fundo do dispositivo móvel
+        - [ ] Faça como eu fiz: estilizando o layout móvel
+        - [ ] Projeto final
+        - [ ] Para ir mais fundo
+        - [ ] O que aprendemos?
+        - [ ] Conclusão
+
+- [ ] **[Power BI Desktop: Realizando ETL no Power Query](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/)**
+    - [ ] **[Conectando os datasets](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/01_Conectando_os_datasets/ConectandoOsDatasets.md)**
+        - [ ] Apresentação
+        - [ ] Para saber mais: conta gratuita indisponível
+        - [ ] Preparando o ambiente: Power BI Desktop
+        - [ ] Conexão ao Excel e CSV
+        - [ ] Avaliando a melhor base de dados
+        - [ ] Conexão ao XML e JSON
+        - [ ] Conhecendo o Power Query Editor
+        - [ ] Mão na massa: explorando bases de dados da Olist
+        - [ ] O que aprendemos?
+    - [ ] **[Power Query Editor](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/02_Power_Query_Editor/PowerQueryEditor.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Extraindo textos
+        - [ ] Mesclando consultas
+        - [ ] Para saber mais: tipos de junção na mesclagem do Power BI
+        - [ ] Traduzindo colunas
+        - [ ] Possibilidades de transformações
+        - [ ] Para saber mais: tratamento de dados com linguagem M
+        - [ ] Trabalhando com delimitadores
+        - [ ] Mão na massa: explorando a base com a coluna de exemplos
+        - [ ] O que aprendemos?
+    - [ ] **[Avançando nas transformações](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/03_Avancando_nas_transformacoes/AvancandoNasTransformacoes.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Transposição de tabela
+        - [ ] Gerenciando parâmetros
+        - [ ] Para saber mais: parâmetros
+        - [ ] Organizando diretórios
+        - [ ] Tipos dos dados
+        - [ ] Evitando problemas futuros
+        - [ ] Faça como eu fiz: inserindo parâmetros
+        - [ ] O que aprendemos?
+    - [ ] **[Finalizando os tratamento](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/04_Finalizando_os_tratamento/FinalizandoOsTratamento.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Renomeando e removendo consultas
+        - [ ] Para saber mais: renomeando colunas no Power Query
+        - [ ] Conhecendo o editor avançado
+        - [ ] Para saber mais: diferença entre duplicar e referenciar uma tabela
+        - [ ] Reaproveitando processos
+        - [ ] Refatorando as etapas
+        - [ ] Otimizando processos
+        - [ ] Mão na massa
+        - [ ] O que aprendemos?
+    - [ ] **[Modelando os dados](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/05_Modelando_os_dados/ModelandoOsDados.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Carregando dados e acessando o modelo
+        - [ ] Conhecendo as propriedades de relação
+        - [ ] Escolhendo a cardinalidade
+        - [ ] Para saber mais: a importância da modelagem de dados
+        - [ ] Garantindo conexões assertivas
+        - [ ] Modelando de forma adequada
+        - [ ] Mão na massa
+        - [ ] Projeto final
+        - [ ] Referências
+        - [ ] O que aprendemos?
+        - [ ] Conclusão
+
+</details>
+
+---
 [↑ Voltar ao topo](#topo)
 
 
@@ -866,4 +992,4 @@ __Titulo:__ Readme
 __Autor:__ Thierry Lucas Chaves    
 __Data de Criação:__ 23-04-2026    
 __Data de Modificação:__ 14-06-2026   
-__Versão:__ "7.0"  
+__Versão:__ "8.0"  
