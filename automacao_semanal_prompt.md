@@ -24,18 +24,121 @@ Por favor, siga os passos abaixo:
 <lista_bruta_da_semana>
 Power BI Desktop: Construindo meu primeiro dashboard
   - Conectando os dados
+    - Apresentação
+    - Para saber mais: conta gratuita indisponível
+    - Preparando o ambiente: Power BI e base de dados
+    - Para saber mais: Business Intelligence
+    - Construindo o cartão com a média de pets
+    - Alinhamento configuração Power BI
+    - Ajustando a visualização
+    - Importando as pastas e mesclando as tabelas
+    - Tipo de dado correto
+    - Conectando com o Google planilhas
+    - Renomeando tabelas
+    - Faça como eu fiz
+    - O que aprendemos?
   - Realizando Cálculos
+    - Criando uma coluna calculada
+    - Filtragem de dados nulos
+    - Para saber mais: qualidade da coluna
+    - Calculando o faturamento total
+    - Calcular receita total das vendas
+    - Para saber mais: medidas implícitas e explícitas
+    - Para saber mais: M e DAX
+    - Calculando o total de itens vendidos
+    - Mão na massa: utilizando DAX
+    - O que aprendemos?
   - Análises com os gráficos
+    - Projeto da aula anterior
+    - Trabalhando com o gráfico de pizza
+    - Comparação de receita por gênero
+    - Série temporal
+    - Para saber mais: rótulos de hierarquia
+    - Obtendo novos visuais
+    - Visualizando imagens dos eventos
+    - Faça como eu fiz: trazendo visuais externos
+    - O que aprendemos?
   - Estilização do relatório 
+    - Projeto da aula anterior
+    - Estilização dos cartões
+    - Ajustando imagem de fundo
+    - Estilizando as segmentações
+    - Para saber mais: apresentações de impacto
+    - Estilizando o gráfico de pizza
+    - Escolhendo visuais
+    - Gráfico de área
+    - Faça como eu fiz: dashboard com as estilizações
+    - O que aprendemos?
   - Power Bi Service
-
-
+    - Projeto da aula anterior
+    - Layout móvel
+    - Layout personalizado
+    - Publicando na web
+    - Para saber mais: publicar na web
+    - Acessando o Power BI service
+    - Fundo do dispositivo móvel
+    - Faça como eu fiz: estilizando o layout móvel
+    - Projeto final
+    - Para ir mais fundo
+    - O que aprendemos?
+    - Conclusão
+  
 Power BI Desktop: Realizando ETL no Power Query
   - Conectando os datasets
-  - Power Query Edito
+    - Apresentação
+    - Para saber mais: conta gratuita indisponível
+    - Preparando o ambiente: Power BI Desktop
+    - Conexão ao Excel e CSV
+    - Avaliando a melhor base de dados
+    - Conexão ao XML e JSON
+    - Conhecendo o Power Query Editor
+    - Mão na massa: explorando bases de dados da Olist
+    - O que aprendemos?
+  - Power Query Editor
+    - Projeto da aula anterior
+    - Extraindo textos
+    - Mesclando consultas
+    - Para saber mais: tipos de junção na mesclagem do Power BI
+    - Traduzindo colunas
+    - Possibilidades de transformações
+    - Para saber mais: tratamento de dados com linguagem M
+    - Trabalhando com delimitadores
+    - Mão na massa: explorando a base com a coluna de exemplos
+    - O que aprendemos?
   - Avançando nas transformações
+    - Projeto da aula anterior
+    - Transposição de tabela
+    - Gerenciando parâmetros
+    - Para saber mais: parâmetros
+    - Organizando diretórios
+    - Tipos dos dados
+    - Evitando problemas futuros
+    - Faça como eu fiz: inserindo parâmetros
+    - O que aprendemos?
   - Finalizando os tratamento
+    - Projeto da aula anterior
+    - Renomeando e removendo consultas
+    - Para saber mais: renomeando colunas no Power Query
+    - Conhecendo o editor avançado
+    - Para saber mais: diferença entre duplicar e referenciar uma tabela
+    - Reaproveitando processos
+    - Refatorando as etapas
+    - Otimizando processos
+    - Mão na massa
+    - O que aprendemos?
   - Modelando os dados
+    - Projeto da aula anterior
+    - Carregando dados e acessando o modelo
+    - Conhecendo as propriedades de relação
+    - Escolhendo a cardinalidade
+    - Para saber mais: a importância da modelagem de dados
+    - Garantindo conexões assertivas
+    - Modelando de forma adequada
+    - Mão na massa
+    - Projeto final
+    - Referências
+    - O que aprendemos?
+    - Conclusão
 </lista_bruta_da_semana>
 
 ### Passo 2: Aplicação dos Links

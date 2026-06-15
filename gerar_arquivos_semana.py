@@ -39,7 +39,7 @@ def parse_readme(semana):
     aulas_info = {}
     curso_atual = None
     curso_folder = None
-    aula_folder = None
+    aula_file = None
     aula_counter = 0
 
     try:
@@ -93,28 +93,34 @@ def parse_readme(semana):
                     aula_counter += 1
                     aula_atual = clean_content
 
-                    aula_slug = clean_text_for_folder(clean_content)
-                    aula_folder = f"{aula_counter:02d}_{aula_slug}"
-
-                    aula_file = clean_text_for_file(clean_content)
-                    # Checa automaticamente se devemos aplicar a badge do EXCEL
+                    aula_file = f"{aula_counter:02d}_{clean_text_for_file(clean_content)}"
+                    
+                    # Checa automaticamente se devemos aplicar as badges
                     is_excel = (
                         "excel" in (curso_atual or "").lower()
                         or "excel" in aula_atual.lower()
                     )
+                    is_powerbi = (
+                        "power bi" in (curso_atual or "").lower()
+                        or "powerbi" in (curso_atual or "").lower()
+                        or "power bi" in aula_atual.lower()
+                        or "powerbi" in aula_atual.lower()
+                    )
 
-                    path_key = Path(curso_folder) / aula_folder
-                    aulas_info[path_key] = {
-                        "arquivo": aula_file,
-                        "titulo": aula_atual,
-                        "is_excel": is_excel,
-                        "topicos": [],
-                    }
+                    if curso_folder:
+                        path_key = (curso_folder, aula_file)
+                        aulas_info[path_key] = {
+                            "arquivo": aula_file,
+                            "titulo": aula_atual,
+                            "is_excel": is_excel,
+                            "is_powerbi": is_powerbi,
+                            "topicos": [],
+                        }
 
                 elif spaces == 8:
                     # Nível 3: Tópicos dos vídeos
-                    if curso_folder and aula_folder:
-                        path_key = Path(curso_folder) / aula_folder
+                    if curso_folder and aula_file:
+                        path_key = (curso_folder, aula_file)
                         if path_key in aulas_info:
                             aulas_info[path_key]["topicos"].append(clean_content)
 
@@ -133,10 +139,11 @@ def criar_arquivos_md(semana, aulas_info):
     data_atual = datetime.datetime.now().strftime("%d-%m-%Y")
     semana_folder = BASE_DIR / f"Semana_{semana}"
 
-    for aula_path, info in aulas_info.items():
-        arquivo_md = info["arquivo"]
+    for path_key, info in aulas_info.items():
+        curso_folder, arquivo_md = path_key
         titulo_aula = info["titulo"]
         is_excel = info["is_excel"]
+        is_powerbi = info.get("is_powerbi", False)
         topicos = info["topicos"]
 
         # Gera o Sumário e os blocos de conteúdo com ancoragem
@@ -147,10 +154,16 @@ def criar_arquivos_md(semana, aulas_info):
             sumario_text += f"- [{i}. {topico}](#{ancora})\n"
             conteudo_text += f"## {i}. {topico}\n\n[↑ Voltar ao topo](#topo)\n\n---\n"
 
-        # Define o Badge
+        # Define os Badges
         badge_excel = (
             '\n    <td style="padding: 5px;">\n      <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>\n    </td>'
             if is_excel
+            else ""
+        )
+        
+        badge_powerbi = (
+            '\n    <td style="padding: 5px;">\n      <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>\n    </td>'
+            if is_powerbi
             else ""
         )
 
@@ -159,23 +172,19 @@ def criar_arquivos_md(semana, aulas_info):
         conteudo = conteudo.replace("[SUMARIO_DINAMICO]", sumario_text.strip())
         conteudo = conteudo.replace("[CONTEUDO_DINAMICO]", conteudo_text.strip())
         conteudo = conteudo.replace("[BADGE_EXCEL]", badge_excel)
+        conteudo = conteudo.replace("[BADGE_POWERBI]", badge_powerbi)
         conteudo = conteudo.replace("[DATA_ATUAL]", data_atual)
 
-        caminho_pasta = semana_folder / aula_path
+        caminho_pasta = semana_folder / curso_folder
         caminho_arquivo = caminho_pasta / arquivo_md
 
         # Garante que a pasta existe antes de tentar criar o arquivo
         caminho_pasta.mkdir(parents=True, exist_ok=True)
 
-        # Criação da estruturação de pastas de apoio (imgs, db, src) com .gitkeep
-        pastas_apoio = ["imgs", "db"]
-        if not is_excel:
-            pastas_apoio.append("src")
-
-        for sub in pastas_apoio:
-            sub_path = caminho_pasta / sub
-            sub_path.mkdir(parents=True, exist_ok=True)
-            (sub_path / ".gitkeep").touch()
+        # Criação apenas do diretório db na raiz do módulo
+        db_path = caminho_pasta / "db"
+        db_path.mkdir(parents=True, exist_ok=True)
+        (db_path / ".gitkeep").touch()
 
         # Cria o arquivo .md na pasta correspondente
         with open(caminho_arquivo, "w", encoding="utf-8") as f:
