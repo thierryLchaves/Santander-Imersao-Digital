@@ -61,6 +61,12 @@ As pastas do curso terão um diretório base nomeado com base na trilha a ser es
 
 * **`db/` (Dados):** Este diretório sempre será nomeado como `db`, e nele serão armazenados os dados complementares a serem usados (arquivos, PDF, bases de dados, Excel, CSV, etc.).
 
+* Durante as 6 primeira semanas cada pasta contava com um pasta de base de dados própria, porém devido ao crescimento e repetição dos mesmo dados em diferentes instâncias do repositório iremos adotar somente 1 diretório de `db` para cada módulo facilitando assim o gerenciamento das fontes, em casos muito específicos será incluso uma diretório de dados para cada aula do módulo.
+
+[↑ Voltar ao topo](#topo)
+
+---
+
 ### 2.3 Automação da Estrutura
 Para manter a devida formatação e organização do projeto, a criação da estrutura de pastas e arquivos semanais foi automatizada. Para isso, devem ser utilizados dois arquivos presentes na raiz do repositório:
 * **[`automacao_semanal_prompt.md`](automacao_semanal_prompt.md)**: Este arquivo serve como um documento de instruções (prompt) para a Inteligência Artificial. Ele detalha todas as regras de formatação, os padrões de documentação e o fluxo de trabalho do projeto. É fundamental que este arquivo seja fornecido ou lido pela I.A. no início do processo, garantindo assim que ela entenda o contexto geral e não fuja dos padrões preestabelecidos ao atualizar o repositório ou gerar conteúdos.
@@ -983,6 +989,11 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
     </td>
     <td style="padding: 5px;">
       <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;" colspan="3" align="center">
+      <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
     </td>
   </tr>
 </table>

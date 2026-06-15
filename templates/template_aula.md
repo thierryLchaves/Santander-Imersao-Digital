@@ -25,7 +25,7 @@
     </td>
     <td style="padding: 5px;">
       <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-    </td>[BADGE_EXCEL]
+    </td>[BADGE_EXCEL][BADGE_POWERBI]
   </tr>
 </table>
 
