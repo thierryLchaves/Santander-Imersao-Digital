@@ -842,20 +842,20 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
   <summary><b>Aulas da Semana - 07</b></summary>
 
 - [ ] **[Power BI Desktop: Construindo meu primeiro dashboard](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/)**
-    - [ ] **[Conectando os dados](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/01_Conectando_os_dados/ConectandoOsDados.md)**
-        - [ ] Apresentação
-        - [ ] Para saber mais: conta gratuita indisponível
-        - [ ] Preparando o ambiente: Power BI e base de dados
-        - [ ] Para saber mais: Business Intelligence
-        - [ ] Construindo o cartão com a média de pets
-        - [ ] Alinhamento configuração Power BI
-        - [ ] Ajustando a visualização
-        - [ ] Importando as pastas e mesclando as tabelas
-        - [ ] Tipo de dado correto
-        - [ ] Conectando com o Google planilhas
-        - [ ] Renomeando tabelas
-        - [ ] Faça como eu fiz
-        - [ ] O que aprendemos?
+    - [x] **[Conectando os dados](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/01_Conectando_os_dados/ConectandoOsDados.md)**
+        - [x] Apresentação
+        - [x] Para saber mais: conta gratuita indisponível
+        - [x] Preparando o ambiente: Power BI e base de dados
+        - [x] Para saber mais: Business Intelligence
+        - [x] Construindo o cartão com a média de pets
+        - [x] Alinhamento configuração Power BI
+        - [x] Ajustando a visualização
+        - [x] Importando as pastas e mesclando as tabelas
+        - [x] Tipo de dado correto
+        - [x] Conectando com o Google planilhas
+        - [x] Renomeando tabelas
+        - [x] Faça como eu fiz
+        - [x] O que aprendemos?
     - [ ] **[Realizando Cálculos](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/02_Realizando_Calculos/RealizandoCalculos.md)**
         - [ ] Criando uma coluna calculada
         - [ ] Filtragem de dados nulos
@@ -1003,4 +1003,4 @@ __Titulo:__ Readme
 __Autor:__ Thierry Lucas Chaves    
 __Data de Criação:__ 23-04-2026    
 __Data de Modificação:__ 14-06-2026   
-__Versão:__ "8.0"  
+__Versão:__ "9.0"  
