@@ -3,24 +3,26 @@
 <a id="topo"></a>
 
 ## Sumário
-<<<<<<< HEAD
-- [1. Criando uma coluna calculada](#1-criando-uma-coluna-calculada)
-- [2. Filtragem de dados nulos](#2-filtragem-de-dados-nulos)
-- [3. Para saber mais: qualidade da coluna](#3-para-saber-mais-qualidade-da-coluna)
-- [4. Calculando o faturamento total](#4-calculando-o-faturamento-total)
-- [5. Calcular receita total das vendas](#5-calcular-receita-total-das-vendas)
-- [6. Para saber mais: medidas implícitas e explícitas](#6-para-saber-mais-medidas-implícitas-e-explícitas)
-- [7. Para saber mais: M e DAX](#7-para-saber-mais-m-e-dax)
-- [8. Calculando o total de itens vendidos](#8-calculando-o-total-de-itens-vendidos)
-- [9. Mão na massa: utilizando DAX](#9-mão-na-massa-utilizando-dax)
-- [10. O que aprendemos?](#10-o-que-aprendemos)
-
-## 1. Criando uma coluna calculada
-
-=======
 - [Realizando Cálculos](#realizando-cálculos)
   - [Sumário](#sumário)
   - [1. Criando uma coluna calculada](#1-criando-uma-coluna-calculada)
+  - [1. Criando uma coluna calculada](#1-criando-uma-coluna-calculada-1)
+  - [2. Filtragem de dados nulos](#2-filtragem-de-dados-nulos)
+  - [3. Para saber mais: qualidade da coluna](#3-para-saber-mais-qualidade-da-coluna)
+  - [4. Calculando o faturamento total](#4-calculando-o-faturamento-total)
+  - [5. Calcular receita total das vendas](#5-calcular-receita-total-das-vendas)
+  - [6. Para saber mais: medidas implícitas e explícitas](#6-para-saber-mais-medidas-implícitas-e-explícitas)
+  - [7. Para saber mais: M e DAX](#7-para-saber-mais-m-e-dax)
+  - [8. Calculando o total de itens vendidos](#8-calculando-o-total-de-itens-vendidos)
+  - [9. Mão na massa: utilizando DAX](#9-mão-na-massa-utilizando-dax)
+  - [10. O que aprendemos?](#10-o-que-aprendemos)
+
+## 1. Criando uma coluna calculada
+
+- [Realizando Cálculos](#realizando-cálculos)
+  - [Sumário](#sumário)
+  - [1. Criando uma coluna calculada](#1-criando-uma-coluna-calculada)
+  - [1. Criando uma coluna calculada](#1-criando-uma-coluna-calculada-1)
   - [2. Filtragem de dados nulos](#2-filtragem-de-dados-nulos)
   - [3. Para saber mais: qualidade da coluna](#3-para-saber-mais-qualidade-da-coluna)
   - [4. Calculando o faturamento total](#4-calculando-o-faturamento-total)
@@ -78,13 +80,11 @@ Onde o Power B.I já realiza a busca do campo da tabela referida conforme o rela
 Faturamento = 'Vendas'[Quantidade]*'Vendas'[Valor_unitario]
 ```
 
->>>>>>> 6ebfec602894c9b89edbdd175cf82fd0ddc2b42a
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 2. Filtragem de dados nulos
-<<<<<<< HEAD
-=======
+
 Um hospital possui tabelas de pacientes e procedimentos, mas alguns registros de pacientes estão sem identificação (nulos). Como você trataria esses dados?  
 
 <table style="text-align: center; width: 100%;"> 
@@ -94,14 +94,13 @@ Um hospital possui tabelas de pacientes e procedimentos, mas alguns registros de
     </td>
 </tr>
 </table>
->>>>>>> 6ebfec602894c9b89edbdd175cf82fd0ddc2b42a
+
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 3. Para saber mais: qualidade da coluna
-<<<<<<< HEAD
-=======
+
 O recurso de Qualidade da Coluna no Power BI rotula os valores em linhas em cinco categorias, fornecendo informações sobre a qualidade dos dados em cada coluna:
 
 - __Válido (verde):__ indica que os valores na coluna estão corretos e dentro dos critérios definidos.
@@ -197,15 +196,11 @@ Além de garantir que a detecção de erros e demais ações de melhoria sejam a
 Portanto, a funcionalidade de Qualidade da Coluna no Power BI proporciona uma visão rápida e clara sobre a qualidade dos dados em cada coluna. Adicionalmente, é altamente recomendável utilizar a opção de criação de perfil da coluna com base em todo o conjunto de dados. Isso permitirá uma análise mais precisa e confiável dos dados, fornecendo informações valiosas para aprimorar a qualidade dos seus relatórios e tomada de decisões. Caso você deseje estudar sobre as demais funcionalidades para visualização dos dados, você pode ler o artigo [Usar as ferramentas de criação de perfil de dados](https://learn.microsoft.com/pt-br/power-query/data-profiling-tools) da Microsoft.
 
 
->>>>>>> 6ebfec602894c9b89edbdd175cf82fd0ddc2b42a
-
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 4. Calculando o faturamento total
 
-<<<<<<< HEAD
-=======
 Com essas informações seremos capazes de responder através do gráfico 2 questionamentos qual é o faturamento total, e qual a quantidade de vendas, 
 Agora ficara no Power B.I como vimos anteriormente as tabelas e as possibilidades de adição de informações, porém agora iremos utilizar uma outra opção presente na guia de Página Inicial no agrupamento de Inserir, nela selecionaremos o  cartão com esse quadrante selecionado iremos adicionar a soma da quantidade de vendas.  Esse tipo de informação, é comumente referendado como medida implícita (que nada mais é, que o artificio entre ferramenta e usuário sem que haja a necessidade de escrever código ou fórmula e a própria ferramenta realiza algo),porém caso não seja suficiente temos o contrário, que seria a medida explícita, ou seja escrever o código, então para fazer isso vamos seguir os passos a seguir:  
 1º Opção de mouse lado direito, na tabela selecionada e opção de nova medida.
@@ -216,7 +211,6 @@ Agora ficara no Power B.I como vimos anteriormente as tabelas e as possibilidade
 
 3º Será criado , um novo campo, com simbolo de calculadora iremos ativamente escolher o quadro, e selecionar essa medida
 
->>>>>>> 6ebfec602894c9b89edbdd175cf82fd0ddc2b42a
 [↑ Voltar ao topo](#topo)
 
 ---
@@ -261,10 +255,7 @@ Agora ficara no Power B.I como vimos anteriormente as tabelas e as possibilidade
 
 ---
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 6ebfec602894c9b89edbdd175cf82fd0ddc2b42a
 <table align="center" style="border-collapse: collapse; margin-left: auto; margin-right: auto;"> 
   <caption><b>Skills do projeto</b></caption>
   <tr>
@@ -274,12 +265,9 @@ Agora ficara no Power B.I como vimos anteriormente as tabelas e as possibilidade
     <td style="padding: 5px;">
       <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
     </td>
-<<<<<<< HEAD
-=======
     <td style="padding: 5px;">
       <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
     </td>
->>>>>>> 6ebfec602894c9b89edbdd175cf82fd0ddc2b42a
   </tr>
 </table>
 
@@ -288,9 +276,5 @@ Agora ficara no Power B.I como vimos anteriormente as tabelas e as possibilidade
 __Titulo:__ Realizando Cálculos
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 14-06-2026  
-<<<<<<< HEAD
-__Data de Modificação:__ 14-06-2026  
-=======
 __Data de Modificação:__ 16-06-2026  
->>>>>>> 6ebfec602894c9b89edbdd175cf82fd0ddc2b42a
-__Versão:__ "1.0"
+__Versão:__ "2.0"
