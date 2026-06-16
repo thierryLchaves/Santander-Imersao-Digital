@@ -857,10 +857,10 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Faça como eu fiz
         - [x] O que aprendemos?
     - [ ] **[Realizando Cálculos](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/02_Realizando_Calculos/RealizandoCalculos.md)**
-        - [ ] Criando uma coluna calculada
-        - [ ] Filtragem de dados nulos
-        - [ ] Para saber mais: qualidade da coluna
-        - [ ] Calculando o faturamento total
+        - [x] Criando uma coluna calculada
+        - [x] Filtragem de dados nulos
+        - [x] Para saber mais: qualidade da coluna
+        - [x] Calculando o faturamento total
         - [ ] Calcular receita total das vendas
         - [ ] Para saber mais: medidas implícitas e explícitas
         - [ ] Para saber mais: M e DAX
