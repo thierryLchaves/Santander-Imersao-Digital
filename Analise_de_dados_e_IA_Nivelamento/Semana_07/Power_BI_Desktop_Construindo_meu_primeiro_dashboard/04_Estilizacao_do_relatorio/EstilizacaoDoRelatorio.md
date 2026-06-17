@@ -59,16 +59,47 @@ No sistema de rastreamento de pedidos, você quer adicionar um layout personaliz
 
 ---
 ## 4. Estilizando as segmentações
+O primeiro campo que iremos modificar, será no filtro de data da compra, aplicaremos modificações visuais, como as que visualizamos antes, formatações de cores de fundo, modificação de contraste das fontes etc...  
+Como foram modificações visuais segue abaixo o modelo do gráfico que foi construído até o momento. 
+> PS: Para segmentação de dados da marca, foi modificado o estilo dela para suspenso por isso a apresentação diferente do modelo anterior  
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/New_Dashboard.png" alt="Novo modelo de dashboard intermediário" width="45%"/>
+    </td>
+</tr>
+</table>
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 5. Para saber mais: apresentações de impacto
+## 5. Para saber mais: apresentações de impacto  
+
+Quando você elaborar seu dashboard, considere que irá apresentar para a pessoa que demandou essa tarefa. Assim, você terá mais facilidade em definir como quer que seu dashboard transmita as informações solicitadas.
+
+Preste atenção nas perguntas que você precisa responder no dashboard e priorize seus achados no momento em que for apresentar seu trabalho. A narrativa que você irá construir sobre seu dashboard pode facilitar a compreensão das pessoas e engajar as partes interessadas nas suas análises.
+
+Para estruturar uma apresentação de impacto, tente responder algumas perguntas sobre seu dashboard:  
+
+- O que a pessoa que vai consumir os dados desse dashboard precisa saber?
+- O que você gostaria que as pessoas lembrassem ao final da sua apresentação?
+- A linguagem utilizada é simples e apropriada para o público alvo?
+
+Ao refletir sobre essas questões você pode resumir em uma frase o que você quer expor no começo, no meio e no fim da sua apresentação. Desse modo, você terá um caminho mapeado mais tranquilo de percorrer no momento em que for preparar a história que vai contar sobre seu dashboard.  
+
+Quando falamos sobre o impacto de uma apresentação, estamos falando de quão útil, agradável e construtiva ela foi para a audiência. Então não se esqueça de:
+
+- 1. Usar a sua criatividade no começo da apresentação para despertar o interesse do seu público alvo;
+- 2.Durante a apresentação, mostrar gradualmente pontos fortes e pontos de melhoria realizados no dashboard para atender o público alvo;
+- 3.Finalizar a apresentação reforçando a mensagem que você gostaria que as pessoas lembrem sobre a sua exposição.  
+  
+Em suma, para obter o resultado desejado com uma apresentação de impacto reflita sobre como facilitar a compreensão de todas as pessoas que estão entrando em contato com o seu dashboard e garanta que seu dashboard apresente as respostas para as perguntas dessas pessoas.  
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 6. Estilizando o gráfico de pizza
+Assim como realizamos na edição do nome de outros títulos, também o faremos dentro do gráfico de pizza, iremos clicar sobre 
 
 [↑ Voltar ao topo](#topo)
 
