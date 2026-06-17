@@ -6,23 +6,6 @@
 - [Realizando Cálculos](#realizando-cálculos)
   - [Sumário](#sumário)
   - [1. Criando uma coluna calculada](#1-criando-uma-coluna-calculada)
-  - [1. Criando uma coluna calculada](#1-criando-uma-coluna-calculada-1)
-  - [2. Filtragem de dados nulos](#2-filtragem-de-dados-nulos)
-  - [3. Para saber mais: qualidade da coluna](#3-para-saber-mais-qualidade-da-coluna)
-  - [4. Calculando o faturamento total](#4-calculando-o-faturamento-total)
-  - [5. Calcular receita total das vendas](#5-calcular-receita-total-das-vendas)
-  - [6. Para saber mais: medidas implícitas e explícitas](#6-para-saber-mais-medidas-implícitas-e-explícitas)
-  - [7. Para saber mais: M e DAX](#7-para-saber-mais-m-e-dax)
-  - [8. Calculando o total de itens vendidos](#8-calculando-o-total-de-itens-vendidos)
-  - [9. Mão na massa: utilizando DAX](#9-mão-na-massa-utilizando-dax)
-  - [10. O que aprendemos?](#10-o-que-aprendemos)
-
-## 1. Criando uma coluna calculada
-
-- [Realizando Cálculos](#realizando-cálculos)
-  - [Sumário](#sumário)
-  - [1. Criando uma coluna calculada](#1-criando-uma-coluna-calculada)
-  - [1. Criando uma coluna calculada](#1-criando-uma-coluna-calculada-1)
   - [2. Filtragem de dados nulos](#2-filtragem-de-dados-nulos)
   - [3. Para saber mais: qualidade da coluna](#3-para-saber-mais-qualidade-da-coluna)
   - [4. Calculando o faturamento total](#4-calculando-o-faturamento-total)
@@ -209,49 +192,153 @@ Agora ficara no Power B.I como vimos anteriormente as tabelas e as possibilidade
   Faturamento total = SUM('Vendas'[Faturamento])
   ```
 
-3º Será criado , um novo campo, com simbolo de calculadora iremos ativamente escolher o quadro, e selecionar essa medida
+3º Será criado , um novo campo, com simbolo de calculadora iremos ativamente escolher o quadro, e selecionar essa medida, criando assim 3 informações sobre a média, a quantidade de vendas, e o faturamento total.  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/cards.png" alt="Cards Dashboard" width="45%"/>
+    </td>
+</tr>
+</table>
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 5. Calcular receita total das vendas
+Numa empresa de plataforma de vendas de ingressos, que registra o valor de cada ingresso vendido, é preciso calcular a receita total gerada. Como você criaria uma medida explícita no Power BI para calcular a receita total usando a função 'SUM' na coluna 'Valor' da tabela 'Vendas'?  
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Prova_questoes/Resp_receit_tot.png" alt="Prova receita total" width="45%"/>
+    </td>
+</tr>
+</table>
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 6. Para saber mais: medidas implícitas e explícitas
+No Power BI, medidas são elementos essenciais para realizar cálculos e análises sobre os dados. Elas podem ser classificadas em medidas implícitas e medidas explícitas.
+
+As medidas implícitas são calculadas automaticamente pelo Power BI com base nos dados presentes na tabela. Elas são úteis para realizar operações básicas, como soma, média, contagem, mínimo e máximo. O Power BI identifica automaticamente os campos numéricos na tabela e cria medidas implícitas correspondentes. Essas medidas são atualizadas dinamicamente à medida que os dados são modificados ou filtrados.
+
+Por outro lado, as medidas explícitas são cálculos personalizados criados manualmente pelo usuário. Elas são criadas utilizando a linguagem de fórmulas DAX (Data Analysis Expressions) e permitem realizar cálculos mais complexos e específicos às necessidades do usuário. Com as medidas explícitas, é possível realizar operações matemáticas avançadas, combinar campos de diferentes tabelas, aplicar filtros condicionais e criar métricas personalizadas.  
+
+
+Para obter mais informações detalhadas sobre medidas implícitas e explícitas no Power BI, recomendo a leitura do artigo [Power BI: Medidas implícitas e explícitas.](https://www.alura.com.br/artigos/power-bi-medidas-implicitas-explicitas?utm_source=gnarus&utm_medium=timeline)  
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 7. Para saber mais: M e DAX
+No Power BI, duas linguagens fundamentais para manipulação e transformação de dados são o M e o DAX.
+
+Ambas as linguagens, M e DAX, desempenham papéis complementares no Power BI. O M é utilizado principalmente na fase de preparação dos dados, enquanto o DAX é utilizado para realizar cálculos e análises com base nos dados já carregados no modelo de dados. Combinar o uso dessas duas linguagens permite uma transformação completa dos dados, desde a extração inicial até a análise final.
+
+Para aprofundar seus conhecimentos sobre as linguagens M e DAX no Power BI, recomendo a leitura do artigo [Power BI: M e DAX](https://www.alura.com.br/artigos/power-bi-linguagens-m-dax). Ele apresenta uma visão detalhada sobre as características e funcionalidades dessas linguagens, fornecendo insights valiosos para aprimorar suas habilidades no Power BI.  
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 8. Calculando o total de itens vendidos
+## 8. Calculando o total de itens vendidos  
+Pedro está realizando uma análise em um conjunto de dados e precisa determinar a quantidade total de itens vendidos. Para isso, ele deseja utilizar o Power BI. Qual é a melhor abordagem que Pedro deve adotar e qual linguagem do Power BI ele deve utilizar para obter esse resultado?  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Prova_questoes/Resp_total_itens.png" alt="Prova calculo total de itens" width="45%"/>
+    </td>
+</tr>
+</table>
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 9. Mão na massa: utilizando DAX
 
+Utilizando a linguagem DAX, adicionamos mais duas colunas à tabela de Vendas, sendo a primeira a coluna de Valor, como podemos verificar abaixo:  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Pra_saber_mais_2/Sabe_mais_2_1.png" alt="Para saber mais 1" width="50%"/>
+    </td>
+</tr>
+</table>
+
+A seguir temos o código em DAX para criar a coluna Valor:
+```DAX
+Valor unitario = RELATED(Produtos[Valor])
+```
+A segunda coluna criada foi a de Faturamento:
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Pra_saber_mais_2/Sabe_mais_2_2.png" alt="Para saber mais 2" width="50%"/>
+    </td>
+</tr>
+</table>
+
+A seguir temos o código em DAX para criar a coluna Faturamento:
+```DAX
+Faturamento = Vendas[Quantidade]*Vendas[Valor]
+```
+Após adicionarmos as duas colunas, realizamos a criação da medida Total faturamento, como podemos verificar abaixo:  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Pra_saber_mais_2/Sabe_mais_2_3.png" alt="Para saber mais 3" width="50%"/>
+    </td>
+</tr>
+</table>
+
+A seguir temos o código em DAX para criar a coluna Faturamento:
+```DAX
+Total faturamento = SUM(Vendas[Faturamento])
+```  
+Com isso, finalizamos a terceira aula, onde conhecendo as áreas do Power BI, realizamos o relacionamento entre as tabelas, e criamos colunas e medidas.
+
+Agora, chegou o momento de colocar em prática seus conhecimentos e embarcar em um desafio empolgante!
+
+Com o que você aprendeu até aqui, seu desafio é criar uma medida para calcular o Valor Médio por Produto Vendido. A medida deve fornecer o valor médio obtido por cada produto vendido, ajudando-nos a analisar o desempenho individual dos produtos e seu impacto na receita total.  
+
+__Opinião do instrutor__  
+- 1 - Na área de visualizações, clique com o botão direito do mouse na tabela de __Produtos__ e selecione __Nova Medida__.
+
+- 2 - Utilize a fórmula:
+```DAX
+Valor_medio_por_produto_vendido = SUM('Vendas'[Faturamento]) / SUM('Vendas'[Quantidade])
+```
+- 3 - Pressione Enter para confirmar a fórmula e criar a medida.
+  - Agora, observe os resultados e descubra qual é o valor médio por produto vendido!
+
+    <table style="text-align: center; width: 100%;"> 
+    <tr>
+    <td style="text-align: left;">
+    <img src="imgs/vl_medio.png" alt="Valor médio por produto vendido" width="50%"/>
+    </td>
+    </tr>
+    </table>  
+
+Esse desafio permitirá aprimorar suas habilidades no Power BI e ajudará a desenvolver uma métrica relevante para análise de dados de vendas.
+
+Em caso de dúvidas sobre os temas aqui estudados, fique à vontade para interagir no fórum do curso ou na nossa comunidade no discord. Ambas são espaços colaborativos no qual alunas e alunos - além das pessoas instrutoras - buscam responder as dúvidas que surgem durante os cursos.
+
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 10. O que aprendemos?
 
+Nessa aula, você aprendeu a:
+- Visualizar o modelo de dados no Power BI e entender os relacionamentos entre tabelas;
+- Criar relacionamentos manuais entre tabelas e resolver problemas com dados nulos;
+- Criar e nomear colunas calculadas utilizando a função "RELATED";
+- Diferenciar medidas implícitas e explícitas, criando medidas explícitas com a função SUM.
+
 [↑ Voltar ao topo](#topo)
-
----
-
-<!-- <table style="text-align: center; width: 100%;"> 
-<tr>
-    <td style="text-align: left;">
-    <img src="imgs/ex.png" alt="Nome do print" width="45%"/>
-    </td>
-</tr>
-</table> -->
 
 ---
 

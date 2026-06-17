@@ -62,6 +62,7 @@ As pastas do curso terão um diretório base nomeado com base na trilha a ser es
 * **`db/` (Dados):** Este diretório sempre será nomeado como `db`, e nele serão armazenados os dados complementares a serem usados (arquivos, PDF, bases de dados, Excel, CSV, etc.).
 
 * Durante as 6 primeira semanas cada pasta contava com um pasta de base de dados própria, porém devido ao crescimento e repetição dos mesmo dados em diferentes instâncias do repositório iremos adotar somente 1 diretório de `db` para cada módulo facilitando assim o gerenciamento das fontes, em casos muito específicos será incluso uma diretório de dados para cada aula do módulo.
+* Assim como foi realizado na pasta de banco de dados, também será realizado o mesmo processo para pasta de código, ou seja a partir de __16/06/2026__, os novos repositório a serem criados seguiram a diretriz de uma pasta de código por módulo semanal, não mais adotando a politica de 1 pasta de código por aula do módulo
 
 [↑ Voltar ao topo](#topo)
 
@@ -861,7 +862,6 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Filtragem de dados nulos
         - [x] Para saber mais: qualidade da coluna
         - [x] Calculando o faturamento total
->>>>>>> 6ebfec602894c9b89edbdd175cf82fd0ddc2b42a
         - [ ] Calcular receita total das vendas
         - [ ] Para saber mais: medidas implícitas e explícitas
         - [ ] Para saber mais: M e DAX
