@@ -210,24 +210,116 @@ Sua empresa deseja exibir imagens de eventos passados de forma organizada. Como 
 ## 8. Faça como eu fiz: trazendo visuais externos
 
 > Nota: Atualmente, para importar visuais do Marketplace no Power BI, é necessário realizar login com uma conta Microsoft. No entanto, a criação de novas contas gratuitas está indisponível no momento, conforme indicado na atividade: Para saber mais: [conta gratuita indisponível](https://cursos.alura.com.br/classpage/power-bi-desktop-construindo-meu-primeiro-dashboard/task/193298).
->Dessa forma, os passos a seguir aplicam-se apenas a quem já possui uma conta corporativa Microsoft ativa. Como alternativa, você pode baixar o projeto desenvolvido [aqui], que já inclui os visuais necessários, sem a necessidade de importá-los manualmente.
+>Dessa forma, os passos a seguir aplicam-se apenas a quem já possui uma conta corporativa Microsoft ativa. Como alternativa, você pode baixar o projeto desenvolvido [aqui](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/9e66c7942729c7f041942b5a4279986bdbce58c1/Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/src/gatitvos_v1.pbix), que já inclui os visuais necessários, sem a necessidade de importá-los manualmente.  
+
+O Marketplace de Visuais do Power BI é uma plataforma abrangente que oferece aos usuários uma ampla seleção de visuais para enriquecer a experiência de visualização e análise de dados. Com uma variedade impressionante de opções disponíveis, o Marketplace de Visuais permite personalizar e aprimorar os relatórios e painéis do Power BI.
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/faca_como_fiz/FACA_FIZ_1.png" alt="Faça como eu fiz 1" width="45%"/>
+    </td>
+</tr>
+</table>  
+
+Os visuais também podem ser acessados pelo site [AppSource](https://marketplace.microsoft.com/pt-br/marketplace/apps?product=power-bi-visuals), da Microsoft.
+
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/faca_como_fiz/FACA_FIZ_2.png" alt="Faça como eu fiz 2" width="45%"/>
+    </td>
+</tr>
+</table>  
+
+O Marketplace de Visuais oferece visuais certificados, desenvolvidos e verificados pela Microsoft. Esses visuais certificados passam por um rigoroso processo de revisão e teste para garantir sua qualidade, segurança e compatibilidade com o Power BI. Os visuais certificados proporcionam aos usuários confiança na sua utilização, pois são criados por desenvolvedores experientes e oferecem um alto nível de suporte e manutenção.  
+
+Além dos visuais certificados, o Marketplace também apresenta visuais não certificados pela Microsoft. Esses visuais são desenvolvidos por terceiros e disponibilizados para uso no Power BI. Embora não sejam certificados pela Microsoft, eles podem ser utilizados no Power BI, desde que a opção correspondente seja habilitada no portal de administração. Essa opção permite aos usuários aproveitar visuais adicionais, explorando uma variedade ainda maior de recursos visuais para atender às suas necessidades específicas.  
+
+No Marketplace de Visuais, os usuários encontrarão opções que vão desde gráficos de barras, gráficos de pizza, gráficos de linhas, mapas interativos, medidores, tabelas avançadas e muitos outros tipos de visuais. Essa diversidade permite aos usuários criar painéis e relatórios visualmente atraentes e informativos, personalizados de acordo com seus requisitos e preferências.  
+
+Portanto, o Marketplace de Visuais do Power BI oferece aos usuários um leque amplo de opções, desde visuais certificados pela Microsoft até visuais não certificados, expandindo as possibilidades de visualização e análise de dados no Power BI. Ao explorar essas opções, os usuários podem elevar seus relatórios e painéis a um nível superior, fornecendo insights valiosos e impactantes.  
+
+Para visualizar a métrica de Faturamento total por Gênero, criamos um gráfico de pizza:  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/faca_como_fiz/FACA_FIZ_3.png" alt="Faça como eu fiz 3" width="45%"/>
+    </td>
+</tr>
+</table>  
+
+Para a métrica de Faturamento total por Bairro, usamos o gráfico de barras clusterizado:
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/faca_como_fiz/FACA_FIZ_4.png" alt="Faça como eu fiz 4" width="45%"/>
+    </td>
+</tr>
+</table> 
+
+Para visualizarmos as imagens contidas nas URL’s dos produtos, fizemos uso do image grid :
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/faca_como_fiz/FACA_FIZ_5.png" alt="Faça como eu fiz 5" width="45%"/>
+    </td>
+</tr>
+</table> 
+
+Para habilitarmos a pesquisa por nome do produto, usamos o text filter:
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/faca_como_fiz/FACA_FIZ_6.png" alt="Faça como eu fiz 6" width="45%"/>
+    </td>
+</tr>
+</table> 
+
+Por fim, para visualizarmos a métrica de Faturamento em relação ao tempo, utilizamos o gráfico de linhas:
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/faca_como_fiz/FACA_FIZ_7.png" alt="Faça como eu fiz 7" width="45%"/>
+    </td>
+</tr>
+</table> 
+
+Com isso, chegou o momento de aplicar os conhecimentos adquiridos em nossa aula sobre criação de visuais no Power BI. Nessa etapa, vamos explorar a arte de transformar dados em informações visuais impactantes e significativas. Aqui, o desafio é evidenciar o Faturamento Total por Produto através de uma visualização impactante. Utilizando as habilidades de design e escolhendo a melhor representação gráfica, queremos destacar claramente a contribuição de cada produto para o faturamento geral. Na seção Opinião da pessoa instrutora você vai encontrar uma possível solução para esse desafio.
+
+__Opinião do instrutor__  
+
+Para elaborar o visual de Faturamento Total por Produto, podemos utilizar o gráfico de colunas clusterizado. Em seguida, vamos adicionar os campos, que serão o de Faturamento total e o de Nome produto. Abaixo, temos o visual pronto:
+
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/faca_como_fiz/FACA_FIZ_8.png" alt="Faça como eu fiz 8" width="45%"/>
+    </td>
+</tr>
+</table> 
+
+Esse desafio permitirá aprimorar suas habilidades no Power BI e ajudará a desenvolver uma métrica relevante para análise de dados de vendas.
+
+Em caso de dúvidas sobre os temas aqui estudados, fique à vontade para interagir no fórum do curso ou na nossa comunidade no discord. Ambas são espaços colaborativos no qual alunas e alunos - além das pessoas instrutoras - buscam responder as dúvidas que surgem durante os cursos.
+
+Te encontro na próxima aula!
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 9. O que aprendemos?
 
-[↑ Voltar ao topo](#topo)
-
----
-
-<!-- <table style="text-align: center; width: 100%;"> 
-<tr>
-    <td style="text-align: left;">
-    <img src="imgs/ex.png" alt="Nome do print" width="45%"/>
-    </td>
-</tr>
-</table> -->
+Nessa aula, você aprendeu a:
+- Trabalhar com o gráfico de pizza;
+- Utilizar o gráfico de barras para comparar categorias;
+- Desenvolver análises de séries temporais;
+- Importar visuais externos.
 
 ---
 

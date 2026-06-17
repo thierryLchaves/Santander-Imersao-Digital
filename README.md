@@ -857,31 +857,31 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Renomeando tabelas
         - [x] Faça como eu fiz
         - [x] O que aprendemos?
-    - [ ] **[Realizando Cálculos](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/02_Realizando_Calculos/RealizandoCalculos.md)**
+    - [x] **[Realizando Cálculos](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/02_Realizando_Calculos/RealizandoCalculos.md)**
         - [x] Criando uma coluna calculada
         - [x] Filtragem de dados nulos
         - [x] Para saber mais: qualidade da coluna
         - [x] Calculando o faturamento total
-        - [ ] Calcular receita total das vendas
-        - [ ] Para saber mais: medidas implícitas e explícitas
-        - [ ] Para saber mais: M e DAX
-        - [ ] Calculando o total de itens vendidos
-        - [ ] Mão na massa: utilizando DAX
-        - [ ] O que aprendemos?
-    - [ ] **[Análises com os gráficos](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/03_Analises_com_os_graficos/AnalisesComOsGraficos.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Trabalhando com o gráfico de pizza
-        - [ ] Comparação de receita por gênero
-        - [ ] Série temporal
-        - [ ] Para saber mais: rótulos de hierarquia
-        - [ ] Obtendo novos visuais
-        - [ ] Visualizando imagens dos eventos
-        - [ ] Faça como eu fiz: trazendo visuais externos
-        - [ ] O que aprendemos?
+        - [x] Calcular receita total das vendas
+        - [x] Para saber mais: medidas implícitas e explícitas
+        - [x] Para saber mais: M e DAX
+        - [x] Calculando o total de itens vendidos
+        - [x] Mão na massa: utilizando DAX
+        - [x] O que aprendemos?
+    - [x] **[Análises com os gráficos](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/03_Analises_com_os_graficos/AnalisesComOsGraficos.md)**
+        - [x] Projeto da aula anterior
+        - [x] Trabalhando com o gráfico de pizza
+        - [x] Comparação de receita por gênero
+        - [x] Série temporal
+        - [x] Para saber mais: rótulos de hierarquia
+        - [x] Obtendo novos visuais
+        - [x] Visualizando imagens dos eventos
+        - [x] Faça como eu fiz: trazendo visuais externos
+        - [x] O que aprendemos?
     - [ ] **[Estilização do relatório](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/04_Estilizacao_do_relatorio/EstilizacaoDoRelatorio.md)** 
-        - [ ] Projeto da aula anterior
-        - [ ] Estilização dos cartões
-        - [ ] Ajustando imagem de fundo
+        - [x] Projeto da aula anterior
+        - [x] Estilização dos cartões
+        - [x] Ajustando imagem de fundo
         - [ ] Estilizando as segmentações
         - [ ] Para saber mais: apresentações de impacto
         - [ ] Estilizando o gráfico de pizza
