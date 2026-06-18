@@ -842,7 +842,7 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 <details>
   <summary><b>Aulas da Semana - 07</b></summary>
 
-- [ ] **[Power BI Desktop: Construindo meu primeiro dashboard](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/)**
+- [x] **[Power BI Desktop: Construindo meu primeiro dashboard](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/)**
     - [x] **[Conectando os dados](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/01_Conectando_os_dados/ConectandoOsDados.md)**
         - [x] Apresentação
         - [x] Para saber mais: conta gratuita indisponível
@@ -878,42 +878,42 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Visualizando imagens dos eventos
         - [x] Faça como eu fiz: trazendo visuais externos
         - [x] O que aprendemos?
-    - [ ] **[Estilização do relatório](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/04_Estilizacao_do_relatorio/EstilizacaoDoRelatorio.md)** 
+    - [x] **[Estilização do relatório](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/04_Estilizacao_do_relatorio/EstilizacaoDoRelatorio.md)** 
         - [x] Projeto da aula anterior
         - [x] Estilização dos cartões
         - [x] Ajustando imagem de fundo
-        - [ ] Estilizando as segmentações
-        - [ ] Para saber mais: apresentações de impacto
-        - [ ] Estilizando o gráfico de pizza
-        - [ ] Escolhendo visuais
-        - [ ] Gráfico de área
-        - [ ] Faça como eu fiz: dashboard com as estilizações
-        - [ ] O que aprendemos?
-    - [ ] **[Power Bi Service](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/05_Power_Bi_Service/PowerBiService.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Layout móvel
-        - [ ] Layout personalizado
-        - [ ] Publicando na web
-        - [ ] Para saber mais: publicar na web
-        - [ ] Acessando o Power BI service
-        - [ ] Fundo do dispositivo móvel
-        - [ ] Faça como eu fiz: estilizando o layout móvel
-        - [ ] Projeto final
-        - [ ] Para ir mais fundo
-        - [ ] O que aprendemos?
-        - [ ] Conclusão
+        - [x] Estilizando as segmentações
+        - [x] Para saber mais: apresentações de impacto
+        - [x] Estilizando o gráfico de pizza
+        - [x] Escolhendo visuais
+        - [x] Gráfico de área
+        - [x] Faça como eu fiz: dashboard com as estilizações
+        - [x] O que aprendemos?
+    - [x] **[Power Bi Service](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Construindo_meu_primeiro_dashboard/05_Power_Bi_Service/PowerBiService.md)**
+        - [x] Projeto da aula anterior
+        - [x] Layout móvel
+        - [x] Layout personalizado
+        - [x] Publicando na web
+        - [x] Para saber mais: publicar na web
+        - [x] Acessando o Power BI service
+        - [x] Fundo do dispositivo móvel
+        - [x] Faça como eu fiz: estilizando o layout móvel
+        - [x] Projeto final
+        - [x] Para ir mais fundo
+        - [x] O que aprendemos?
+        - [x] Conclusão
 
 - [ ] **[Power BI Desktop: Realizando ETL no Power Query](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/)**
-    - [ ] **[Conectando os datasets](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/01_Conectando_os_datasets/ConectandoOsDatasets.md)**
-        - [ ] Apresentação
-        - [ ] Para saber mais: conta gratuita indisponível
-        - [ ] Preparando o ambiente: Power BI Desktop
-        - [ ] Conexão ao Excel e CSV
-        - [ ] Avaliando a melhor base de dados
-        - [ ] Conexão ao XML e JSON
-        - [ ] Conhecendo o Power Query Editor
-        - [ ] Mão na massa: explorando bases de dados da Olist
-        - [ ] O que aprendemos?
+    - [x] **[Conectando os datasets](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/01_Conectando_os_datasets/ConectandoOsDatasets.md)**
+        - [x] Apresentação
+        - [x] Para saber mais: conta gratuita indisponível
+        - [x] Preparando o ambiente: Power BI Desktop
+        - [x] Conexão ao Excel e CSV
+        - [x] Avaliando a melhor base de dados
+        - [x] Conexão ao XML e JSON
+        - [x] Conhecendo o Power Query Editor
+        - [x] Mão na massa: explorando bases de dados da Olist
+        - [x] O que aprendemos?
     - [ ] **[Power Query Editor](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/02_Power_Query_Editor/PowerQueryEditor.md)**
         - [ ] Projeto da aula anterior
         - [ ] Extraindo textos
