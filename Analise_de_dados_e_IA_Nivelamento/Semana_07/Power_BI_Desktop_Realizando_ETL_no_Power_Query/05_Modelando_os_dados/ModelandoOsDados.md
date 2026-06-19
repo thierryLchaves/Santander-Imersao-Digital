@@ -191,14 +191,75 @@ Visão geral da proposta de resolução do projeto:
 __Resolução do Desafio__  
 
 Os arquivos com o projeto resolvido estão disponíveis para serem baixados no link abaixo. E caso você queira trabalhar em um resultado semelhante, os arquivos com a imagem de background, paleta de cores e ícone também estão disponíveis.
-Link para o download do projeto, paleta e imagem de fundo:
+
+Link para o download do projeto, paleta e imagem de fundo: [base de dados](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/662bd0834e1591a0ac16c2b445730f9ff074807a/Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/db), [arquivo b.i](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/662bd0834e1591a0ac16c2b445730f9ff074807a/Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/src)
+
+__Sugestões para Tarefa 1:__  
+
+A visualização recomendada para mostrar o total de pedidos da base de dados no Power BI é o cartão (card).
+
+O cartão é uma visualização simples, porém eficaz, que permite exibir um único valor de forma clara e destacada. Essa visualização é ideal para apresentar informações-chave, como o total de pedidos, de maneira direta e sem distrações visuais.
+
+Ao utilizar um cartão, você poderá configurá-lo para exibir o valor total de pedidos de forma legível e com destaque. Além disso, o cartão possui opções de personalização, como a escolha da cor de fundo, tamanho da fonte e formato do número exibido.  
+
+__Sugestões para Tarefa 2:__  
+
+Para criar uma visualização para mostrar a evolução dos pedidos no tempo, a visualização recomendada no Power BI é o gráfico de linhas (line chart). Mas também podemos trabalhar com um gráfico de áreas, para causar mais impacto e aproveitar as cores com o dashboard.
+
+Esses gráficos são uma escolha adequada para representar a evolução dos pedidos ao longo do tempo, pois permitem visualizar as tendências e variações dos dados de forma clara e intuitiva. Eles são compostos por pontos conectados por linhas, onde o eixo x representa o tempo (por exemplo, datas) e o eixo y mostra o número de pedidos.
+
+É possível identificar rapidamente os padrões sazonais, tendências ascendentes ou descendentes, bem como flutuações significativas no número de pedidos ao longo do tempo. Além disso, essa visualização permite que as pessoas usuárias interajam com os dados, ampliando ou reduzindo o período de tempo para uma análise mais detalhada.
+
+Você também pode adicionar elementos extras ao gráfico de linhas, como linhas de tendência, marcadores para pontos específicos de interesse ou rótulos para destacar eventos relevantes. Esses recursos ajudam a fornecer insights adicionais sobre a evolução dos pedidos, tornando a visualização mais informativa e impactante, o que pode influenciar em futuras decisões estratégicas da empresa.
+
+__Sugestões para Tarefa 3:__  
+
+Para criar uma visualização para mostrar os percentuais de preferência por tipo de pagamento, a visualização recomendada no Power BI é o gráfico de pizza (pie chart) ou o gráfico de barras horizontais (horizontal stacked bar chart).
+
+O gráfico de pizza é uma escolha comum para mostrar a distribuição percentual de diferentes categorias, como os tipos de pagamento utilizados. Ele representa cada categoria como uma fatia do círculo, cujo tamanho é proporcional ao percentual que representa em relação ao total. Porém, o gráfico de pizza não é recomendado quando há muitas categorias de pagamento. Isso ocorre porque, com muitas categorias, as fatias do gráfico de pizza podem se tornar muito pequenas e difíceis de serem distinguidas visualmente, tornando a interpretação dos percentuais pouco precisa.
+
+Outra opção é o gráfico de barras, onde cada barra representa um tipo de pagamento e o comprimento da barra indica a proporção do total que ele representa. Existem duas opções, verticais e horizontais, e para cada opção de empilhagem, conseguimos construir uma comparação visual direta entre as categorias. Ambas as visualizações são eficazes para mostrar os percentuais de preferência por tipo de pagamento, e a escolha entre elas dependerá do estilo visual desejado e da preferência pessoal.
+
+Ao utilizar uma dessas visualizações, você poderá destacar claramente a preferência relativa de cada tipo de pagamento, permitindo que as pessoas usuárias compreendam facilmente a distribuição dos pagamentos e identifiquem quais métodos são mais populares. Além disso, você pode adicionar rótulos ou porcentagens para fornecer informações adicionais.
 
 
+__Sugestões para Tarefa 4:__  
+Para criar uma visualização que mostre a quantidade de produtos por categoria, observando apenas um ranking dos valores mais altos, a visualização recomendada no Power BI é o gráfico de barras com ordenação por valor decrescente.
+
+O gráfico de barras é uma escolha eficiente para mostrar a quantidade de produtos em cada categoria, permitindo uma comparação visual direta entre as categorias. Cada categoria é representada por um tipo de barra (vertical ou horizontal), cuja altura ou largura é proporcional à quantidade de produtos nessa categoria.
+
+Para atender ao requisito de observar apenas um ranking dos valores mais altos, você pode ordenar as barras de forma decrescente, colocando a categoria com a maior quantidade de produtos no topo. Isso permitirá que as pessoas usuárias identifiquem rapidamente as categorias com maior volume de produtos, enquanto as categorias com menor quantidade serão exibidas abaixo, de acordo com o ranking selecionado.
+
+Para o projeto, escolhemos utilizar o gráfico de barras horizontal, e uma quantidade de 6 barras para mostrar o ranking.
+
+Além disso, você pode adicionar rótulos nas barras para exibir a quantidade exata de produtos em cada categoria, auxiliando na interpretação dos dados.
+
+Essa visualização proporcionará uma compreensão clara da distribuição dos produtos por categoria, permitindo que a equipe identifique facilmente as categorias com maior demanda ou que mereçam maior atenção. Isso auxiliará na tomada de decisões estratégicas, como ajustar estoques, otimizar a oferta de produtos ou direcionar campanhas de marketing específicas para as categorias mais populares.  
+
+__Sugestões para Tarefa 5:__  
+
+Para criar um filtro para segmentar os registros por ano no Power BI, podemos utilizar um filtro do tipo dropdown (lista suspensa), que permite a segmentação dos registros por ano.
+
+Em vez de um slicer interativo (outra opção de filtro), um filtro dropdown oferece uma lista suspensa que permite às pessoas usuárias selecionar o ano desejado entre as opções disponíveis. Crie também um filtro para considerar somente os valores não “Em branco” como opções de filtragem. Não é necessário realizar tratamentos na base de dados, apenas criar o filtro para não mostrar a opção “Em branco”.
+
+Ao utilizar um filtro dropdown, você oferecerá uma maneira conveniente de segmentar os registros por ano. Essa abordagem simplifica a interação para quem usa o dashboard, pois não é necessário selecionar valores em um slicer com múltiplas opções visíveis de uma vez.
+
+Essa solução permitirá que as pessoas usuárias analisem os dados de forma mais granular, selecionando um ano específico de interesse. Isso facilita a identificação de tendências sazonais, padrões de crescimento ou comportamentos distintos em diferentes anos.
+
+Com o filtro dropdown, as pessoas usuárias poderão personalizar a visualização e focar nos registros de um ano específico, permitindo uma análise mais precisa e a extração de insights valiosos com base em diferentes períodos de tempo. Essa é uma visualização que também se comunica muito bem com a proposta de evolução no tempo.   
+
+
+O que vem depois?
+Você pode compartilhar sua evolução e portfólio conosco através do LinkedIn. Será um prazer interagir com você por lá e acompanhar seu desenvolvimento!
+
+Ao final do curso, sinta-se à vontade para deixar uma avaliação. Seu feedback é muito importante para que possamos trazer conteúdos cada vez melhores!
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 9. Projeto final
+
+Se desejar, você pode conferir o projeto completo do curso.
 
 [↑ Voltar ao topo](#topo)
 
