@@ -107,7 +107,7 @@ Então iremos iniciar o processo de ETL, assim como começamos anteriormente na 
 <table style="text-align: center; width: 100%;"> 
 <tr>
     <td style="text-align: left;">
-    <img src="imgs/ex.png" alt="Carregamento XLSX" width="45%"/>
+    <img src="imgs/xlsx_fonte.png" alt="Carregamento XLSX" width="45%"/>
     </td>
 </tr>
 </table>
@@ -118,7 +118,7 @@ Iremos ainda nesse processo realizar a importação de outra base de dados, que 
 <table style="text-align: center; width: 100%;"> 
 <tr>
     <td style="text-align: left;">
-    <img src="imgs/ex.png" alt="Carregamento CSV" width="45%"/>
+    <img src="imgs/csv_fonte.png" alt="Carregamento CSV" width="45%"/>
     </td>
 </tr>
 </table>
@@ -160,7 +160,7 @@ Dando sequência nas importações dos dados, iremos importar a base em formato 
 <table style="text-align: center; width: 100%;"> 
 <tr>
     <td style="text-align: left;">
-    <img src="imgs/ex.png" alt="Carregamento XML" width="45%"/>
+    <img src="imgs/xml_fonte.png" alt="Carregamento XML" width="45%"/>
     </td>
 </tr>
 </table>
@@ -170,7 +170,7 @@ Agora o ultimo passo de importação dos dados será do arquivo em formato `.JSO
 <table style="text-align: center; width: 100%;"> 
 <tr>
     <td style="text-align: left;">
-    <img src="imgs/ex.png" alt="Carregamento JSON" width="45%"/>
+    <img src="imgs/json_fonte.png" alt="Carregamento JSON" width="45%"/>
     </td>
 </tr>
 </table>

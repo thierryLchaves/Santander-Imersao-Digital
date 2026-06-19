@@ -3,17 +3,20 @@
 <a id="topo"></a>
 
 ## Sumário
-- [1. Projeto da aula anterior](#1-projeto-da-aula-anterior)
-- [2. Transposição de tabela](#2-transposição-de-tabela)
-- [3. Gerenciando parâmetros](#3-gerenciando-parâmetros)
-- [4. Para saber mais: parâmetros](#4-para-saber-mais-parâmetros)
-- [5. Organizando diretórios](#5-organizando-diretórios)
-- [6. Tipos dos dados](#6-tipos-dos-dados)
-- [7. Evitando problemas futuros](#7-evitando-problemas-futuros)
-- [8. Faça como eu fiz: inserindo parâmetros](#8-faça-como-eu-fiz-inserindo-parâmetros)
-- [9. O que aprendemos?](#9-o-que-aprendemos)
+- [Avançando nas transformações](#avançando-nas-transformações)
+  - [Sumário](#sumário)
+  - [1. Projeto da aula anterior](#1-projeto-da-aula-anterior)
+  - [2. Transposição de tabela](#2-transposição-de-tabela)
+  - [3. Gerenciando parâmetros](#3-gerenciando-parâmetros)
+  - [4. Para saber mais: parâmetros](#4-para-saber-mais-parâmetros)
+  - [5. Organizando diretórios](#5-organizando-diretórios)
+  - [6. Tipos dos dados](#6-tipos-dos-dados)
+  - [7. Evitando problemas futuros](#7-evitando-problemas-futuros)
+  - [8. Faça como eu fiz: inserindo parâmetros](#8-faça-como-eu-fiz-inserindo-parâmetros)
+  - [9. O que aprendemos?](#9-o-que-aprendemos)
 
 ## 1. Projeto da aula anterior
+Caso prefira, você pode acessar o [projeto da aula 1](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/184f3613b2391ace6d1b4d46b148e44ccd1afc34/Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/src/Power%20Query%20-%20Aula%201.pbix) no ponto em que paramos na aula anterior.  
 
 [↑ Voltar ao topo](#topo)
 

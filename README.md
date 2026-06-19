@@ -914,19 +914,19 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Conhecendo o Power Query Editor
         - [x] Mão na massa: explorando bases de dados da Olist
         - [x] O que aprendemos?
-    - [ ] **[Power Query Editor](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/02_Power_Query_Editor/PowerQueryEditor.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Extraindo textos
-        - [ ] Mesclando consultas
-        - [ ] Para saber mais: tipos de junção na mesclagem do Power BI
-        - [ ] Traduzindo colunas
-        - [ ] Possibilidades de transformações
-        - [ ] Para saber mais: tratamento de dados com linguagem M
-        - [ ] Trabalhando com delimitadores
-        - [ ] Mão na massa: explorando a base com a coluna de exemplos
-        - [ ] O que aprendemos?
+    - [x] **[Power Query Editor](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/02_Power_Query_Editor/PowerQueryEditor.md)**
+        - [x] Projeto da aula anterior
+        - [x] Extraindo textos
+        - [x] Mesclando consultas
+        - [x] Para saber mais: tipos de junção na mesclagem do Power BI
+        - [x] Traduzindo colunas
+        - [x] Possibilidades de transformações
+        - [x] Para saber mais: tratamento de dados com linguagem M
+        - [x] Trabalhando com delimitadores
+        - [x] Mão na massa: explorando a base com a coluna de exemplos
+        - [x] O que aprendemos?
     - [ ] **[Avançando nas transformações](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/03_Avancando_nas_transformacoes/AvancandoNasTransformacoes.md)**
-        - [ ] Projeto da aula anterior
+        - [x] Projeto da aula anterior
         - [ ] Transposição de tabela
         - [ ] Gerenciando parâmetros
         - [ ] Para saber mais: parâmetros
