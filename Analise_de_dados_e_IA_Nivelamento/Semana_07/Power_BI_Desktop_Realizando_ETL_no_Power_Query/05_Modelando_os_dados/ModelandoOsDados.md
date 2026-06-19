@@ -259,34 +259,56 @@ Ao final do curso, sinta-se à vontade para deixar uma avaliação. Seu feedback
 ---
 ## 9. Projeto final
 
-Se desejar, você pode conferir o projeto completo do curso.
+Se desejar, você pode conferir o [projeto completo do curso.](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/85f1d08033cf5d70607dfaf2979b7b277c921dcc/Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/src/Power%20Query%20-%20Projeto%20final.pbix)
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 10. Referências
+[Power Query (gratuito, português, website)](https://learn.microsoft.com/pt-br/power-query/)  
+
+Power Query é uma tecnologia de conexão de dados que permite descobrir, conectar, combinar e refinar dados de várias fontes para atender às necessidades de análise. Especialmente útil para análise de dados e inteligência empresarial.
+
+[O que é Power Query? (gratuito, português, website)](https://learn.microsoft.com/pt-br/power-query/power-query-what-is-power-query)
+Este recurso fornece uma visão geral conceitual do Power Query, explicando o que é, por que você o usaria e de onde ele se originou. Também ajuda a entender como ele se integra com outros produtos da Microsoft.
+
+[Visão geral de fluxos de dados (Dataflows) do Power Platform e Dynamics 365 (gratuito, português, website)](https://learn.microsoft.com/pt-br/power-query/dataflows/overview-dataflows-across-power-platform-dynamics-365)
+Este artigo ajuda você a entender o que são Fluxos de Dados (Dataflows) e como eles funcionam com o Power Platform e o Dynamics 365. Fornece exemplos de configuração de conexão de dados e modelagem de dados.
+
+[Interface do usuário do Power Query (gratuito, português, website)](https://learn.microsoft.com/pt-br/power-query/power-query-ui)
+Esta página ajuda os usuários a se familiarizarem com a Interface do usuário do Power Query. Ele fornece um walkthrough das várias ferramentas e recursos disponíveis, tornando-o uma referência útil para novatos e usuários experientes.
+
+[Mesclando consultas no Power Query (gratuito, português, artigo)](https://www.alura.com.br/artigos/power-bi-mesclando-consultas-no-power-query)
+Este artigo tutorial ensina como mesclar queries no Power Query, um recurso útil quando se trabalha com várias fontes de dados. Ele fornece instruções passo a passo, facilitando a prática da técnica.
+
+[Curso: Power BI - Mergulhando na linguagem 'M' (pago, português, curso)](https://cursos.alura.com.br/course/power-bi-mergulhando-linguagem-m)
+Este curso ensina como utilizar a linguagem M no Power BI. Por meio de aulas teóricas e práticas, os estudantes aprendem a criar consultas personalizadas e a trabalhar com várias fontes de dados.
+
+[Parâmetros e exportação de modelos no Power BI (gratuito, português, artigo)](https://www.alura.com.br/artigos/power-bi-parametros-e-exportacao-de-modelos)
+Este artigo descreve como usar parâmetros e exportar modelos no Power BI. Ele discute os benefícios de usar parâmetros ao conectar dados e oferece instruções detalhadas sobre como aplicar a técnica.
+
+[Linguagens 'M' e 'DAX' no Power BI (gratuito, português, artigo)](https://www.alura.com.br/artigos/power-bi-linguagens-m-dax)
+Este artigo aborda duas linguagens importantes usadas no Power BI: M e DAX. Ele compreende as semelhanças e diferenças entre as duas, ajuda a entender quando usar cada uma delas, e fornece exemplos de uso.
+
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 11. O que aprendemos?
 
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/oque_aprendemos.png" alt="O que aprendemos" width="100%"/>
+    </td>
+</tr>
+</table>
+
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 12. Conclusão
-
-[↑ Voltar ao topo](#topo)
-
----
-
-<!-- <table style="text-align: center; width: 100%;"> 
-<tr>
-    <td style="text-align: left;">
-    <img src="imgs/ex.png" alt="Nome do print" width="45%"/>
-    </td>
-</tr>
-</table> -->
+PARABÉNS
 
 ---
 
@@ -307,5 +329,5 @@ Se desejar, você pode conferir o projeto completo do curso.
 __Titulo:__ Modelando os dados
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 14-06-2026  
-__Data de Modificação:__ 14-06-2026  
+__Data de Modificação:__ 19-06-2026  
 __Versão:__ "1.0"

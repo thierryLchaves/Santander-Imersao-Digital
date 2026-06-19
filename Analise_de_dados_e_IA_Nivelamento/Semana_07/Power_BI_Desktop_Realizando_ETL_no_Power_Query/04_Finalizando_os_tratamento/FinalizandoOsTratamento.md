@@ -365,6 +365,9 @@ Nessa aula, você aprendeu a:
     <td style="padding: 5px;">
       <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
     </td>
+    <td style="padding: 5px;">
+      <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+    </td>
   </tr>
 </table>
 

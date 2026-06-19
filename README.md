@@ -903,7 +903,7 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] O que aprendemos?
         - [x] Conclusão
 
-- [ ] **[Power BI Desktop: Realizando ETL no Power Query](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/)**
+- [x] **[Power BI Desktop: Realizando ETL no Power Query](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/)**
     - [x] **[Conectando os datasets](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/01_Conectando_os_datasets/ConectandoOsDatasets.md)**
         - [x] Apresentação
         - [x] Para saber mais: conta gratuita indisponível
@@ -946,19 +946,19 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Otimizando processos
         - [x] Mão na massa
         - [x] O que aprendemos?
-    - [ ] **[Modelando os dados](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/05_Modelando_os_dados/ModelandoOsDados.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Carregando dados e acessando o modelo
-        - [ ] Conhecendo as propriedades de relação
-        - [ ] Escolhendo a cardinalidade
-        - [ ] Para saber mais: a importância da modelagem de dados
-        - [ ] Garantindo conexões assertivas
-        - [ ] Modelando de forma adequada
-        - [ ] Mão na massa
-        - [ ] Projeto final
-        - [ ] Referências
-        - [ ] O que aprendemos?
-        - [ ] Conclusão
+    - [x] **[Modelando os dados](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/05_Modelando_os_dados/ModelandoOsDados.md)**
+        - [x] Projeto da aula anterior
+        - [x] Carregando dados e acessando o modelo
+        - [x] Conhecendo as propriedades de relação
+        - [x] Escolhendo a cardinalidade
+        - [x] Para saber mais: a importância da modelagem de dados
+        - [x] Garantindo conexões assertivas
+        - [x] Modelando de forma adequada
+        - [x] Mão na massa
+        - [x] Projeto final
+        - [x] Referências
+        - [x] O que aprendemos?
+        - [x] Conclusão
 
 </details>
 
