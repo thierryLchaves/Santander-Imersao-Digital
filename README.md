@@ -925,27 +925,27 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Trabalhando com delimitadores
         - [x] Mão na massa: explorando a base com a coluna de exemplos
         - [x] O que aprendemos?
-    - [ ] **[Avançando nas transformações](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/03_Avancando_nas_transformacoes/AvancandoNasTransformacoes.md)**
+    - [x] **[Avançando nas transformações](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/03_Avancando_nas_transformacoes/AvancandoNasTransformacoes.md)**
         - [x] Projeto da aula anterior
-        - [ ] Transposição de tabela
-        - [ ] Gerenciando parâmetros
-        - [ ] Para saber mais: parâmetros
-        - [ ] Organizando diretórios
-        - [ ] Tipos dos dados
-        - [ ] Evitando problemas futuros
-        - [ ] Faça como eu fiz: inserindo parâmetros
-        - [ ] O que aprendemos?
-    - [ ] **[Finalizando os tratamento](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/04_Finalizando_os_tratamento/FinalizandoOsTratamento.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Renomeando e removendo consultas
-        - [ ] Para saber mais: renomeando colunas no Power Query
-        - [ ] Conhecendo o editor avançado
-        - [ ] Para saber mais: diferença entre duplicar e referenciar uma tabela
-        - [ ] Reaproveitando processos
-        - [ ] Refatorando as etapas
-        - [ ] Otimizando processos
-        - [ ] Mão na massa
-        - [ ] O que aprendemos?
+        - [x] Transposição de tabela
+        - [x] Gerenciando parâmetros
+        - [x] Para saber mais: parâmetros
+        - [x] Organizando diretórios
+        - [x] Tipos dos dados
+        - [x] Evitando problemas futuros
+        - [x] Faça como eu fiz: inserindo parâmetros
+        - [x] O que aprendemos?
+    - [x] **[Finalizando os tratamento](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/04_Finalizando_os_tratamento/FinalizandoOsTratamento.md)**
+        - [x] Projeto da aula anterior
+        - [x] Renomeando e removendo consultas
+        - [x] Para saber mais: renomeando colunas no Power Query
+        - [x] Conhecendo o editor avançado
+        - [x] Para saber mais: diferença entre duplicar e referenciar uma tabela
+        - [x] Reaproveitando processos
+        - [x] Refatorando as etapas
+        - [x] Otimizando processos
+        - [x] Mão na massa
+        - [x] O que aprendemos?
     - [ ] **[Modelando os dados](Analise_de_dados_e_IA_Nivelamento/Semana_07/Power_BI_Desktop_Realizando_ETL_no_Power_Query/05_Modelando_os_dados/ModelandoOsDados.md)**
         - [ ] Projeto da aula anterior
         - [ ] Carregando dados e acessando o modelo
@@ -1003,5 +1003,5 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 __Titulo:__ Readme  
 __Autor:__ Thierry Lucas Chaves    
 __Data de Criação:__ 23-04-2026    
-__Data de Modificação:__ 14-06-2026   
+__Data de Modificação:__ 19-06-2026   
 __Versão:__ "9.0"  
