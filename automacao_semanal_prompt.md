@@ -22,123 +22,133 @@ Por favor, siga os passos abaixo:
 5. IMPORTANTE: Sempre que realizar qualquer edição no `README.md`, não se esqueça de ir até o rodapé e atualizar a **Data de Modificação** para a data corrente, além de atualizar/incrementar a **Versão**.
 
 <lista_bruta_da_semana>
-Power BI Desktop: Construindo meu primeiro dashboard
-  - Conectando os dados
-    - Apresentação
-    - Para saber mais: conta gratuita indisponível
-    - Preparando o ambiente: Power BI e base de dados
-    - Para saber mais: Business Intelligence
-    - Construindo o cartão com a média de pets
-    - Alinhamento configuração Power BI
-    - Ajustando a visualização
-    - Importando as pastas e mesclando as tabelas
-    - Tipo de dado correto
-    - Conectando com o Google planilhas
-    - Renomeando tabelas
-    - Faça como eu fiz
-    - O que aprendemos?
-  - Realizando Cálculos
-    - Criando uma coluna calculada
-    - Filtragem de dados nulos
-    - Para saber mais: qualidade da coluna
-    - Calculando o faturamento total
-    - Calcular receita total das vendas
-    - Para saber mais: medidas implícitas e explícitas
-    - Para saber mais: M e DAX
-    - Calculando o total de itens vendidos
-    - Mão na massa: utilizando DAX
-    - O que aprendemos?
-  - Análises com os gráficos
-    - Projeto da aula anterior
-    - Trabalhando com o gráfico de pizza
-    - Comparação de receita por gênero
-    - Série temporal
-    - Para saber mais: rótulos de hierarquia
-    - Obtendo novos visuais
-    - Visualizando imagens dos eventos
-    - Faça como eu fiz: trazendo visuais externos
-    - O que aprendemos?
-  - Estilização do relatório 
-    - Projeto da aula anterior
-    - Estilização dos cartões
-    - Ajustando imagem de fundo
-    - Estilizando as segmentações
-    - Para saber mais: apresentações de impacto
-    - Estilizando o gráfico de pizza
-    - Escolhendo visuais
-    - Gráfico de área
-    - Faça como eu fiz: dashboard com as estilizações
-    - O que aprendemos?
-  - Power Bi Service
-    - Projeto da aula anterior
-    - Layout móvel
-    - Layout personalizado
-    - Publicando na web
-    - Para saber mais: publicar na web
-    - Acessando o Power BI service
-    - Fundo do dispositivo móvel
-    - Faça como eu fiz: estilizando o layout móvel
-    - Projeto final
-    - Para ir mais fundo
-    - O que aprendemos?
-    - Conclusão
-  
-Power BI Desktop: Realizando ETL no Power Query
-  - Conectando os datasets
-    - Apresentação
-    - Para saber mais: conta gratuita indisponível
-    - Preparando o ambiente: Power BI Desktop
-    - Conexão ao Excel e CSV
-    - Avaliando a melhor base de dados
-    - Conexão ao XML e JSON
-    - Conhecendo o Power Query Editor
-    - Mão na massa: explorando bases de dados da Olist
-    - O que aprendemos?
-  - Power Query Editor
-    - Projeto da aula anterior
-    - Extraindo textos
-    - Mesclando consultas
-    - Para saber mais: tipos de junção na mesclagem do Power BI
-    - Traduzindo colunas
-    - Possibilidades de transformações
-    - Para saber mais: tratamento de dados com linguagem M
-    - Trabalhando com delimitadores
-    - Mão na massa: explorando a base com a coluna de exemplos
-    - O que aprendemos?
-  - Avançando nas transformações
-    - Projeto da aula anterior
-    - Transposição de tabela
-    - Gerenciando parâmetros
-    - Para saber mais: parâmetros
-    - Organizando diretórios
-    - Tipos dos dados
-    - Evitando problemas futuros
-    - Faça como eu fiz: inserindo parâmetros
-    - O que aprendemos?
-  - Finalizando os tratamento
-    - Projeto da aula anterior
-    - Renomeando e removendo consultas
-    - Para saber mais: renomeando colunas no Power Query
-    - Conhecendo o editor avançado
-    - Para saber mais: diferença entre duplicar e referenciar uma tabela
-    - Reaproveitando processos
-    - Refatorando as etapas
-    - Otimizando processos
-    - Mão na massa
-    - O que aprendemos?
-  - Modelando os dados
-    - Projeto da aula anterior
-    - Carregando dados e acessando o modelo
-    - Conhecendo as propriedades de relação
-    - Escolhendo a cardinalidade
-    - Para saber mais: a importância da modelagem de dados
-    - Garantindo conexões assertivas
-    - Modelando de forma adequada
-    - Mão na massa
-    - Projeto final
-    - Referências
-    - O que aprendemos?
-    - Conclusão
+Power BI: Construindo cálculos com Dax
+  - Conhecendo os dados
+     - Apresentação
+     - Para saber mais: conta gratuita indisponível
+     - Preparando o ambiente
+     - Para saber mais: roadmap do curso
+     - Importando os dados
+     - Para saber mais: modelo semântico no Power BI
+     - Explorando o DAX
+     - Para saber mais: básico do DAX
+     - Calculando o desconto com DAX
+     - Mão na massa: explorando as bases de dados
+     - O que aprendemos?
+  - Colunas calculadas e medidas
+     - Projeto da aula anterior
+     - Calculando o Total de Vendas
+     - Para saber mais: ferramentas DAX
+     - Calculando a Margem
+     - Porcentagem da Margem
+     - Para saber mais: colunas calculadas e medidas
+     - Para saber mais: medidas rápidas, implícitas e explícitas
+     - Aprimorando os cálculos
+     - Para saber mais: funções iteradoras
+     - Calculando a receita média
+     - Mão na massa: criando medidas com funções iteradoras
+     - O que aprendemos?
+  - Funções de tabela
+     - Projeto da aula anterior
+     - Vendas por categoria
+     - Vendas por tipo de produto
+     - Para saber mais: função FILTER
+     - Destacando métricas
+     - Para saber mais: RELATED e RELATEDTABLE
+     - Filtrando regiões
+     - Mão na massa: calculando vendas com filtros
+     - O que aprendemos?
+  - Contextos no DAX
+     - Projeto da aula anterior
+     - Contexto de filtro
+     - Contexto de linha
+     - Para saber mais: Contexto de filtro X Contexto de linha
+     - Combinando contextos
+     - Avaliando contextos no DAX
+     - Mão na massa: explorando os contextos no DAX
+     - O que aprendemos?
+  - Conhecendo o CALCULATE
+     - Projeto da aula anterior
+     - Vendas por vendedores
+     - Para saber mais: criando a tabela calendário
+     - Mudando o contexto de filtro
+     - Para saber mais: transição de contexto
+     - Filtrando com CALCULATE
+     - Para saber mais: funções de filtro
+     - Mão na massa: criando uma matriz
+     - O que aprendemos?
+  - Inteligência temporal
+     - Projeto da aula anterior
+     - Tabela calendário
+     - Para saber mais: funções de DATA
+     - Calculando o período anterior
+     - Para saber mais: funções de inteligência temporal
+     - Calculando a diferença das vendas
+     - Vendas do período anterior
+     - Mão na massa: relatório final
+     - Projeto final
+     - Para ir mais fundo
+     - O que aprendemos?
+     - Conclusão
+
+Power BI: Visualizando e analisando dados
+  - Analisando categorias
+     - Apresentação
+     - Para saber mais: conta gratuita indisponível
+     - Preparando o ambiente
+     - Explorando os dados
+     - Identificando a melhor forma de visualização
+     - Refletindo sobre o gráfico de pizza
+     - Para saber mais: usos do gráfico de pizza
+     - Análise com gráfico de pizza
+     - Faça como eu fiz: crie uma hierarquia
+     - O que aprendemos?
+  - Selecionando visuais para categorias 
+     - Projeto da aula anterior
+     - Adicionando guias de análises
+     - Configure uma dica de ferramenta
+     - Para saber mais: dicas de ferramenta (Tooltips) no Power BI
+     - Utilize um parâmetro de campo
+     - Otimizando análises no Power BI com parâmetros de campo
+     - Faça como eu fiz: praticando com o parâmetro
+     - O que aprendemos?
+  - Analisando dados ao longo do tempo
+     - Projeto da aula anterior
+     - Criando gráfico de linha e área
+     - Identifique tendências
+     - Para saber mais: aprimorando a análise com detecção de anomalias e previsões no Power BI
+     - Detecte anomalias e faça previsões
+     - Decifrando o faturamento da Opuline
+     - Faça como eu fiz: trabalhando com tendências e previsões
+     - O que aprendemos?
+  - Monitorando  outros indicadores
+     - Projeto da aula anterior
+     - Visualize dados em mapas
+     - Acompanhe os KPIs
+     - Para saber mais: aprimorando o monitoramento de KPIs no Power BI
+     - Monitore as metas
+     - Visualizando metas na Clínica Médica Voll
+     - Revele padrões com gráficos de dispersão
+     - Faça como eu fiz: entendendo a correlação entre duas categorias
+     - O que aprendemos?
+  - Estruturando o relatório 
+     - Projeto da aula anterior
+     - Trabalhando com temas
+     - Aplicando a identidade visual da Opuline
+     - Inserindo o layout final
+     - Para saber mais: seleção e indicadores
+     - Finalizando página de vendas
+     - Estilizando página de produtos
+     - Navegação entre botões
+     - Para saber mais: menu sanduíche
+     - Mão na massa: estruture uma apresentação
+     - Para saber mais: aprimorando o design e a navegação de relatórios
+     - Faça como eu fiz: utilizando botões para navegação
+     - Projeto final
+     - Para ir mais fundo
+     - O que aprendemos?
+     - Conclusão
+
 </lista_bruta_da_semana>
 
 ### Passo 2: Aplicação dos Links

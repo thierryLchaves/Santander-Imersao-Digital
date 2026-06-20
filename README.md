@@ -29,6 +29,7 @@ Nele serão arquivados materiais em __`Markdown`__ para anotações das aulas, c
     - [Semana - 05](#semana---05)
     - [Semana - 06](#semana---06)
     - [Semana - 07](#semana---07)
+    - [Semana - 08](#semana---08)
 ---
 ## 1. Visão Geral
 Conforme a estrutura do curso se dá em trilhas e módulos, adotaremos a seguinte formatação: serão criadas __8 pastas__ referentes às semanas. Cada uma conterá subdiretórios com a tecnologia abordada no curso de forma macro. Esses subdiretórios conterão outras pastas referentes às aulas do dia em questão. Ambos seguirão o padrão `Snake_Case`, porém os nomes dos arquivos serão em `CamelCase`, com referência à pasta ou à aula em questão.
@@ -962,6 +963,139 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 
 </details>
 
+### [Semana - 08](Analise_de_dados_e_IA_Nivelamento/Semana_08/)
+<details>
+  <summary><b>Aulas da Semana - 08</b></summary>
+
+- [ ] **[Power BI: Construindo cálculos com Dax](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/)**
+    - [ ] **[Conhecendo os dados](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/01_Conhecendo_os_dados/ConhecendoOsDados.md)**
+        - [ ] Apresentação
+        - [ ] Para saber mais: conta gratuita indisponível
+        - [ ] Preparando o ambiente
+        - [ ] Para saber mais: roadmap do curso
+        - [ ] Importando os dados
+        - [ ] Para saber mais: modelo semântico no Power BI
+        - [ ] Explorando o DAX
+        - [ ] Para saber mais: básico do DAX
+        - [ ] Calculando o desconto com DAX
+        - [ ] Mão na massa: explorando as bases de dados
+        - [ ] O que aprendemos?
+    - [ ] **[Colunas calculadas e medidas](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/02_Colunas_calculadas_e_medidas/ColunasCalculadasEMedidas.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Calculando o Total de Vendas
+        - [ ] Para saber mais: ferramentas DAX
+        - [ ] Calculando a Margem
+        - [ ] Porcentagem da Margem
+        - [ ] Para saber mais: colunas calculadas e medidas
+        - [ ] Para saber mais: medidas rápidas, implícitas e explícitas
+        - [ ] Aprimorando os cálculos
+        - [ ] Para saber mais: funções iteradoras
+        - [ ] Calculando a receita média
+        - [ ] Mão na massa: criando medidas com funções iteradoras
+        - [ ] O que aprendemos?
+    - [ ] **[Funções de tabela](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/03_Funcoes_de_tabela/FuncoesDeTabela.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Vendas por categoria
+        - [ ] Vendas por tipo de produto
+        - [ ] Para saber mais: função FILTER
+        - [ ] Destacando métricas
+        - [ ] Para saber mais: RELATED e RELATEDTABLE
+        - [ ] Filtrando regiões
+        - [ ] Mão na massa: calculando vendas com filtros
+        - [ ] O que aprendemos?
+    - [ ] **[Contextos no DAX](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/04_Contextos_no_DAX/ContextosNoDax.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Contexto de filtro
+        - [ ] Contexto de linha
+        - [ ] Para saber mais: Contexto de filtro X Contexto de linha
+        - [ ] Combinando contextos
+        - [ ] Avaliando contextos no DAX
+        - [ ] Mão na massa: explorando os contextos no DAX
+        - [ ] O que aprendemos?
+    - [ ] **[Conhecendo o CALCULATE](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/05_Conhecendo_o_CALCULATE/ConhecendoOCalculate.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Vendas por vendedores
+        - [ ] Para saber mais: criando a tabela calendário
+        - [ ] Mudando o contexto de filtro
+        - [ ] Para saber mais: transição de contexto
+        - [ ] Filtrando com CALCULATE
+        - [ ] Para saber mais: funções de filtro
+        - [ ] Mão na massa: criando uma matriz
+        - [ ] O que aprendemos?
+    - [ ] **[Inteligência temporal](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/06_Inteligencia_temporal/InteligenciaTemporal.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Tabela calendário
+        - [ ] Para saber mais: funções de DATA
+        - [ ] Calculando o período anterior
+        - [ ] Para saber mais: funções de inteligência temporal
+        - [ ] Calculando a diferença das vendas
+        - [ ] Vendas do período anterior
+        - [ ] Mão na massa: relatório final
+        - [ ] Projeto final
+        - [ ] Para ir mais fundo
+        - [ ] O que aprendemos?
+        - [ ] Conclusão
+
+- [ ] **[Power BI: Visualizando e analisando dados](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/)**
+    - [ ] **[Analisando categorias](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/01_Analisando_categorias/AnalisandoCategorias.md)**
+        - [ ] Apresentação
+        - [ ] Para saber mais: conta gratuita indisponível
+        - [ ] Preparando o ambiente
+        - [ ] Explorando os dados
+        - [ ] Identificando a melhor forma de visualização
+        - [ ] Refletindo sobre o gráfico de pizza
+        - [ ] Para saber mais: usos do gráfico de pizza
+        - [ ] Análise com gráfico de pizza
+        - [ ] Faça como eu fiz: crie uma hierarquia
+        - [ ] O que aprendemos?
+    - [ ] **[Selecionando visuais para categorias](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/02_Selecionando_visuais_para_categorias/SelecionandoVisuaisParaCategorias.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Adicionando guias de análises
+        - [ ] Configure uma dica de ferramenta
+        - [ ] Para saber mais: dicas de ferramenta (Tooltips) no Power BI
+        - [ ] Utilize um parâmetro de campo
+        - [ ] Otimizando análises no Power BI com parâmetros de campo
+        - [ ] Faça como eu fiz: praticando com o parâmetro
+        - [ ] O que aprendemos?
+    - [ ] **[Analisando dados ao longo do tempo](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/03_Analisando_dados_ao_longo_do_tempo/AnalisandoDadosAoLongoDoTempo.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Criando gráfico de linha e área
+        - [ ] Identifique tendências
+        - [ ] Para saber mais: aprimorando a análise com detecção de anomalias e previsões no Power BI
+        - [ ] Detecte anomalias e faça previsões
+        - [ ] Decifrando o faturamento da Opuline
+        - [ ] Faça como eu fiz: trabalhando com tendências e previsões
+        - [ ] O que aprendemos?
+    - [ ] **[Monitorando outros indicadores](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/04_Monitorando_outros_indicadores/MonitorandoOutrosIndicadores.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Visualize dados em mapas
+        - [ ] Acompanhe os KPIs
+        - [ ] Para saber mais: aprimorando o monitoramento de KPIs no Power BI
+        - [ ] Monitore as metas
+        - [ ] Visualizando metas na Clínica Médica Voll
+        - [ ] Revele padrões com gráficos de dispersão
+        - [ ] Faça como eu fiz: entendendo a correlação entre duas categorias
+        - [ ] O que aprendemos?
+    - [ ] **[Estruturando o relatório](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/05_Estruturando_o_relatorio/EstruturandoORelatorio.md)**
+        - [ ] Projeto da aula anterior
+        - [ ] Trabalhando com temas
+        - [ ] Aplicando a identidade visual da Opuline
+        - [ ] Inserindo o layout final
+        - [ ] Para saber mais: seleção e indicadores
+        - [ ] Finalizando página de vendas
+        - [ ] Estilizando página de produtos
+        - [ ] Navegação entre botões
+        - [ ] Para saber mais: menu sanduíche
+        - [ ] Mão na massa: estruture uma apresentação
+        - [ ] Para saber mais: aprimorando o design e a navegação de relatórios
+        - [ ] Faça como eu fiz: utilizando botões para navegação
+        - [ ] Projeto final
+        - [ ] Para ir mais fundo
+        - [ ] O que aprendemos?
+        - [ ] Conclusão
+
+</details>
+
 ---
 [↑ Voltar ao topo](#topo)
 
@@ -1004,4 +1138,4 @@ __Titulo:__ Readme
 __Autor:__ Thierry Lucas Chaves    
 __Data de Criação:__ 23-04-2026    
 __Data de Modificação:__ 19-06-2026   
-__Versão:__ "9.0"  
+__Versão:__ "10.0"  
