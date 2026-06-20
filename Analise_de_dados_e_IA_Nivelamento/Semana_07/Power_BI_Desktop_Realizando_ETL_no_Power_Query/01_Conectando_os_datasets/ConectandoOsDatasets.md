@@ -197,7 +197,7 @@ Iremos visualizar outras guias e colunas relevantes ao decorrer desse módulo, p
 <table style="text-align: center; width: 100%;"> 
 <tr>
     <td style="text-align: left;">
-    <img src="imgs/ex.png" alt="Perfil coluna" width="45%"/>
+    <img src="imgs/Perfil_coluna.png" alt="Perfil coluna" width="45%"/>
     </td>
 </tr>
 </table>
