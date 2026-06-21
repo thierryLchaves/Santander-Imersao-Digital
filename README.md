@@ -993,20 +993,20 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Calculando a receita média
         - [x] Mão na massa: criando medidas com funções iteradoras
         - [x] O que aprendemos?
-    - [ ] **[Funções de tabela](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/03_Funcoes_de_tabela/FuncoesDeTabela.md)**
+    - [x] **[Funções de tabela](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/03_Funcoes_de_tabela/FuncoesDeTabela.md)**
         - [X] Projeto da aula anterior
         - [X] Vendas por categoria
         - [X] Vendas por tipo de produto
         - [X] Para saber mais: função FILTER
-        - [ ] Destacando métricas
-        - [ ] Para saber mais: RELATED e RELATEDTABLE
-        - [ ] Filtrando regiões
-        - [ ] Mão na massa: calculando vendas com filtros
-        - [ ] O que aprendemos?
+        - [x] Destacando métricas
+        - [x] Para saber mais: RELATED e RELATEDTABLE
+        - [x] Filtrando regiões
+        - [x] Mão na massa: calculando vendas com filtros
+        - [x] O que aprendemos?
     - [ ] **[Contextos no DAX](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/04_Contextos_no_DAX/ContextosNoDax.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Contexto de filtro
-        - [ ] Contexto de linha
+        - [x] Projeto da aula anterior
+        - [x] Contexto de filtro
+        - [x] Contexto de linha
         - [ ] Para saber mais: Contexto de filtro X Contexto de linha
         - [ ] Combinando contextos
         - [ ] Avaliando contextos no DAX

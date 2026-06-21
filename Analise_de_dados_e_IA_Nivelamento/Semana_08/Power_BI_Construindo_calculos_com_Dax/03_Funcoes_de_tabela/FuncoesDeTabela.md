@@ -136,38 +136,180 @@ A função FILTER é uma ferramenta poderosa no DAX para criar tabelas filtradas
 
 ---
 ## 5. Destacando métricas
+Conforme destacamos no [tópico anterior](#3-vendas-por-tipo-de-produto), a ideia de modificação em nosso DashBoard e aplicar um destaque para as vendas do tipo Ebook, deixando-os fixos, sem que sofram alterações ao clicar sobre algum filtro de nossas tabelas.  
+Se analisarmos novamente nossa medida de vendas por Ebook,temo o filtro aplicado para a palavrá ebook, relacionada a tabela de produtos por tipo, vide exemplo abaixo:  
+```DAX
+Vendas Ebook = 
+SUMX(
+    FILTER( 
+        Vendas,
+        RELATED(Produtos[Tipo]) = "Ebook"
+    ),
+    Vendas[Quantidade] * Vendas[Preco Calculado]
+)
+```
+felizmente existe uma funcionalidade DAX, que nos permite ignorar todos os filtros, e essa função trata-se da `ALL()`, Para não atrapalhar as medidas já construídas iremos adicionar mais uma medida.
+```DAX
+Vendas Ebook  ALL = 
+SUMX(
+    FILTER( 
+        ALL(Vendas),
+        RELATED(Produtos[Tipo]) = "Ebook"
+    ),
+    Vendas[Quantidade] * Vendas[Preco Calculado]
+)
+```
+E como essa nossa nova medida se porta, se analisarmos a medida anterior realizamos a aplicação da função `FILTER()`, que tem em um dos seus argumentos, a passagem do parâmetro da tabela de busca/filtrada, porém com esse comportamento, caso fosse aplicado algum filtro na tabela de vendas, essa medida sofreria alterações em conjunto, para isso utilizamos a função `ALL()`, que nesse contexto irá ignorar os filtros aplicados e retornara todo o conteúdo da tabela, podemos conferir na prática a aplicação desse função na imagem abaixo:  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/funcao_all.png" alt="Função All " width="45%"/>
+    </td>
+</tr>
+</table>
+
+Conforme visualizamos na imagem, mesmo que haja um filtro incindo sobre alguma tabela essa medida não sofre alteração, aplicaremos agora a mesma lógicas para as demais medidas criadas para Ebook utilizado essa função, deixando agora em destaque em nosso DashBoard as medidas referentes ao produto de Ebook, conforme imagem abaixo:  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/cards_com_all.png" alt="Cards com All " width="45%"/>
+    </td>
+</tr>
+</table>
+
+> PS: Um adendo, na medida de `margem % all` utiliza uma função com duas medidas, para a utilização do `ALL()`, basta acrescentar a palavra all pós a medida.
+> EX: `Margem Ebook % ALL = DIVIDE([Margem Ebook All],[Vendas Ebook  ALL],0)`
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 6. Para saber mais: RELATED e RELATEDTABLE
 
+Na linguagem DAX, as funções `RELATED` e `RELATEDTABLE` desempenham um papel crucial ao lidar com relacionamentos entre tabelas. Elas permitem acessar e filtrar dados de tabelas relacionadas, facilitando análises complexas e integração de informações de diferentes fontes.
+
+---
+
+__Função RELATED__  
+
+A função `RELATED` é usada para recuperar o valor de uma coluna em uma tabela relacionada com base em um relacionamento estabelecido. Ela funciona principalmente em contextos de filtro, onde o contexto de linha é propagado de uma tabela para outra através de um relacionamento.
+
+Por exemplo, suponha que você tenha duas tabelas: Clientes e Pedidos. Se houver um relacionamento entre as tabelas Clientes e Pedidos usando a coluna IDCliente, você pode usar a função `RELATED` para recuperar informações sobre o cliente para cada pedido.  
+
+---
+
+__Função RELATEDTABLE__  
+
+Por outro lado, a função `RELATEDTABLE` é usada para recuperar uma tabela inteira da tabela relacionada, em vez de apenas um valor específico. Ela retorna todas as linhas da tabela relacionada que correspondem ao contexto atual.
+
+Essa função é útil quando você precisa acessar vários registros relacionados em uma tabela. Por exemplo, se quiser ver todos os pedidos feitos por um cliente específico, você pode usar a função `RELATEDTABLE` para retornar uma tabela com todos os pedidos desse cliente.  
+
+---
+
+__Principais diferenças__  
+A principal diferença entre as duas funções é o tipo de valor retornado:
+
+- A função `RELATED` retorna um valor escalar (um único valor) de uma coluna relacionada.
+- A função `RELATEDTABLE` retorna uma tabela inteira contendo todas as linhas relacionadas.
+
+---
+
+__Função RELATED__  
+
+A função `RELATED` utiliza o relacionamento _“*:1” (muitos para um)_ , pois a busca é feita a partir de uma tabela que pode conter vários registros de um mesmo item (muitos) com uma tabela que contém os registros únicos desses itens (um).
+
+Por exemplo, podemos buscar os dados referentes a uma categoria de produto específica, como Data Science, a partir de uma tabela que contém vários registros de vendas desse mesmo produto. Nesse caso, estaríamos acessando um dado específico de outra tabela que corresponde a vários registros de vendas na tabela atual.
+
+---
+
+__Função RELATEDTABLE__  
+A função `RELATEDTABLE`, por outro lado, parte de uma tabela inicial contendo registros únicos (um) para uma tabela que contém diversos registros sobre esse mesmo item da tabela inicial (muitos).
+
+Seguindo a ideia do exemplo anterior, poderíamos calcular o total de vendas de cada categoria de produto, acessando as várias linhas de registros de vendas dos produtos de cada categoria. Com isso, estaríamos acessando vários registros de vendas sobre essa categoria específica em outra tabela, partindo de um tipo de categoria na tabela atual.
+
+As funções `RELATED e RELATEDTABLE`  são ferramentas poderosas no toolkit do DAX para trabalhar com relacionamentos entre tabelas. Elas facilitam o acesso e a análise de dados em diferentes contextos, permitindo que você explore informações relacionadas de forma eficaz. Compreender como essas funções funcionam e como os relacionamentos entre tabelas são estabelecidos é essencial para criar análises avançadas e insights significativos com o Power BI.  
+
 [↑ Voltar ao topo](#topo)
 
 ---
-## 7. Filtrando regiões
+## 7. Filtrando regiões  
+Em um contexto de uma loja de varejo que deseja analisar as vendas de seus produtos em diferentes regiões geográficas, utilizando o Power BI, você recebeu uma demanda onde será necessário criar uma medida que conte o número de vendas para a região "Norte".
+
+Considerando esse cenário, qual das seguintes medidas é a correta para contar o número de vendas dessa região? Escolha a alternativa correta.
+ 
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Prova_Questoes/Resp_1.png" alt="Resposta Filtrando regiões" width="45%"/>
+    </td>
+</tr>
+</table>
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 8. Mão na massa: calculando vendas com filtros
+## 8. Mão na massa: calculando vendas com filtros  
+Durante esta aula, exploramos algumas das poderosas funções do DAX, como FILTER, ALL e RELATED, que nos permitem manipular e analisar dados de forma eficaz no Power BI. Agora é hora de colocar seu conhecimento em prática com um desafio!
+
+Você foi contratado(a) como analista de dados por uma empresa de varejo chamada "SuperVendas". Seu gerente solicitou um relatório que destaca o __desempenho das vendas em diferentes categorias de produtos durante o último trimestre__. Para isso, você deve criar uma medida que __calcule a receita total para a categoria "Data Science", ignorando quaisquer filtros aplicados nas visualizações.__
+
+---
+- Desafio:
+  - Calcule a receita total para a categoria "Data Science" considerando todas as linhas da tabela.
+  - Utilize a função FILTER para filtrar os dados apenas para a categoria.
+  - Utilize a função RELATED para acessar a categoria na tabela de Produtos.
+  - Utilize a função ALL para ignorar quaisquer filtros aplicados nas visualizações.
+  
+Em caso de dúvidas sobre a resolução da atividade, confira a seção "Opinião da pessoa instrutora".
+
+__Opinião do instrutor__  
+
+Para resolver este desafio, você pode seguir estes passos:
+
+- Calcule a receita total para a categoria "Data Science" considerando todas as linhas da tabela.
+- Utilize a função FILTER para filtrar os dados apenas para a categoria.
+- Utilize a função RELATED para acessar a categoria na tabela de Produtos.
+- Utilize a função ALL para ignorar quaisquer filtros aplicados nas visualizações.
+
+Para fins didáticos, perceba a seguir um exemplo de como a medida pode ser criada:
+```DAX
+ReceitaDataScience = 
+SUMX(
+    FILTER(
+        ALL(Vendas), 
+        RELATED(Produtos[Categoria]) = "Data Science"
+    ), 
+    Vendas[Vendas Total]
+)
+```
+Este código cria uma medida chamada "ReceitaDataScience" que utiliza a função FILTER para filtrar os dados apenas para a categoria "Data Science" e, em seguida, calcula a receita total para essa categoria, somando os valores de venda de todos os produtos eletrônicos.
+
+Em caso de dúvidas, fique à vontade para usar o Fórum ou o Discord da Alura.
+
+---
+_Minha medida:_  
+
+```DAX
+DesafioMedida = SUMX(
+    FILTER
+        (ALL(Vendas),
+        RELATED(Produtos[Categoria]) = "Data Science"
+    ),
+    Vendas[Quantidade] * Vendas[Preco Calculado]
+)
+```
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 9. O que aprendemos?
 
-[↑ Voltar ao topo](#topo)
-
----
-
-<!-- <table style="text-align: center; width: 100%;"> 
-<tr>
-    <td style="text-align: left;">
-    <img src="imgs/ex.png" alt="Nome do print" width="45%"/>
-    </td>
-</tr>
-</table> -->
+Nessa aula, você foi capaz de:  
+- Conhecer as principais funções de tabela;
+- Filtrar dados a partir da função FILTER();
+- Remover filtros através da função ALL();
+- Acessar colunas de outras tabelas com a função RELATED().
 
 ---
 
@@ -191,5 +333,5 @@ A função FILTER é uma ferramenta poderosa no DAX para criar tabelas filtradas
 __Titulo:__ Funções de tabela
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 19-06-2026  
-__Data de Modificação:__ 19-06-2026  
+__Data de Modificação:__ 21-06-2026  
 __Versão:__ "1.0"
