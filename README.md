@@ -968,36 +968,36 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
   <summary><b>Aulas da Semana - 08</b></summary>
 
 - [ ] **[Power BI: Construindo cálculos com Dax](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/)**
-    - [ ] **[Conhecendo os dados](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/01_Conhecendo_os_dados/ConhecendoOsDados.md)**
-        - [ ] Apresentação
-        - [ ] Para saber mais: conta gratuita indisponível
-        - [ ] Preparando o ambiente
-        - [ ] Para saber mais: roadmap do curso
-        - [ ] Importando os dados
-        - [ ] Para saber mais: modelo semântico no Power BI
-        - [ ] Explorando o DAX
-        - [ ] Para saber mais: básico do DAX
-        - [ ] Calculando o desconto com DAX
-        - [ ] Mão na massa: explorando as bases de dados
-        - [ ] O que aprendemos?
-    - [ ] **[Colunas calculadas e medidas](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/02_Colunas_calculadas_e_medidas/ColunasCalculadasEMedidas.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Calculando o Total de Vendas
-        - [ ] Para saber mais: ferramentas DAX
-        - [ ] Calculando a Margem
-        - [ ] Porcentagem da Margem
-        - [ ] Para saber mais: colunas calculadas e medidas
-        - [ ] Para saber mais: medidas rápidas, implícitas e explícitas
-        - [ ] Aprimorando os cálculos
-        - [ ] Para saber mais: funções iteradoras
-        - [ ] Calculando a receita média
-        - [ ] Mão na massa: criando medidas com funções iteradoras
-        - [ ] O que aprendemos?
+    - [x] **[Conhecendo os dados](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/01_Conhecendo_os_dados/ConhecendoOsDados.md)**
+        - [x] Apresentação
+        - [x] Para saber mais: conta gratuita indisponível
+        - [x] Preparando o ambiente
+        - [x] Para saber mais: roadmap do curso
+        - [x] Importando os dados
+        - [x] Para saber mais: modelo semântico no Power BI
+        - [x] Explorando o DAX
+        - [x] Para saber mais: básico do DAX
+        - [x] Calculando o desconto com DAX
+        - [x] Mão na massa: explorando as bases de dados
+        - [x] O que aprendemos?
+    - [x] **[Colunas calculadas e medidas](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/02_Colunas_calculadas_e_medidas/ColunasCalculadasEMedidas.md)**
+        - [x] Projeto da aula anterior
+        - [x] Calculando o Total de Vendas
+        - [x] Para saber mais: ferramentas DAX
+        - [x] Calculando a Margem
+        - [x] Porcentagem da Margem
+        - [x] Para saber mais: colunas calculadas e medidas
+        - [x] Para saber mais: medidas rápidas, implícitas e explícitas
+        - [x] Aprimorando os cálculos
+        - [x] Para saber mais: funções iteradoras
+        - [x] Calculando a receita média
+        - [x] Mão na massa: criando medidas com funções iteradoras
+        - [x] O que aprendemos?
     - [ ] **[Funções de tabela](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/03_Funcoes_de_tabela/FuncoesDeTabela.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Vendas por categoria
-        - [ ] Vendas por tipo de produto
-        - [ ] Para saber mais: função FILTER
+        - [X] Projeto da aula anterior
+        - [X] Vendas por categoria
+        - [X] Vendas por tipo de produto
+        - [X] Para saber mais: função FILTER
         - [ ] Destacando métricas
         - [ ] Para saber mais: RELATED e RELATEDTABLE
         - [ ] Filtrando regiões

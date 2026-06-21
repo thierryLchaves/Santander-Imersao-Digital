@@ -356,24 +356,92 @@ Considere o seguinte cenário: é necessário calcular o novo preço de cada liv
 ## 10. Mão na massa: explorando as bases de dados
 No mundo da análise de dados, compreender a estrutura das bases de dados com as quais você trabalha é essencial para realizar análises precisas e valiosas. No Power BI, isso envolve entender as tabelas, os campos que elas contêm e como esses campos se relacionam entre si.
 
-Para realizar o projeto do curso, você recebeu acesso a quatro tabelas principais: Vendas, InfoVendas, Produtos e Vendedores. Cada uma dessas tabelas armazena informações específicas que são cruciais para as análises que você realizará no futuro. Para maximizar a utilidade dessas tabelas, é necessário identificar o significado de cada campo, determinar os tipos de dados apropriados e estabelecer as relações corretas entre as tabelas.
+Para realizar o projeto do curso, você recebeu acesso a quatro tabelas principais: _Vendas, InfoVendas, Produtos e Vendedores_. Cada uma dessas tabelas armazena informações específicas que são cruciais para as análises que você realizará no futuro. Para maximizar a utilidade dessas tabelas, é necessário identificar o significado de cada campo, determinar os tipos de dados apropriados e estabelecer as relações corretas entre as tabelas.  
 
+__Tarefas__ 
+Explore a estrutura de dados do projeto seguindo as etapas abaixo.
+
+- __Compreenda o significado de cada campo em cada tabela__. Busque entender o que cada campo representa no contexto do projeto.
+
+- __Verifique os tipos de dados de cada campo__. Baseando-se nas descrições, analise o tipo de dado de cada campo e descubra se estão todos corretos.
+
+- __Analise as relações entre as tabelas__. Como essas tabelas se relacionam entre si? Qual campo de uma tabela se relaciona com qual campo de outra tabela? Procure responder a essas perguntas ao analisar a modelagem dos dados.
+
+Em caso de dúvidas sobre a resolução da atividade, confira a seção “Opinião da pessoa instrutora”.  
+
+__Opinião do instrutor__   
+A seguir, vamos conferir os principais pontos a serem considerados ao analisar a base de dados do nosso projeto.
+
+- __Campos das tabelas__
+Antes de começarmos a construir nossos cálculos, precisamos saber quais dados temos disponíveis para o nosso projeto. Isso nos dará uma ideia dos cálculos que podemos realizar.
+
+Vamos agora explorar as tabelas existentes na nossa base de dados:  
+- 1 Vendas
+  - `Numero:` Número da venda, um identificador único para cada transação.
+  - `Codigo do produto:` Código do produto vendido, referenciando a tabela Produtos.
+  - `Quantidade:` Quantidade de produtos vendidos na transação.
+
+- 2 InfoVendas
+  - `Matricula:` Matrícula do vendedor responsável pela venda, referenciando a tabela Vendedores.
+  - `Data:` Data em que a venda foi realizada.
+  - `Numero:` Número da venda, referenciando a tabela Vendas.
+  - `Imposto:` Valor do imposto aplicado na venda.
+
+- 3 Produtos
+  - `Codigo do produto:` Código do produto, um identificador único para cada produto.
+  - `Nome do produto:` Nome do produto.
+  - `Tipo:` Tipo ou categoria do produto.
+  - `Preço:` Preço unitário do produto.
+
+- 4 Vendedores
+  - `Matricula:` Matrícula do vendedor, um identificador único para cada vendedor.
+  - `Nome:` Nome do vendedor.
+  - `Percentual Comissao:` Percentual de comissão que o vendedor recebe por venda.
+---
+Tipos de dados
+Definir corretamente os tipos de dados de cada campo das tabelas é essencialmente para que as operações sejam realizadas corretamente, até mesmo para a apresentação correta dos dados através dos visuais.
+
+A seguir, vamos conferir os tipos de dados dos campos das tabelas que iremos utilizar:
+
+- 1 Vendas
+    - Numero: Inteiro
+    - Codigo do produto: Inteiro
+    - Quantidade: Inteiro
+- 2 InfoVendas
+    - Matricula: Inteiro
+    - Data: Data/hora
+    - Numero: Inteiro
+    - Imposto: Decimal
+- 3 Produtos
+    - Codigo do produto: Inteiro
+    - Nome do produto: Texto
+    - Tipo: Texto
+    - Preço: Decimal
+- 4 Vendedores
+    - Matricula: Inteiro
+    - Nome: Texto
+    - Percentual Comissao: Decimal
+---
+__Relacionamento entre tabelas__  
+
+Para entender como as tabelas se relacionam, devemos focar nos campos identificadores de cada tabela. Vamos conferir esses relacionamentos abaixo:
+- A tabela _Vendas_ relaciona-se com a tabela _Produtos_ através do campo __Codigo do produto__.
+- A tabela _InfoVendas_ relaciona-se com a tabela _Vendas_ através do campo __Numero__.
+- A tabela _InfoVendas_ relaciona-se com a tabela _Vendedores_ através do campo __Matricula__.  
+  
+Em caso de dúvidas, fique à vontade para usar o Fórum ou o Discord da Alura.  
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 11. O que aprendemos?
 
-[↑ Voltar ao topo](#topo)
-
----
-
-<!-- <table style="text-align: center; width: 100%;"> 
+<table style="text-align: center; width: 100%;"> 
 <tr>
     <td style="text-align: left;">
-    <img src="imgs/ex.png" alt="Nome do print" width="45%"/>
+    <img src="imgs/Prova_Questoes/oque_aprendemos.png" alt="Nome do print" width="80%"/>
     </td>
 </tr>
-</table> -->
+</table>
 
 ---
 
@@ -397,5 +465,5 @@ Para realizar o projeto do curso, você recebeu acesso a quatro tabelas principa
 __Titulo:__ Conhecendo os dados
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 19-06-2026  
-__Data de Modificação:__ 19-06-2026  
+__Data de Modificação:__ 20-06-2026  
 __Versão:__ "1.0"
