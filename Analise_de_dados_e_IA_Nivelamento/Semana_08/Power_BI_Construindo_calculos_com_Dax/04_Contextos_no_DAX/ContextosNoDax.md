@@ -68,41 +68,192 @@ Nesses exemplos de aplicação de coluna calculada essa aplicação fica mais pa
 [↑ Voltar ao topo](#topo)
 
 ---
-## 4. Para saber mais: Contexto de filtro X Contexto de linha
+## 4. Para saber mais: Contexto de filtro X Contexto de linha  
+
+No Power BI, compreender os conceitos de contexto de linha e contexto de filtro é essencial para criar medidas e colunas calculadas precisas e eficazes. Vamos explorar cada um desses conceitos e entender como eles influenciam os cálculos no DAX.  
+
+---
+__Como os valores se comportam__  
+
+Antes de mais nada, é importante entender como os valores das medidas no Power BI se comportam. Imagine que calculamos o valor total de vendas através da medida __Vendas Total.__ Com essa medida criada, vamos fazer a seguinte pergunta: qual é o valor dessa medida?
+
+Você poderia responder: é a soma total das vendas, onde multiplicamos o preço pela quantidade. Digamos que o valor seria de aproximadamente R$ 200 milhões. Essa resposta estaria correta, porém, há um detalhe importante nesse resultado.
+
+Caso essa medida seja apresentada em um visual de cartão, o valor realmente será o respondido acima. Porém, se criarmos um visual de tabela e adicionarmos outro campo junto a essa medida, como as categorias dos produtos, esse valor irá mudar. Em vez de mostrar o montante total, será exibido o valor total de vendas para cada categoria.
+
+A mensagem por trás desse entendimento é a seguinte: não podemos saber o valor apresentado por uma medida, antes de saber em qual contexto ela está sendo apresentada.
+
+Com isso em mente, vamos entender os contextos existentes no DAX.
+
+---
+
+__Contexto de Filtro__  
+
+O contexto de filtro, por outro lado, refere-se ao contexto em que uma fórmula DAX é avaliada com base em um conjunto de filtros aplicados aos dados. Isso acontece frequentemente ao criar medidas, onde os cálculos precisam considerar apenas os dados filtrados.
+
+O contexto de filtro pode ser aplicado de várias maneiras, como filtros visuais, segmentos de dados, ou fórmulas DAX que explicitamente filtram os dados.
+
+--- 
+
+__Contexto de Linha__  
+
+O contexto de linha refere-se ao contexto em que uma fórmula DAX é avaliada para uma linha específica da tabela. Em vez de filtrar uma tabela, o contexto de linha determina as linhas que serão percorridas durante um cálculo.
+
+Esse contexto é criado de duas formas: automaticamente, quando você cria colunas calculadas; de forma manual, através das funções iteradoras.
+
+Por exemplo, considere uma tabela de vendas com colunas para quantidade e preço unitário. Se você quiser calcular o total da venda para cada linha, você criaria uma coluna calculada como:  
+
+```DAX
+TotalVenda = Vendas[Quantidade] * Vendas[PrecoUnitario]
+```
+
+No caso de uma medida para realizar o mesmo cálculo, precisamos criar manualmente esse contexto de linha. Para isso, vamos utilizar a função iteradora `SUMX()`:  
+```DAX
+TotalVenda Medida = 
+SUMX(
+    Vendas,
+    Vendas[Quantidade] * Vendas[PrecoUnitario]
+)
+```
+O contexto de filtro é criado através do primeiro parâmetro da função `SUMX()`, em que definimos a tabela. A partir disso, a função sabe quais linhas deve percorrer para realizar o cálculo linha a linha.
+
+---
+__Diferenças e Interações__  
+
+Enquanto o contexto de linha é mais simples e se refere a cálculos linha a linha, o contexto de filtro é mais complexo e permite que você defina um conjunto de dados específicos para cálculos.
+
+O contexto de filtro serve para filtrar dados de uma tabela, enquanto o contexto de linha serve para percorrer uma tabela.
+
+Os dois contextos podem interagir entre si. Por exemplo, a função `SUMX()` percorre uma tabela calculando uma expressão (contexto de linha), ao mesmo tempo que a tabela usada como referência pode ser filtrada por um visual (contexto de filtro).   
+
+Para aprofundar seu entendimento sobre os conceitos de contexto de linha e contexto de filtro, recomendo a leitura do artigo [Power BI: contexto de linha e de filtro](https://www.alura.com.br/artigos/power-bi-contexto-linha-filtro), onde o Igor Nascimento e o David Neves abordam os principais conceitos por traz dos contextos do DAX. Essa é uma oportunidade imperdível para explorar e aprimorar ainda mais as suas habilidades analíticas!  
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 5. Combinando contextos
+Agora que compreendemos os dois tipos de contexto e como se aplicam em fórmulas DAX, podemos extrapolar nosso conhecimento e verificar como seria possível realizar a aplicação conjunta de um contexto de linha com contexto de filtro dentro de uma funcionalidade DAX.  
+
+Para iniciar vamos averiguar a função que criamos para o calculo de margem para Ebook, dentro dessa medida criada utilizamos a função `FILTER()`, para passar a nossa função SUMX(), qual seria o contexto de linha a ser aplicada, porém podemos modificar essa função, e ela pode ser modificada para que obedeça a relações de filtros, esse conceito recebe o nome de __contexto de filtro externo__, em nossa aplicação podemos visualizar isso de maneira mais evidente, quando adicionamos alguns dos cards de Ebook, quando não há nenhuma seleção na tabela  de categoria os resultados serão aplicados sobre toda a tabela de vendas, porém quando realizamos a seleção de uma categoria, esse calculo será modificado, em sintaxe a função `FILTER()`, ainda está realizando o filtro sobre a tabela de vendas dai o contexto de filtro externo, porém estamos filtrando esse universo de informações que no caso é nossa tabela de vendas, sobre o tipo de produtos Ebook:  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/margem_contexto_externo_1.png" alt="Nome do print" width="45%"/>
+    </td>
+</tr>
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/margem_contexto_externo_2.png" alt="Nome do print" width="45%"/>
+    </td>
+</tr>
+</table>
+
+Nas imagens acima temos esse exemplo, onde a primeira imagem demonstra que temos a aplicação de um filtro incidindo sobre a tabela de vendas, para o produto do tipo ebook, ou seja ela esta aplicando o calculo utilizando o contexto de filtro sobre vendas, porém na segunda imagem temos que nossa margem foi modificada mediante a seleção ou influência externa _(dai o contexto de filtro externo mencionado anteriormente)_, onde temos que dentro do contexto já filtrado ainda temos a aplicação de mais um filtro que no casso é a categoria, se analisarmos a função dessa medida temos: 
+```DAX
+Margem Ebook = 
+SUMX(
+    FILTER(
+        Vendas,    
+        RELATED(Produtos[Tipo]) = "Ebook"
+        ),
+    Vendas[Quantidade] * (Vendas[Preco Calculado] - Vendas[Custo Calculado])
+)
+```
+Temos a aplicação de uma função iteradora que no caso é a `SUMX()`, na qual como já dito anteriormente precisa do parâmetro de contexto de linha para _"saber onde será aplicado o filtro"_, e é justamente nesse primeiro argumento/parâmetro, que aplicamos nossa função de filtro que por sua vez está realizando outra iteração sobre a tabela de vendas,  e é justamente esse ponto que sofre influência do contexto de filtro externo, pois essa tabela  está presente em nossa aplicação e é justamente ela que está propiciando a aplicação do filtro sobre a categoria do livro, já no segundo argumento dessa função estamos aplicando o contexto de linha que no casso é a condição de filtro. Esse mesmo comportamento não é observado quando utilizamos a função de `ALL()` no filtro, porém a utilização dessa função exige certeza da utilização uma vez que um dos comportamentos dessa função é de ignorar quaisquer filtros externos que sejam aplicados sobre nosso visual, vamos supor que agora para além da nossa visualização de tabela desejamos utilizar um filtro por nome do vendedor, se utilizarmos a nossa medida de `ALL()`, esse filtro será ignorado também, entretanto temos maneiras de selecionar quais serão os filtros que podem ser aceitos para essa aplicação, e para isso podemos utilizar a função de `CALCULATE`. que veremos a [seguir](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/2c59670ecff61e0fe080534ed5415a9636b644c0/Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/05_Conhecendo_o_CALCULATE/ConhecendoOCalculate.md)
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 6. Avaliando contextos no DAX
+Você trabalha como analista de BI na empresa DataInsights, e seu chefe pediu para você criar medidas que utilizem contextos de filtro e linha para diversas análises. Para isso, você precisa entender bem a diferença entre os dois contextos.
+
+Pensando nisso, qual das seguintes alternativas melhor descreve a diferença entre contexto de linha e contexto de filtro no DAX? Escolha as alternativas corretas.    
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Prova_Questoes/Resp_1.png" alt="Reposta Avaliando contextos no DAX" width="45%"/>
+    </td>
+</tr>
+</table>
+
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 7. Mão na massa: explorando os contextos no DAX
+## 7. Mão na massa: explorando os contextos no DAX  
+
+Você foi contratado como analista de dados na empresa TargetData. Como primeira demanda, você deve realizar uma análise detalhada das vendas de produtos. Para isso, você precisará aplicar seus conhecimentos sobre contexto de filtro e contexto de linha no DAX. O objetivo é criar medidas que utilizem esses conceitos para gerar insights valiosos.
+
+--- 
+
+__Desafio__  
+
+- Utilize a função FILTER para criar uma medida que calcule a quantidade de vendas para produtos da categoria Big Data.
+- Crie um visual de tabela e adicione o campo de nome do vendedor e a medida de quantidade de vendas.
+- Crie uma nova medida com o mesmo cálculo da medida inicial, porém, utilizando a função ALL para ignorar filtros.
+- Adicione essa nova medida com a função ALL em um visual de cartão.
+
+Em caso de dúvidas sobre a resolução da atividade, confira a seção “Opinião da pessoa instrutora”. 
+
+---  
+
+__Opinião do instrutor__  
+
+Para resolver o desafio, siga os passos abaixo:
+- 1 Medida para calcular quantidade de vendas da categoria Big Data usando FILTER:
+```DAX
+VendasCategoriaEspecifica = 
+SUMX(
+    FILTER(
+        Vendas, 
+        RELATED( Produtos[Categoria] ) = "CategoriaDesejada"
+    ),
+           Vendas[Quantidade]
+  )
+```
+- 2  Visual de tabela com o campo de nome do vendedor e a medida VendasCategoriaEspecifica:
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Faca_Fiz/Faca_fiz_1.png" alt="Faça como eu fiz 1" width="45%"/>
+    </td>
+</tr>
+</table>
+
+- 3 Adição da função ALL na medida de `VendasCategoriaEspecifica`:
+```DAX
+VendasCategoriaEspecificaALL= 
+SUMX(
+    FILTER(
+        ALL(Vendas), 
+        RELATED( Produtos[Categoria] ) = "CategoriaDesejada"
+    ),
+           Vendas[Quantidade]
+  )
+```
+- 4 Visual de cartão apresentando a medida `VendasCategoriaEspecificaALL`:
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Faca_Fiz/Faca_fiz_2.png" alt="Faça como eu fiz 1" width="45%"/>
+    </td>
+</tr>
+</table>
+
+Em caso de dúvidas, fique à vontade para usar o Fórum ou o Discord da Alura.
+
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 8. O que aprendemos?
-
-[↑ Voltar ao topo](#topo)
-
----
-
-<!-- <table style="text-align: center; width: 100%;"> 
-<tr>
-    <td style="text-align: left;">
-    <img src="imgs/ex.png" alt="Nome do print" width="45%"/>
-    </td>
-</tr>
-</table> -->
-
----
+Nessa aula, você foi capaz de:
+- Compreender os contextos de filtro e de linha;
+- Diferenciar os contextos de filtro e de linha;
+- Analisar o comportamento das medidas DAX;
+- Reconhecer a presença dos contextos no cálculos.
 
 <table align="center" style="border-collapse: collapse; margin-left: auto; margin-right: auto;"> 
   <caption><b>Skills do projeto</b></caption>
@@ -124,5 +275,5 @@ Nesses exemplos de aplicação de coluna calculada essa aplicação fica mais pa
 __Titulo:__ Contextos no DAX
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 19-06-2026  
-__Data de Modificação:__ 19-06-2026  
+__Data de Modificação:__ 21-06-2026  
 __Versão:__ "1.0"

@@ -1003,15 +1003,15 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Filtrando regiões
         - [x] Mão na massa: calculando vendas com filtros
         - [x] O que aprendemos?
-    - [ ] **[Contextos no DAX](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/04_Contextos_no_DAX/ContextosNoDax.md)**
+    - [x] **[Contextos no DAX](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/04_Contextos_no_DAX/ContextosNoDax.md)**
         - [x] Projeto da aula anterior
         - [x] Contexto de filtro
         - [x] Contexto de linha
-        - [ ] Para saber mais: Contexto de filtro X Contexto de linha
-        - [ ] Combinando contextos
-        - [ ] Avaliando contextos no DAX
-        - [ ] Mão na massa: explorando os contextos no DAX
-        - [ ] O que aprendemos?
+        - [x] Para saber mais: Contexto de filtro X Contexto de linha
+        - [x] Combinando contextos
+        - [x] Avaliando contextos no DAX
+        - [x] Mão na massa: explorando os contextos no DAX
+        - [x] O que aprendemos?
     - [ ] **[Conhecendo o CALCULATE](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/05_Conhecendo_o_CALCULATE/ConhecendoOCalculate.md)**
         - [ ] Projeto da aula anterior
         - [ ] Vendas por vendedores
