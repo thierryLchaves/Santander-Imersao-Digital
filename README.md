@@ -967,7 +967,7 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 <details>
   <summary><b>Aulas da Semana - 08</b></summary>
 
-- [ ] **[Power BI: Construindo cálculos com Dax](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/)**
+- [x] **[Power BI: Construindo cálculos com Dax](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/)**
     - [x] **[Conhecendo os dados](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/01_Conhecendo_os_dados/ConhecendoOsDados.md)**
         - [x] Apresentação
         - [x] Para saber mais: conta gratuita indisponível
@@ -1012,29 +1012,29 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Avaliando contextos no DAX
         - [x] Mão na massa: explorando os contextos no DAX
         - [x] O que aprendemos?
-    - [ ] **[Conhecendo o CALCULATE](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/05_Conhecendo_o_CALCULATE/ConhecendoOCalculate.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Vendas por vendedores
-        - [ ] Para saber mais: criando a tabela calendário
-        - [ ] Mudando o contexto de filtro
-        - [ ] Para saber mais: transição de contexto
-        - [ ] Filtrando com CALCULATE
-        - [ ] Para saber mais: funções de filtro
-        - [ ] Mão na massa: criando uma matriz
-        - [ ] O que aprendemos?
-    - [ ] **[Inteligência temporal](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/06_Inteligencia_temporal/InteligenciaTemporal.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Tabela calendário
-        - [ ] Para saber mais: funções de DATA
-        - [ ] Calculando o período anterior
-        - [ ] Para saber mais: funções de inteligência temporal
-        - [ ] Calculando a diferença das vendas
-        - [ ] Vendas do período anterior
-        - [ ] Mão na massa: relatório final
-        - [ ] Projeto final
-        - [ ] Para ir mais fundo
-        - [ ] O que aprendemos?
-        - [ ] Conclusão
+    - [x] **[Conhecendo o CALCULATE](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/05_Conhecendo_o_CALCULATE/ConhecendoOCalculate.md)**
+        - [x] Projeto da aula anterior
+        - [x] Vendas por vendedores
+        - [x] Para saber mais: criando a tabela calendário
+        - [x] Mudando o contexto de filtro
+        - [x] Para saber mais: transição de contexto
+        - [x] Filtrando com CALCULATE
+        - [x] Para saber mais: funções de filtro
+        - [x] Mão na massa: criando uma matriz
+        - [x] O que aprendemos?
+    - [x] **[Inteligência temporal](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/06_Inteligencia_temporal/InteligenciaTemporal.md)**
+        - [x] Projeto da aula anterior
+        - [x] Tabela calendário
+        - [x] Para saber mais: funções de DATA
+        - [x] Calculando o período anterior
+        - [x] Para saber mais: funções de inteligência temporal
+        - [x] Calculando a diferença das vendas
+        - [x] Vendas do período anterior
+        - [x] Mão na massa: relatório final
+        - [x] Projeto final
+        - [x] Para ir mais fundo
+        - [x] O que aprendemos?
+        - [x] Conclusão
 
 - [ ] **[Power BI: Visualizando e analisando dados](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/)**
     - [ ] **[Analisando categorias](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/01_Analisando_categorias/AnalisandoCategorias.md)**
