@@ -340,7 +340,7 @@ Em caso de dúvidas sobre a resolução da atividade, confira a seção “Opini
 
 __Opinião do instrutor__  
 
-Abaixo você pode conferir os visuais criados para montar o relatório final [acesse aqui](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/main/Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/src/Relatorio%20Final):
+Abaixo você pode conferir os visuais criados para montar o relatório final [acesse aqui](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/df6f13c1fe5b0c608c8c42896a6e57363e8d5d9a/Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/src/Relatorio%20Final_professor):
 
 <table style="text-align: center; width: 100%;"> 
 <tr>
@@ -363,7 +363,7 @@ Em caso de dúvidas, fique à vontade para usar o Fórum ou o Discord da Alura.
 ---
 ## 9. Projeto final
 
-Caso prefira, você pode acessar o arquivo da [aqui]() com o projeto do curso no ponto em que paramos na aula anterior.
+Caso prefira, você pode acessar o arquivo da [aqui](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/df6f13c1fe5b0c608c8c42896a6e57363e8d5d9a/Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Construindo_calculos_com_Dax/src/projeto-dax-livraria-final.pbix) com o projeto do curso no ponto em que paramos na aula anterior.
 
 [↑ Voltar ao topo](#topo)
 
