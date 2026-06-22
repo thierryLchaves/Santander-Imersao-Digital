@@ -62,21 +62,77 @@ Em caso de dúvidas, entre em contato conosco pelo Discord da Alura ou pelo cana
 Neste curso, vamos aprender a utilizar um projeto com os dados carregados no Power BI.
 
 __Antes de começar…__  
-Vamos acessar o [arquivo PBIX]() que será utilizado durante o curso.
+<<<<<<< HEAD
+Vamos acessar o [arquivo PBIX](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/0e2ab5e5e0eea0262620592fd010e7924433fd22/Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/src/preparando_ambiente_analisando_visualizando_dados.pbix) que será utilizado durante o curso.
 
-Além disso, vamos utilizar duas imagens que será usadas quando formos fazer a estilização do nosso relatório. Você também pode baixá-las [aqui]()
+Além disso, vamos utilizar duas imagens que será usadas quando formos fazer a estilização do nosso relatório. Você também pode baixá-las [aqui](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/0e2ab5e5e0eea0262620592fd010e7924433fd22/Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/src/Styles)
 
-Por fim, caso você queira explorar e ir além no seu projeto, pode ficar à vontade para [acessar a base de dados do projeto]() e realizar suas próprias transformações e análises.
+Por fim, caso você queira explorar e ir além no seu projeto, pode ficar à vontade para [acessar a base de dados do projeto](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/0e2ab5e5e0eea0262620592fd010e7924433fd22/Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/db/Base_de_dados-Opuline.xlsx) e realizar suas próprias transformações e análises.
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 4. Explorando os dados
 
+A ideia com esse projeto e que possamos analisar os dados disponibilizados pela empresa, para que possamos auxilia-los sobre o seu comércio, iremos identificar padrões, tendências, realizar previsões, e outras coisas...  
+Porém como temos o foque em outras utilizações, dentro do Power B.I não iremos realizar os processos de extração e carregamento e tratamento dos dados, e por tal motivo iniciaremos nosso projeto com o [arquivo](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/0e2ab5e5e0eea0262620592fd010e7924433fd22/Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/src/preparando_ambiente_analisando_visualizando_dados.pbix) já iniciado.    
+
+> PS: Adendo em nosso projeto, foi realizado a criação de parâmetro para fonte de dados, para que não ocorra erros
+
+--- 
+Então para iniciarmos o nosso projeto vamos, com a realizar algumas provocações .  _Qual será o melhor visual para trabalhar com um séria temporal ?, ou ainda qual seria  o melhor visual para comprar categorias ?_
+
+Mas antes de iniciarmos qualquer trabalho é importante que tenhamos ciência de como está divdida nossa base de dados, para isso iremos acessar a guia de modelagem e visualizar nossa base
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Modelagem_Dados.png" alt="Modelo de relacionamento" width="45%"/>
+    </td>
+</tr>
+</table>
+
+A partir de visualizarmos, quais são as tabelas, e como elas selecionam, iremos partir para construção do primeiro gráfico no projeto, e para construção de qualquer informação precisamos de um contexto e esse contexto é a necessidade de entender como está o faturamento pelas categorias, e antes de criar propriamente dito esse novo visual vamos explorar as informações com uma tabela.
+Quando realizamos a inserção do card de tabela e selecionarmos as informações de categoria _(está presente na base com formato hierárquico)_, assim como suas subcategorias, e por fim adicionarmos a medida de faturamento, termo um visual conforme abaixo:  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Analise_tabular_primaria.png" alt="Analise primária em tabela" width="45%"/>
+    </td>
+</tr>
+</table>
+
+Porém podemos modificar essa visualização modificando o layout desse card, para o modelo de matriz, com essa visualização teremos um visualização ainda mais concisa da informação, porém com visual menos agressivo:
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/visualizacao_matriz.png" alt="Analise matriz " width="45%"/>
+    </td>
+</tr>
+</table>
+
+As informações estão agregadas por categorias e expandidas em suas subcategorias, com esse modelo de visualização já conseguimos responder nosso questionamento e visualizamos qual é qual é categoria com maior faturamento na loja, e se organizamos os dados pelo faturamento visualizamos que a categoria com maior rentabilidade é a de maquiagem.  
+Porém será que de fato essas visualizações são as melhores ou mais indicadas para esse tipo de visualização ? ou podemos ter outras melhores. 
+
+
 [↑ Voltar ao topo](#topo)
 
 ---
-## 5. Identificando a melhor forma de visualização
+## 5. Identificando a melhor forma de visualização   
+
+Para começar a acompanhar as vendas da Opuline, você precisa escolher a melhor forma de visualizar os dados de vendas de modo a proporcionar clareza e facilidade de análise para a equipe, que está se familiarizando com a análise de dados. Considerando que a empresa tem produtos divididos em várias categorias e subcategorias, qual é a melhor visualização inicial para explorar o faturamento por categoria e subcategoria?  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Prova_Questoes/RESP_1.png" alt="Resposta Melhor  visualização " width="45%"/>
+    </td>
+</tr>
+</table>
+
+
 
 [↑ Voltar ao topo](#topo)
 
