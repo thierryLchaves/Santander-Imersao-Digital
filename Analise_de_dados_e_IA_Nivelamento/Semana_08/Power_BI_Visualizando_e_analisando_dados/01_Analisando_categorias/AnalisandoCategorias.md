@@ -137,39 +137,193 @@ Para começar a acompanhar as vendas da Opuline, você precisa escolher a melhor
 [↑ Voltar ao topo](#topo)
 
 ---
-## 6. Refletindo sobre o gráfico de pizza
+## 6. Refletindo sobre o gráfico de pizza  
+De posse dessa informação primária, iremos agora construir uma nova visualização para saber como está o faturamento médio baseado na origem do produto.  
+Para isso iremos selecionar a área em branco de nossa página, e iremos selecionar o campo a _origem_ presente na tabela `Dmarcas` em conjunto da medida de _faturamento Médio_, o Power B.I constrói automaticamente uma tabela para que possamos visualizar essas informações, que podemos notar que são poucas, porém temos visuais que são bastante específicos para o processo de comparação de categorias e um deles é o gráfico de pizza. 
+Esse tipo de gráfico é muito utilizado em varias áreas quando desejamos comparar categorias, porém esse tipo de visualização não é o mais indicado quando temos muitas _"fatias"_, ou quando a divisão dessas fatias estão muito próximas, abaixo seguem exemplos de visualizações corretas, e erradas para esse tipo visualização.  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/kind_pie_correct.png" alt="Gráfico de pizza correto" width="45%"/>
+    </td>
+</tr>
+</table>
+
+Na imagem acima, temos um gráfico de pizza com uma visualização clara das divisões entre as categorias do faturamento médio e a origem do produto, porém se modificarmos nosso quadro para divisão pelo faturamento, e adicionarmos uma segmentação de dados, por exemplo pela cidade e selecionarmos `Santigo` teremos uma visualização bem parelha das áreas o que torna essa comparação mais dificultada, conforme podemos visualizar abaixo:  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/kind_pie_worng.png" alt="Gráfico de pizza errado" width="45%"/>
+    </td>
+</tr>
+</table>
+
+Porém nesses casos qual o melhor tipo de visual que devemos utilizar?  
+Para isso podemos usar o tipo de gráfico de barras _"cluesterizado"_, nesse tipo de gráfico podemos ter uma visualização mais clara das informações:  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/kind_bar.png" alt="Gráfico de barras errado" width="45%"/>
+    </td>
+</tr>
+</table>
+
+Então podemos concluir que para esse tipo visualizações o gráfico mais indicado é de fato os gráficos de barras ou de colunas, e esse tipo de visualização ira depender da quantidade 
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 7. Para saber mais: usos do gráfico de pizza
+## 7. Para saber mais: usos do gráfico de pizza  
+
+O gráfico de pizza é uma ferramenta de visualização de dados que divide um círculo em "fatias" para ilustrar proporções numéricas. Cada fatia representa uma categoria de dados e o tamanho da fatia é proporcional à quantidade ou percentual que ela representa.  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Pra_saber_mais/pra_saber_mais_1.png" alt="Pra saber mais 1" width="45%"/>
+    </td>
+</tr>
+</table>
+
+---
+__Limitações do Gráfico de Pizza__  
+
+O gráfico de pizza pode apresentar algumas dificuldades na hora da visualização e interpretação dos dados. Por esse motivo, se não for usado com cuidado, pode ser considerado até mesmo uma má prática. Vamos investigar juntos esses pontos que podem acabar mais atrapalhando do que ajudando a visualização.  
+
+__Dificuldade de Comparação__  
+
+Caso tenhamos fatias muito semelhantes, com proporção muito próxima, pode acabar dificultando a percepção rápida e correta da informação que queremos passar.
+
+Se analisarmos esse exemplo do faturamento por cidade, e sem nenhuma outra informação complementar, gastaríamos algum tempo até identificar a cidade com o maior faturamento.  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Pra_saber_mais/pra_saber_mais_2.png" alt="Pra saber mais 2" width="45%"/>
+    </td>
+</tr>
+</table>
+
+Para esse caso precisamos utilizar o rótulo dos dados para auxiliar a análise.
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Pra_saber_mais/pra_saber_mais_3.png" alt="Pra saber mais 3" width="45%"/>
+    </td>
+</tr>
+</table>
+
+
+__Percepção Distorciva__  
+
+Temos também o fato de que a percepção humana não é naturalmente boa em comparar ângulos e áreas. É por isso que para nós é mais intuitivo comparar alturas em gráficos de barras.
+
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Pra_saber_mais/pra_saber_mais_4.png" alt="Pra saber mais 4" width="45%"/>
+    </td>
+</tr>
+</table>
+
+__Ineficiente para Muitos Valores__  
+
+Com muitas categorias, o gráfico de pizza fica sobrecarregado e difícil de ler. Caso você tenha mais de 5 ou 7 categorias para comparar ele pode se tornar confuso e desorganizado.
+
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Pra_saber_mais/pra_saber_mais_5.png" alt="Pra saber mais 54" width="45%"/>
+    </td>
+</tr>
+</table>
+
+__Alternativas ao Gráfico de Pizza__  
+
+Embora os gráficos de pizza sejam populares e intuitivos para representar partes de um todo, eles possuem diversas limitações que podem prejudicar a clareza e a precisão da visualização de dados. Alternativas como gráficos de barras e colunas oferecem melhores opções para comparações claras e eficazes.
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 8. Análise com gráfico de pizza
+## 8. Análise com gráfico de pizza  
+
+Ana fez uma pesquisa para saber a porcentagem de mercado das empresas de telefonia de sua cidade. Após a pesquisa, ela produziu o seguinte gráfico de pizza para apresentar em seu relatório: 
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Prova_Questoes/grafi_1.png" alt="Gráfico exemplo questão" width="45%"/>
+    </td>
+</tr>
+</table>
+
+De acordo com o que estudamos, quais são os motivos para que o gráfico de pizza, do modo como está apresentado, não ser considerado adequado para visualizar esses dados?
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Prova_Questoes/RESP_2.png" alt="Resposta 2" width="45%"/>
+    </td>
+</tr>
+</table>
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 9. Faça como eu fiz: crie uma hierarquia
+## 9. Faça como eu fiz: crie uma hierarquia  
+
+Vamos juntos trabalhar com um recurso muito importante nos nossos relatórios e dashboards: as hierarquias. Pois é, podemos agrupar informações e hierarquias e trazer essas informações como uma navegação nos nossos visuais. Inclusive, vamos utilizar o visual de matriz para fazer essa navegação entre as hierarquias da melhor maneira.  
+
+__Opinião do instrutor__  
+
+Agora que já temos os dados carregados dentro do projetobase.pix, vamos fazer as visualizações.
+
+No relatório, podemos pensar quais são as categorias dos produtos vendidos.
+
+Clicando em categoria da tabela `dcategoriaProdutos` já surge uma tabela, então temos produtos para cabelos, maquiagem, perfumes e skincare, e quais subcategoria nós temos?
+
+Vamos explorar a tabela de medidas, já temos algumas medidas prontas na tabela “_medidas”_, podemos então arrastar o cálculo do faturamento, entender essa métrica por categoria.  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Faca_como_fiz/faca_fiz_1.png" alt="Faça como eu fiz 1" width="45%"/>
+    </td>
+</tr>
+</table>
+
+Percebemos que existem subcategorias específicas para cada categoria, então podemos __criar uma hierarquia__, e substituir o campo categoria e subcategoria por essa hierarquia na tabela.
+
+A princípio nada muda, mas se usarmos o visual de matriz a aparência dos nossos dados altera:  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Faca_como_fiz/faca_fiz_2.png" alt="Faça como eu fiz 2" width="45%"/>
+    </td>
+</tr>
+</table>
+
+
+Essa é uma outra forma de visualizar os dados, que nos dá mais controle de como queremos visualizar o faturamento, apenas por categoria, apenas por subcategoria, ou os dois juntos.
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 10. O que aprendemos?
 
-[↑ Voltar ao topo](#topo)
-
----
-
-<!-- <table style="text-align: center; width: 100%;"> 
-<tr>
-    <td style="text-align: left;">
-    <img src="imgs/ex.png" alt="Nome do print" width="45%"/>
-    </td>
-</tr>
-</table> -->
+Nessa aula, você aprendeu a:
+- Entender os objetivos da Opuline;
+- Configurar e explorar dados no Power BI;
+- Criar visuais no Power BI;
+- Interagir com os dados;
+- Avaliar visuais e preparar próximos passos.
 
 ---
 
@@ -193,5 +347,5 @@ Para começar a acompanhar as vendas da Opuline, você precisa escolher a melhor
 __Titulo:__ Analisando categorias
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 19-06-2026  
-__Data de Modificação:__ 19-06-2026  
+__Data de Modificação:__ 23-06-2026  
 __Versão:__ "1.0"
