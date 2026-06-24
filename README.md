@@ -1057,17 +1057,17 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Otimizando análises no Power BI com parâmetros de campo
         - [x] Faça como eu fiz: praticando com o parâmetro
         - [x] O que aprendemos?
-    - [ ] **[Analisando dados ao longo do tempo](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/03_Analisando_dados_ao_longo_do_tempo/AnalisandoDadosAoLongoDoTempo.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Criando gráfico de linha e área
-        - [ ] Identifique tendências
-        - [ ] Para saber mais: aprimorando a análise com detecção de anomalias e previsões no Power BI
-        - [ ] Detecte anomalias e faça previsões
-        - [ ] Decifrando o faturamento da Opuline
-        - [ ] Faça como eu fiz: trabalhando com tendências e previsões
-        - [ ] O que aprendemos?
+    - [x] **[Analisando dados ao longo do tempo](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/03_Analisando_dados_ao_longo_do_tempo/AnalisandoDadosAoLongoDoTempo.md)**
+        - [x] Projeto da aula anterior
+        - [x] Criando gráfico de linha e área
+        - [x] Identifique tendências
+        - [x] Para saber mais: aprimorando a análise com detecção de anomalias e previsões no Power BI
+        - [x] Detecte anomalias e faça previsões
+        - [x] Decifrando o faturamento da Opuline
+        - [x] Faça como eu fiz: trabalhando com tendências e previsões
+        - [x] O que aprendemos?
     - [ ] **[Monitorando outros indicadores](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/04_Monitorando_outros_indicadores/MonitorandoOutrosIndicadores.md)**
-        - [ ] Projeto da aula anterior
+        - [x] Projeto da aula anterior
         - [ ] Visualize dados em mapas
         - [ ] Acompanhe os KPIs
         - [ ] Para saber mais: aprimorando o monitoramento de KPIs no Power BI
