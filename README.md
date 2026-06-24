@@ -1037,26 +1037,26 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Conclusão
 
 - [ ] **[Power BI: Visualizando e analisando dados](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/)**
-    - [ ] **[Analisando categorias](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/01_Analisando_categorias/AnalisandoCategorias.md)**
-        - [ ] Apresentação
-        - [ ] Para saber mais: conta gratuita indisponível
-        - [ ] Preparando o ambiente
-        - [ ] Explorando os dados
-        - [ ] Identificando a melhor forma de visualização
-        - [ ] Refletindo sobre o gráfico de pizza
-        - [ ] Para saber mais: usos do gráfico de pizza
-        - [ ] Análise com gráfico de pizza
-        - [ ] Faça como eu fiz: crie uma hierarquia
-        - [ ] O que aprendemos?
-    - [ ] **[Selecionando visuais para categorias](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/02_Selecionando_visuais_para_categorias/SelecionandoVisuaisParaCategorias.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Adicionando guias de análises
-        - [ ] Configure uma dica de ferramenta
-        - [ ] Para saber mais: dicas de ferramenta (Tooltips) no Power BI
-        - [ ] Utilize um parâmetro de campo
-        - [ ] Otimizando análises no Power BI com parâmetros de campo
-        - [ ] Faça como eu fiz: praticando com o parâmetro
-        - [ ] O que aprendemos?
+    - [x] **[Analisando categorias](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/01_Analisando_categorias/AnalisandoCategorias.md)**
+        - [x] Apresentação
+        - [x] Para saber mais: conta gratuita indisponível
+        - [x] Preparando o ambiente
+        - [x] Explorando os dados
+        - [x] Identificando a melhor forma de visualização
+        - [x] Refletindo sobre o gráfico de pizza
+        - [x] Para saber mais: usos do gráfico de pizza
+        - [x] Análise com gráfico de pizza
+        - [x] Faça como eu fiz: crie uma hierarquia
+        - [x] O que aprendemos?
+    - [x] **[Selecionando visuais para categorias](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/02_Selecionando_visuais_para_categorias/SelecionandoVisuaisParaCategorias.md)**
+        - [x] Projeto da aula anterior
+        - [x] Adicionando guias de análises
+        - [x] Configure uma dica de ferramenta
+        - [x] Para saber mais: dicas de ferramenta (Tooltips) no Power BI
+        - [x] Utilize um parâmetro de campo
+        - [x] Otimizando análises no Power BI com parâmetros de campo
+        - [x] Faça como eu fiz: praticando com o parâmetro
+        - [x] O que aprendemos?
     - [ ] **[Analisando dados ao longo do tempo](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/03_Analisando_dados_ao_longo_do_tempo/AnalisandoDadosAoLongoDoTempo.md)**
         - [ ] Projeto da aula anterior
         - [ ] Criando gráfico de linha e área

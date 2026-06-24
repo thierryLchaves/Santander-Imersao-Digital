@@ -3,17 +3,20 @@
 <a id="topo"></a>
 
 ## Sumário
-- [1. Projeto da aula anterior](#1-projeto-da-aula-anterior)
-- [2. Visualize dados em mapas](#2-visualize-dados-em-mapas)
-- [3. Acompanhe os KPIs](#3-acompanhe-os-kpis)
-- [4. Para saber mais: aprimorando o monitoramento de KPIs no Power BI](#4-para-saber-mais-aprimorando-o-monitoramento-de-kpis-no-power-bi)
-- [5. Monitore as metas](#5-monitore-as-metas)
-- [6. Visualizando metas na Clínica Médica Voll](#6-visualizando-metas-na-clínica-médica-voll)
-- [7. Revele padrões com gráficos de dispersão](#7-revele-padrões-com-gráficos-de-dispersão)
-- [8. Faça como eu fiz: entendendo a correlação entre duas categorias](#8-faça-como-eu-fiz-entendendo-a-correlação-entre-duas-categorias)
-- [9. O que aprendemos?](#9-o-que-aprendemos)
+- [Monitorando outros indicadores](#monitorando-outros-indicadores)
+  - [Sumário](#sumário)
+  - [1. Projeto da aula anterior](#1-projeto-da-aula-anterior)
+  - [2. Visualize dados em mapas](#2-visualize-dados-em-mapas)
+  - [3. Acompanhe os KPIs](#3-acompanhe-os-kpis)
+  - [4. Para saber mais: aprimorando o monitoramento de KPIs no Power BI](#4-para-saber-mais-aprimorando-o-monitoramento-de-kpis-no-power-bi)
+  - [5. Monitore as metas](#5-monitore-as-metas)
+  - [6. Visualizando metas na Clínica Médica Voll](#6-visualizando-metas-na-clínica-médica-voll)
+  - [7. Revele padrões com gráficos de dispersão](#7-revele-padrões-com-gráficos-de-dispersão)
+  - [8. Faça como eu fiz: entendendo a correlação entre duas categorias](#8-faça-como-eu-fiz-entendendo-a-correlação-entre-duas-categorias)
+  - [9. O que aprendemos?](#9-o-que-aprendemos)
 
 ## 1. Projeto da aula anterior
+Caso prefira, você pode acessar o [projeto da aula 1](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/4099f5792dd83a1f4a69a5005f8f69238cf57fdf/Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/src/preparando_ambiente_analisando_visualizando_dados.pbix) no ponto em que paramos na aula anterior
 
 [↑ Voltar ao topo](#topo)
 

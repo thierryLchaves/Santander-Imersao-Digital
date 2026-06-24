@@ -105,7 +105,8 @@ Teste as dicas de ferramenta em diferentes visuais e dispositivos para garantir 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 5. Utilize um parâmetro de campo
+## 5. Utilize um parâmetro de campo  
+
 O próximo gráfico que iremos construir, será um novo gráfico de barras a priori, porém com o objetivo de entender como o faturamento irá se comportar por 3 categorias diferentes, sendo a _marca, origem e categoria_, de modo prático poderíamos construir uma visualização  conforme da imagem abaixo:  
 
 <table style="text-align: center; width: 100%;"> 
@@ -116,34 +117,105 @@ O próximo gráfico que iremos construir, será um novo gráfico de barras a pri
 </tr>
 </table>
 
-Porém ainda assim temos a possibilidade, através de um recurso do Power B.I que nos auxilia a otimizar espaço e deixar  a imagem mais dinâmica, e esse recurso é através da adição de um __parâmetro__ 
+Porém ainda assim temos a possibilidade, através de um recurso do Power B.I que nos auxilia a otimizar espaço e deixar  a imagem mais dinâmica, e esse recurso é através da adição de um __parâmetro__, para isso iremos acessar a guia de Modelagem  -> Novo Parâmetro _(nesse botão teremos 2 opções intervalo numérico e campos, por hora vamos nos ater na opção de Campos)_, com tal opção selecionada seremos apresentados a seguinte tela:  
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/param.png" alt="tela padrão parâmetros" width="50%"/>
+    </td>
+</tr>
+</table>
+
+O seu preenchimento se da como na imagem, primeiro nomeamos o parâmetro e depois selecionamos os valores possíveis, e ao selecionar a opção de criar esse parâmetro será adicionado a nossa tela, porém para que o parâmetro funcione conforme desejado, é necessário modificarmos nosso gráfico para que nosso eixo anterior, no caso o eixo `y` receba esse parâmetro o que irpa tornar a visualização desse card responsivo a sua seleção, o que consecutivamente nos possibilita um melhor aproveitamento de tela, pois no lugar de 3 gráficos temos apenas 1 que irá modificar as informações apresentadas conforme sua seleção vide imagens abaixo: 
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/graficos_parametro.png" alt="Gráfico por parâmetro" width="100%"/>
+    </td>
+</tr>
+</table>
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 6. Otimizando análises no Power BI com parâmetros de campo
+## 6. Otimizando análises no Power BI com parâmetros de campo  
+
+Você aprendeu a otimizar a visualização de dados utilizando o parâmetro de campo para analisar diferentes aspectos do faturamento de um banco digital, o Bytebank. Após implementar essa técnica, você percebeu uma melhoria significativa na forma como os dados são apresentados, permitindo uma análise mais dinâmica e flexível. Agora, você está diante de um desafio: avaliar qual seria a melhor forma de apresentar os dados para uma reunião estratégica, onde o foco é entender o desempenho do banco em determinados setores.
+
+Considerando o objetivo da reunião estratégica do Bytebank e os conhecimentos adquiridos no curso, qual das seguintes opções justifica melhor a escolha de utilizar o parâmetro de campo para analisar o faturamento por origem, categoria e marca em um único gráfico?
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/Prova_Questoes/Resp_1.png" alt="Resposta Otimizando análises no Power BI com parâmetros de campo" width="45%"/>
+    </td>
+</tr>
+</table>
 
 [↑ Voltar ao topo](#topo)
 
 ---
-## 7. Faça como eu fiz: praticando com o parâmetro
+## 7. Faça como eu fiz: praticando com o parâmetro  
+
+Agora vamos trabalhar com os parâmetros de campo. Dessa maneira vamos descobrir como otimizar espaço e trazer mais dinamismo para nosso visual. Vamos também dar mais poder de escolha para o usuário final, para que ele escolha como deseja visualizar a comparação das categorias.
+
+__Opinião do instrutor__  
+
+Vamos usar o __parâmetro de campo__, clicando em modelagem, no menu superior, novo parâmetro e, em seguida, campos.  
+
+<table style="text-align: center; width: 50%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/faca_como_fiz/faca_fiz_1.png" alt="faça como eu fiz 1" width="45%"/>
+    </td>
+</tr>
+</table>
+
+Na nova aba iremos adicionar os fatores que serão analisados: __origem, categoria e marca__  
+
+Perceba que uma nova tabela foi criada.  
+
+<table style="text-align: center; width: 50%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/faca_como_fiz/faca_fiz_2.png" alt="faça como eu fiz 2" width="30%"/>
+    </td>
+</tr>
+</table>
+
+E podemos agora pegar um dos gráficos e substituir o `eixo Y` para “fatores” o nosso parâmetro de campo.
+
+Para finalizar, vamos add um filtro com esse parâmetro, dessa forma podemos alterar o eixo do gráfico.
+
+<table style="text-align: center; width: 100%;"> 
+<tr>
+    <td style="text-align: left;">
+    <img src="imgs/faca_como_fiz/faca_fiz_3.png" alt="faça como eu fiz 3" width="50%"/>
+    </td>
+</tr>
+</table>
+
+O parâmetro de campo é um recurso que permite ao usuário alterar dinamicamente os campos que estão sendo analisados em uma visualização. Isso pode incluir a troca de colunas ou medidas usadas em gráficos e tabelas sem a necessidade de criar visualizações separadas para cada campo.
+
+Esse recurso torna os relatórios mais interativos e flexíveis, proporcionando uma maneira fácil de explorar diferentes perspectivas dos dados com base nas necessidades específicas do usuário.  
 
 [↑ Voltar ao topo](#topo)
 
 ---
 ## 8. O que aprendemos?
 
-[↑ Voltar ao topo](#topo)
-
----
-
-<!-- <table style="text-align: center; width: 100%;"> 
+<table style="text-align: center; width: 100%;"> 
 <tr>
     <td style="text-align: left;">
-    <img src="imgs/ex.png" alt="Nome do print" width="45%"/>
+    <img src="imgs/oque_aprendemos.png" alt="faça como eu fiz 3" width="50%"/>
     </td>
 </tr>
-</table> -->
+</table>
+
+
+[↑ Voltar ao topo](#topo)
 
 ---
 
@@ -167,5 +239,5 @@ Porém ainda assim temos a possibilidade, através de um recurso do Power B.I qu
 __Titulo:__ Selecionando visuais para categorias
 __Autor:__ Thierry Lucas Chaves  
 __Data de Criação:__ 19-06-2026  
-__Data de Modificação:__ 19-06-2026  
+__Data de Modificação:__ 23-06-2026  
 __Versão:__ "1.0"
