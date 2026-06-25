@@ -1036,7 +1036,7 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] O que aprendemos?
         - [x] Conclusão
 
-- [ ] **[Power BI: Visualizando e analisando dados](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/)**
+- [x] **[Power BI: Visualizando e analisando dados](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/)**
     - [x] **[Analisando categorias](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/01_Analisando_categorias/AnalisandoCategorias.md)**
         - [x] Apresentação
         - [x] Para saber mais: conta gratuita indisponível
@@ -1066,33 +1066,33 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
         - [x] Decifrando o faturamento da Opuline
         - [x] Faça como eu fiz: trabalhando com tendências e previsões
         - [x] O que aprendemos?
-    - [ ] **[Monitorando outros indicadores](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/04_Monitorando_outros_indicadores/MonitorandoOutrosIndicadores.md)**
+    - [x] **[Monitorando outros indicadores](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/04_Monitorando_outros_indicadores/MonitorandoOutrosIndicadores.md)**
         - [x] Projeto da aula anterior
-        - [ ] Visualize dados em mapas
-        - [ ] Acompanhe os KPIs
-        - [ ] Para saber mais: aprimorando o monitoramento de KPIs no Power BI
-        - [ ] Monitore as metas
-        - [ ] Visualizando metas na Clínica Médica Voll
-        - [ ] Revele padrões com gráficos de dispersão
-        - [ ] Faça como eu fiz: entendendo a correlação entre duas categorias
-        - [ ] O que aprendemos?
-    - [ ] **[Estruturando o relatório](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/05_Estruturando_o_relatorio/EstruturandoORelatorio.md)**
-        - [ ] Projeto da aula anterior
-        - [ ] Trabalhando com temas
-        - [ ] Aplicando a identidade visual da Opuline
-        - [ ] Inserindo o layout final
-        - [ ] Para saber mais: seleção e indicadores
-        - [ ] Finalizando página de vendas
-        - [ ] Estilizando página de produtos
-        - [ ] Navegação entre botões
-        - [ ] Para saber mais: menu sanduíche
-        - [ ] Mão na massa: estruture uma apresentação
-        - [ ] Para saber mais: aprimorando o design e a navegação de relatórios
-        - [ ] Faça como eu fiz: utilizando botões para navegação
-        - [ ] Projeto final
-        - [ ] Para ir mais fundo
-        - [ ] O que aprendemos?
-        - [ ] Conclusão
+        - [x] Visualize dados em mapas
+        - [x] Acompanhe os KPIs
+        - [x] Para saber mais: aprimorando o monitoramento de KPIs no Power BI
+        - [x] Monitore as metas
+        - [x] Visualizando metas na Clínica Médica Voll
+        - [x] Revele padrões com gráficos de dispersão
+        - [x] Faça como eu fiz: entendendo a correlação entre duas categorias
+        - [x] O que aprendemos?
+    - [x] **[Estruturando o relatório](Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/05_Estruturando_o_relatorio/EstruturandoORelatorio.md)**
+        - [x] Projeto da aula anterior
+        - [x] Trabalhando com temas
+        - [x] Aplicando a identidade visual da Opuline
+        - [x] Inserindo o layout final
+        - [x] Para saber mais: seleção e indicadores
+        - [x] Finalizando página de vendas
+        - [x] Estilizando página de produtos
+        - [x] Navegação entre botões
+        - [x] Para saber mais: menu sanduíche
+        - [x] Mão na massa: estruture uma apresentação
+        - [x] Para saber mais: aprimorando o design e a navegação de relatórios
+        - [x] Faça como eu fiz: utilizando botões para navegação
+        - [x] Projeto final
+        - [x] Para ir mais fundo
+        - [x] O que aprendemos?
+        - [x] Conclusão
 
 </details>
 
@@ -1137,5 +1137,5 @@ Ao ser concluída uma nova aula deverá ser preenchido o [Check Box de conclusã
 __Titulo:__ Readme  
 __Autor:__ Thierry Lucas Chaves    
 __Data de Criação:__ 23-04-2026    
-__Data de Modificação:__ 21-06-2026   
+__Data de Modificação:__ 25-06-2026   
 __Versão:__ "10.0"  

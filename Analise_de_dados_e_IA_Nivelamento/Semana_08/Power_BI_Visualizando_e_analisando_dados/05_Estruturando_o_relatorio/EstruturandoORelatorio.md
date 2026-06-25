@@ -487,7 +487,7 @@ Ao criar botões de navegação permitimos que os usuários saltem diretamente p
 ---
 ## 13. Projeto final
 
-Se desejar, você pode conferir o [projeto completo do curso]().
+Se desejar, você pode conferir o [projeto completo do curso](https://github.com/thierryLchaves/Santander-Imersao-Digital/blob/da97eff09c9fb1f01ae7ee2f866cf2ab12fd8378/Analise_de_dados_e_IA_Nivelamento/Semana_08/Power_BI_Visualizando_e_analisando_dados/src/Projeto_final%20(1).pbix).
 
 [↑ Voltar ao topo](#topo)
 
